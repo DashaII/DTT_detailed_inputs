@@ -62,19 +62,18 @@ if __name__ == '__main__':
     optimizer = AdamW(model.parameters(), lr=configs.LEARNING_RATE)
 
     # --- TRAIN ---
-    # train(train_data_loader=train_dataloader, valid_data_loader=valid_dataloader, model=model, optimizer=optimizer,
-    #       device=device)
+    train(train_data_loader=train_dataloader, valid_data_loader=valid_dataloader, model=model, optimizer=optimizer,
+          device=device)
 
     # --- GENERATE ---
     finetuned_model = GPT2LMHeadModel.from_pretrained(configs.MODEL_PATH)
+
     test_triple1 = {
         'gem_id': 'web_nlg_ru-validation-50',
         'gem_parent_id': 'web_nlg_ru-validation-50',
         'input': ['Perth | country | Australia'],
         'target': 'Перт находится в Австралии.',
         'references': ['Перт находится в Австралии.', 'Перт находится в Австралии.'],
-        'category': 'Building',
-        'webnlg_id': 'dev/Building/1/Id4'
     }
     test_triple2 = {
         'gem_id': 'web_nlg_ru-validation-100',
@@ -82,17 +81,14 @@ if __name__ == '__main__':
         'input': ['Sheldon Moldoff | award | Inkpot Award'],
         'target': 'Премию Inkpot получил Шелдон Молдофф.',
         'references': ['Премию Inkpot получил Шелдон Молдофф.', 'Шелдон Молдофф получил премию Inkpot.'],
-        'category': 'ComicsCharacter',
-        'webnlg_id': 'dev/ComicsCharacter/1/Id4'
     }
+
     generated = generate_one(test_triple2, tokenizer, finetuned_model, device)
     print(generated)
 
-    # ['Estádio_Municipal_Coaracy_da_Mata_Fonseca | location | Arapiraca', 'Agremiação_Sportiva_Arapiraquense | league | Campeonato_Brasileiro_Série_C', 'Campeonato_Brasileiro_Série_C | country | Brazil', 'Agremiação_Sportiva_Arapiraquense | nickname | "\'\'Alvinegro"', 'Agremiação_Sportiva_Arapiraquense | ground | Estádio_Municipal_Coaracy_da_Mata_Fonseca']
-    # ['Nie_Haisheng | birthDate | 1964-10-13', 'Nie_Haisheng | occupation | Fighter_pilot']
-    # ['MotorSport_Vision | city | Fawkham']
-
     test_dataset = datasets.load_dataset(path='GEM/web_nlg', name=configs.LANG, split=configs.TEST_SPLIT)
-    test_sample = get_test_sample(test_dataset, 3)
-    generated_list = generate_list(test_sample, tokenizer, finetuned_model, device)
-    save_to_file(generated_list, "results_generated_2.txt")
+    # test_dataset = get_test_sample(test_dataset, 10)
+    generated_output, generated_full = generate_list(test_dataset, tokenizer, finetuned_model, device)
+
+    save_to_file(generated_full, "results_generated_full.txt")
+    save_to_file(generated_output, "results_generated.txt")

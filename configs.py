@@ -4,8 +4,8 @@ import os
 
 SPECIAL_TOKENS = ['<|triple|>', '<|target|>', '<|endoftext|>']
 
-LEARNING_RATE = 5e-5
-EPOCHS = 3
+LEARNING_RATE = 1e-6
+EPOCHS = 50
 BATCH_SIZE = 8
 
 # en OR ru
@@ -22,5 +22,6 @@ TEST_SPLIT = 'test'
 DATASET_SIZE = None
 
 MODEL_NAME = "model_state.pt"
-MODEL_PATH = os.path.join(os.curdir, 'model', 'gpt2_webnlg')
+MODEL_PATH = os.path.join(os.curdir, 'model_10_49', 'gpt2_webnlg_epoch49')
+MODEL_PATH_FOLDER = 'model_'
 

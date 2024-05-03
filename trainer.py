@@ -4,10 +4,12 @@ import configs
 from tqdm import tqdm
 import torch
 from logzero import logger
+import os
 
 
 def train(train_data_loader, valid_data_loader, model, optimizer, device):
     logger.info('Start training...')
+    max_accuracy = 0
     for epoch in range(configs.EPOCHS):
         model.train()
         logger.info(f'\n====== Epoch {epoch+1}/{configs.EPOCHS} Training ======')
@@ -34,11 +36,14 @@ def train(train_data_loader, valid_data_loader, model, optimizer, device):
                 accuracy = evaluate(valid_data_loader, model, device)
                 logger.info(f'\nAccuracy: {accuracy}')
 
-        accuracy = evaluate(valid_data_loader, model, device)
-        logger.info(f'\nAccuracy after epoch {epoch + 1}: {accuracy}')
+        valid_accuracy = evaluate(valid_data_loader, model, device)
+        logger.info(f'\nVALID Accuracy after epoch {epoch + 1}: {valid_accuracy}')
+        accuracy = evaluate(train_data_loader, model, device)
+        logger.info(f'\nTRAIN Accuracy after epoch {epoch + 1}: {accuracy}')
 
-    # torch.save(model.state_dict(), configs.MODEL_NAME)
-    model.save_pretrained(configs.MODEL_PATH)
+        if valid_accuracy > max_accuracy:
+            max_accuracy = valid_accuracy
+            model.save_pretrained(os.path.join(os.curdir, configs.MODEL_PATH_FOLDER+str(epoch+1), 'gpt2_webnlg_epoch'+str(epoch+1)))
 
 
 def evaluate(valid_data_loader, model, device):
@@ -84,9 +89,13 @@ def generate_one(webnlg_triples, tokenizer, model, device):
 
     inp = tokenizer(inp, return_tensors='pt')
     input_ids = inp['input_ids'].to(device)
-    # attention_mask = inp['attention_mask'].to(device)
+    attention_mask = inp['attention_mask'].to(device)
 
-    output = model.generate(input_ids, max_length=200)
+    # output = model.generate(input_ids, max_length=200)
+    # output = tokenizer.decode(output[0], skip_special_tokens=True)
+
+    output = model.generate(input_ids, attention_mask=attention_mask, max_length=200,
+                            pad_token_id=tokenizer.eos_token_id)
     output = tokenizer.decode(output[0], skip_special_tokens=True)
 
     return output
@@ -95,20 +104,26 @@ def generate_one(webnlg_triples, tokenizer, model, device):
 def generate_list(webnlg_test_data, tokenizer, model, device):
     model.eval()
 
+    outputs_txt = []
     outputs = []
-    for item in webnlg_test_data:
+    for idx, item in enumerate(webnlg_test_data):
 
         inp = ''
+        raw_inp = ''
         for triple in item['input']:
+            raw_inp += triple
+            triple = triple.replace("_", " ")
             inp += '<|triple|>' + triple
-        # inp += '<|target|>'
 
-        inp = tokenizer(inp, return_tensors='pt')
+        inp = tokenizer(inp, return_tensors='pt', padding=True)
         input_ids = inp['input_ids'].to(device)
-        # attention_mask = inp['attention_mask'].to(device)
+        attention_mask = inp['attention_mask'].to(device)
 
-        output = model.generate(input_ids, max_length=500)
+        output = model.generate(input_ids, attention_mask=attention_mask, max_length=500, pad_token_id=tokenizer.eos_token_id)
         output = tokenizer.decode(output[0], skip_special_tokens=True)
-        outputs.append(output)
 
-    return outputs
+        outputs_txt.append(str(idx+1) + " triple > " + raw_inp)
+        outputs_txt.append(str(idx+1) + " text   > " + output[len(raw_inp):])
+        outputs.append(output[len(raw_inp):])
+
+    return outputs, outputs_txt

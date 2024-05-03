@@ -63,16 +63,3 @@ class WebNLGData(Dataset):
 
     def __getitem__(self, idx):
         return self.input_ids[idx], self.attention_mask[idx], self.reference_mask[idx]
-
-    # def parse_data_into_examples(self, item):
-    #     examples = []
-    #
-    #     input = item['input']
-    #     target = item['target']
-    #
-    #     example = ''
-    #     for triple in input:
-    #         example += '<|triple|>' + triple
-    #     example += '<|target|>' + target + '<|endoftext|>'
-    #
-    #     return examples
