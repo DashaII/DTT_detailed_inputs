@@ -5,15 +5,16 @@ from tqdm import tqdm
 import torch
 from logzero import logger
 import os
+from WebNLGData import transform_triple
 
 
-def train(train_data_loader, valid_data_loader, model, optimizer, device):
+def train(train_data_loader, valid_data_loader, model, optimizer, scheduler, device):
     logger.info('Start training...')
     max_accuracy = 0
     for epoch in range(configs.EPOCHS):
         model.train()
         logger.info(f'\n====== Epoch {epoch+1}/{configs.EPOCHS} Training ======')
-        for i, (input_ids, attention_mask, reference_mask) in enumerate(tqdm(train_data_loader)):
+        for i, (input_ids, attention_mask, reference_mask) in enumerate(train_data_loader):
             input_ids = input_ids.to(device)
             attention_mask = attention_mask.to(device)
             reference_mask = reference_mask.to(device)
@@ -29,31 +30,36 @@ def train(train_data_loader, valid_data_loader, model, optimizer, device):
             loss = output.loss
             loss.backward()
             optimizer.step()
+            scheduler.step()
+            optimizer.zero_grad()
 
             if i > 0 and i % 100 == 0:
                 logger.info(f'loss: {output["loss"]}')
             if i > 0 and i % 2000 == 0:
-                accuracy = evaluate(valid_data_loader, model, device)
-                logger.info(f'\nAccuracy: {accuracy}')
+                accuracy, loss = evaluate(valid_data_loader, model, device)
+                logger.info(f'\nVALID Accuracy: {accuracy}')
+                logger.info(f'\nVALID Loss: {loss}')
 
-        valid_accuracy = evaluate(valid_data_loader, model, device)
+        valid_accuracy, valid_loss = evaluate(valid_data_loader, model, device)
         logger.info(f'\nVALID Accuracy after epoch {epoch + 1}: {valid_accuracy}')
-        accuracy = evaluate(train_data_loader, model, device)
-        logger.info(f'\nTRAIN Accuracy after epoch {epoch + 1}: {accuracy}')
+        logger.info(f'\nVALID Loss after epoch {epoch + 1}: {valid_loss}')
+        train_accuracy, train_loss = evaluate(train_data_loader, model, device)
+        logger.info(f'\nTRAIN Accuracy after epoch {epoch + 1}: {train_accuracy}')
 
         if valid_accuracy > max_accuracy:
             max_accuracy = valid_accuracy
             model.save_pretrained(os.path.join(os.curdir, configs.MODEL_PATH_FOLDER+str(epoch+1), 'gpt2_webnlg_epoch'+str(epoch+1)))
 
 
-def evaluate(valid_data_loader, model, device):
+def evaluate(data_loader, model, device):
     model.eval()
 
     correct_predictions_sum = 0
     total_predictions = 0
+    total_loss = 0
 
     with torch.no_grad():
-        for input_ids, attention_mask, reference_mask in valid_data_loader:
+        for input_ids, attention_mask, reference_mask in data_loader:
             input_ids = input_ids.to(device)
             attention_mask = attention_mask.to(device)
             reference_mask = reference_mask.to(device)
@@ -63,6 +69,7 @@ def evaluate(valid_data_loader, model, device):
 
             outputs = model(input_ids=input_ids, attention_mask=attention_mask, labels=labels)
             pred = torch.argmax(outputs.logits, dim=-1)
+            total_loss += outputs.loss.item()
 
             # Drop the last prediction
             pred = pred[:, :-1]
@@ -76,7 +83,8 @@ def evaluate(valid_data_loader, model, device):
             total_predictions += labels_mask.sum().item()
 
     accuracy = correct_predictions_sum / total_predictions
-    return accuracy
+    valid_loss = total_loss / len(data_loader)
+    return accuracy, valid_loss
 
 
 def generate_one(webnlg_triples, tokenizer, model, device):
@@ -84,7 +92,8 @@ def generate_one(webnlg_triples, tokenizer, model, device):
 
     inp = ''
     for triple in webnlg_triples['input']:
-        inp += '<|triple|>' + triple
+        triple_transformed = transform_triple(triple)
+        inp += '<|triple|>' + triple_transformed
     # inp += '<|target|>'
 
     inp = tokenizer(inp, return_tensors='pt')
@@ -106,14 +115,17 @@ def generate_list(webnlg_test_data, tokenizer, model, device):
 
     outputs_txt = []
     outputs = []
-    for idx, item in enumerate(webnlg_test_data):
+    for idx, item in enumerate(tqdm(webnlg_test_data)):
 
         inp = ''
         raw_inp = ''
+        raw_inp_length = 0
         for triple in item['input']:
-            raw_inp += triple
-            triple = triple.replace("_", " ")
-            inp += '<|triple|>' + triple
+            # triple = triple.replace("_", " ")
+            triple_transformed = transform_triple(triple)
+            inp += '<|triple|>' + triple_transformed
+            raw_inp += triple_transformed + ", "
+            raw_inp_length += len(triple_transformed)
 
         inp = tokenizer(inp, return_tensors='pt', padding=True)
         input_ids = inp['input_ids'].to(device)
@@ -123,7 +135,7 @@ def generate_list(webnlg_test_data, tokenizer, model, device):
         output = tokenizer.decode(output[0], skip_special_tokens=True)
 
         outputs_txt.append(str(idx+1) + " triple > " + raw_inp)
-        outputs_txt.append(str(idx+1) + " text   > " + output[len(raw_inp):])
+        outputs_txt.append(str(idx+1) + " text   > " + output[raw_inp_length:])
         outputs.append(output[len(raw_inp):])
 
     return outputs, outputs_txt
