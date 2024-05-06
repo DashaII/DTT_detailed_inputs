@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
 
-from transformers import GPT2LMHeadModel, GPT2Tokenizer, AdamW
+from transformers import GPT2LMHeadModel, get_scheduler
 from WebNLGData import WebNLGData
 from torch.utils.data import DataLoader
 import torch
+from torch.optim import AdamW
 import configs
 from trainer import train, generate_list, generate_one
 import datasets
@@ -58,12 +59,15 @@ if __name__ == '__main__':
     # len(tokenizer) already includes special tokens and padding
     print("tokenizer len", len(tokenizer))
     model.resize_token_embeddings(len(tokenizer))
-    # optimizer
+    # optimizer and scheduler
     optimizer = AdamW(model.parameters(), lr=configs.LEARNING_RATE)
+    num_training_steps = configs.EPOCHS * len(train_dataloader)
+    scheduler = get_scheduler(name="linear", optimizer=optimizer, num_warmup_steps=0,
+                              num_training_steps=num_training_steps)
 
     # --- TRAIN ---
-    train(train_data_loader=train_dataloader, valid_data_loader=valid_dataloader, model=model, optimizer=optimizer,
-          device=device)
+    # train(train_data_loader=train_dataloader, valid_data_loader=valid_dataloader, model=model, optimizer=optimizer,
+    #       scheduler=scheduler, device=device)
 
     # --- GENERATE ---
     finetuned_model = GPT2LMHeadModel.from_pretrained(configs.MODEL_PATH)
@@ -87,8 +91,8 @@ if __name__ == '__main__':
     print(generated)
 
     test_dataset = datasets.load_dataset(path='GEM/web_nlg', name=configs.LANG, split=configs.TEST_SPLIT)
-    # test_dataset = get_test_sample(test_dataset, 10)
+    # test_dataset = get_test_sample(test_dataset, 20)
     generated_output, generated_full = generate_list(test_dataset, tokenizer, finetuned_model, device)
 
-    save_to_file(generated_full, "results_generated_full.txt")
-    save_to_file(generated_output, "results_generated.txt")
+    save_to_file(generated_full, "results/results_generated_full_12.txt")
+    save_to_file(generated_output, "results/results_generated_12.txt")

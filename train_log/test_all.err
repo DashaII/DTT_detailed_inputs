@@ -56,6 +56,32 @@ size None
 MODEL_PATH = os.path.join(os.curdir, 'model_11_', 'gpt2_webnlg')
 
 
+12 +scheduler +zero_grad() -> repeat test 5
+LEARNING_RATE = 1e-5
+EPOCHS = 12
+BATCH_SIZE = 8
+size None
+MODEL_PATH = os.path.join(os.curdir, 'model_12_', 'gpt2_webnlg')
+
+
+13 +data transformation -> repeat test 12
+LEARNING_RATE = 1e-5
+EPOCHS = 12
+BATCH_SIZE = 8
+size None
+MODEL_PATH = os.path.join(os.curdir, 'model_13_', 'gpt2_webnlg')
+
+
+14 +data transformation FIX
+LEARNING_RATE = 1e-5
+EPOCHS = 30
+BATCH_SIZE = 8
+size None
+MODEL_PATH = os.path.join(os.curdir, 'model_14_', 'gpt2_webnlg')
+
+
+
+
 
 
 

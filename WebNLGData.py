@@ -4,6 +4,20 @@ from torch.utils.data import Dataset
 import datasets
 import transformers
 import configs
+import re
+
+
+def transform_triple(triple):
+    res_triple = triple.replace("_", " ")
+    triple_split = res_triple.split("|")
+    # camel_to_space = re.sub('([A-Z][a-z]+)', r' \1', re.sub('([A-Z]+)', r' \1', triple_split[1]))
+    camel_to_space = re.sub(r'((?<=[a-z])[A-Z]|(?<!\A)[A-Z](?=[a-z]))', r' \1', triple_split[1])
+    triple_split[1] = camel_to_space.lower()
+    if triple_split[2][-2:] == '.0' and triple_split[2][:-2].strip().isdigit():
+        triple_split[2] = triple_split[2][:-2]
+    res_triple = triple_split[0] + "|" + triple_split[1] + "|" + triple_split[2]
+
+    return res_triple
 
 
 class WebNLGData(Dataset):
@@ -29,8 +43,8 @@ class WebNLGData(Dataset):
                 if 100 <= idx < 100 + size:
                     example = ''
                     for triple in item['input']:
-                        triple = triple.replace("_", " ")
-                        example += '<|triple|>' + triple
+                        transformed_triple = transform_triple(triple)
+                        example += '<|triple|>' + transformed_triple
                     triples.append(example)
                     example += '<|target|>' + item['target'] + '<|endoftext|>'
                     data.append(example)
@@ -55,11 +69,10 @@ class WebNLGData(Dataset):
         self.reference_mask[:, :triple_len][triples_attention_mask == 1] = 0
 
         print("split: ", split, "len:", len(self.data))
-        # print(self.data[len(self.data)-1])
-        # print(self.input_ids[len(self.data)-1])
 
     def __len__(self):
         return len(self.data)
 
     def __getitem__(self, idx):
         return self.input_ids[idx], self.attention_mask[idx], self.reference_mask[idx]
+
