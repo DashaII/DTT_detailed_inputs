@@ -1,0 +1,2 @@
+1. _datasets_interim_ folder contains original WebNLG data and intermediate representations for both simplified AMRs and flat plan (train and validation).
+2. _datasets_results_ folder contains final generated test datasets for baseline, simplified AMR and flat plan pipelines
