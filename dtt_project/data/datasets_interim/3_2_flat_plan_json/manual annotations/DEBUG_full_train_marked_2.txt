@@ -1,0 +1,2737 @@
+456
+id: 994
+key_split: c. 1944
+target: ____________ jones sadly died circa *1944*.
+full_target: alfred garth jones sadly died circa 1944.
+reply: c 1944
+
+id: 1498
+key_split: 1930-01-20
+target: ___________ was born on january *201930*.
+full_target: buzz aldrin was born on january 201930.
+reply: not found
+
+id: 1631
+key_split: united states
+target: ______________' title is the *us* ambassador to norway.
+full_target: william anders' title is the us ambassador to norway.
+reply: not found
+
+id: 2341
+key_split: colmore row
+target: ___________ row is in *birmingham england*.
+full_target: 103 colmore row is in birmingham england.
+reply: colmore row
+
+id: 3061
+key_split: c. woods
+target: *c woods* discovered ___________.
+full_target: c woods discovered 107 camilla.
+reply: not found
+
+id: 3316
+key_split: 0.54
+target: there is *.54* square kilometers of water in ______ oregon.
+full_target: there is .54 square kilometers of water in albany oregon.
+reply: 054
+
+id: 3409
+key_split: -7
+target: _______ california has a utc offset of *- 7*.
+full_target: anaheim california has a utc offset of - 7.
+reply: -7
+
+id: 4294
+key_split: cities of
+target: ___________ is a *city in the philippines*.
+full_target: quezon city is a city in the philippines.
+reply: not found
+
+id: 4983
+key_split: president of
+target: the leader of the _____________ is called *the president*.
+full_target: the leader of the united states is called the president.
+reply: not found
+
+id: 5796
+key_split: rock
+target: dead ____s plack is made from *stone*.
+full_target: dead man's plack is made from stone.
+reply: not found
+
+id: 5949
+key_split: spain
+target: ______________ is *spanish*.
+full_target: abel caballero is spanish.
+reply: not found
+
+id: 5996
+key_split: american
+target: __________ ribicoff was a national of the *united states*.
+full_target: abraham a. ribicoff was a national of the united states.
+reply: not found
+
+id: 6648
+key_split: a.s. roma
+target: *as roma* has 70634 members.
+full_target: as roma has 70634 members.
+reply: not found
+
+id: 7178
+key_split: switzerland
+target: _______________________ is the *swiss* leader.
+full_target: johann schneider-ammann is the swiss leader.
+reply: switzerland
+
+id: 8291
+key_split: electric guitar
+target: !aaron turners plays _______________guitar.
+full_target: aaron turners plays electracoustic guitar.
+reply: not found
+
+id: 9065
+key_split: u.s. citta
+target: ______________'s club is *us citta* di palermo and he has also played for _______________.
+full_target: abel hernandez's club is us citta di palermo and he has also played for central espanol.
+reply: uc città
+
+id: 9516
+key_split: los angeles
+target: ___________ once played for the ________________ who are located in *la*.
+full_target: akeem ayers once played for the los angeles rams who are located in la.
+reply: los angeles
+
+id: 9562
+key_split: colmore row
+target: number 103 in _______ *row* was completed in 1976.
+full_target: number 103 in colmore row was completed in 1976.
+reply: colmore row
+
+id: 9998
+key_split: president of
+target: ____________ avenue is located in the _____________ whose leader has the title of *president*.
+full_target: 250 delaware avenue is located in the united states whose leader has the title of president.
+reply: not found
+
+id: 10206
+key_split: e. wells
+target: *e wells* discovered ___________ which has an epoch date of 31 december ____.
+full_target: e wells discovered 107 camilla which has an epoch date of 31 december 2006.
+reply: not found
+
+id: 10212
+key_split: n. r.
+target: ___________ was discovered by *nr* pogson who is ____ish.
+full_target: 107 camilla was discovered by nr pogson who is english.
+reply: n r
+
+id: 10497
+key_split: -7
+target: _______ california has a utc offset of *- 7* and a total area of _____ square kilometres.
+full_target: anaheim california has a utc offset of - 7 and a total area of 131.6 square kilometres.
+reply: -7
+
+id: 10599
+key_split: united states
+target: !atlanta is part of _____________ in georgia *u.s*.
+full_target: atlanta is part of fulton county in georgia u.s.
+reply: united states
+
+id: 10625
+key_split: georgia
+target: !_______ can be found in the us state of _______.
+full_target: atlanta can be found in the us state of georgia.
+reply: not found
+
+id: 10626
+key_split: georgia
+target: !_______ is part of _______ in the united states.
+full_target: atlanta is part of georgia in the united states.
+reply: not found
+
+id: 10995
+key_split: bibbo bibbowski
+target: bo bibbowski otherwise known as *bibbo* was created by jerry ordway.
+full_target: bo bibbowski otherwise known as bibbo was created by jerry ordway.
+reply: bibbo bibbowski
+
+id: 11321
+key_split: spain
+target: ______ is an ingredient in the *spanish* dish _________.
+full_target: almond is an ingredient in the spanish dish ajoblanco.
+reply: not found
+
+id: 11438
+key_split: spain
+target: ___________ is a traditional *spanish* dish made with _________.
+full_target: arros negre is a traditional spanish dish made with cubanelle.
+reply: not found
+
+id: 11595
+key_split: bacon
+target: !the main ingredients of _______________ are both ____n and sausage.
+full_target: the main ingredients of bacon explosion are both bacon and sausage.
+reply: bacon
+
+id: 11749
+key_split: bandeja paisa
+target: !_____________ (colombia) includes the ingredient kidney beans.
+full_target: bandeja paisa (colombia) includes the ingredient kidney beans.
+reply: not found
+
+id: 12130
+key_split: 2009-04-04
+target: the christening date of aidaluna which is 242000.0 mms in length is the *4th april 2004*.
+full_target: the christening date of aidaluna which is 242000.0 mms in length is the 4th april 2004.
+reply: not found
+
+id: 12136
+key_split: 252000.0
+target: at *252* metres long the aidaluna is powered by ________________
+full_target: at 252 metres long the aidaluna is powered by caterpillar inc.
+reply: not found
+
+id: 12138
+key_split: 252000.0
+target: the aidaluna is *252m* long and has a ________________ engine.
+full_target: the aidaluna is 252m long and has a caterpillar inc. engine.
+reply: not found
+
+id: 12146
+key_split: 252000.0
+target: the aidaluna is *252* metres in length and is a ____________ cruise ship.
+full_target: the aidaluna is 252 metres in length and is a sphinx class cruise ship.
+reply: not found
+
+id: 12147
+key_split: 252000.0
+target: the aidaluna is *252m* long and is a ____________ cruise ship.
+full_target: the aidaluna is 252m long and is a sphinx class cruise ship.
+reply: not found
+
+id: 12743
+key_split: baku turkish
+target: *turkish martyrs' memorial* is located in baku the capital of azerbaijan.
+full_target: turkish martyrs' memorial is located in baku the capital of azerbaijan.
+reply: not found
+
+id: 12872
+key_split: nigeria
+target: ____________________ is from *nig* where _____________ is the leader.
+full_target: abdulsalami abubakar is from nig where yemi osinbajo is the leader.
+reply: not found
+
+id: 13039
+key_split: polish–soviet war
+target: adam koc who was awarded the virtuti militari was involved in battle of the *polish-soviet war*.
+full_target: adam koc who was awarded the virtuti militari was involved in battle of the polish-soviet war.
+reply: polish–soviet war
+
+id: 13177
+key_split: 1856
+target: !_________ white was born __________.
+full_target: albert b. white was born 09/22/1856.
+reply: not found
+
+id: 13178
+key_split: 1856
+target: !_________ white was born on the 22nd of september ____.
+full_target: albert b. white was born on the 22nd of september 1856.
+reply: not found
+
+id: 13179
+key_split: 1856
+target: !_________ white was born on the 22nd of september in ____.
+full_target: albert b. white was born on the 22nd of september in 1856.
+reply: not found
+
+id: 13343
+key_split: united states
+target: alfred n. phillips was a member of the *us* army which fought in the ______________________ war.
+full_target: alfred n. phillips was a member of the us army which fought in the american revolutionary war.
+reply: not found
+
+id: 13618
+key_split: a.d. isidro
+target: once manager of *a d isidro* metapan ______________ rodriguez plays for the el salvador national football team.
+full_target: once manager of a d isidro metapan jorge humberto rodriguez plays for the el salvador national football team.
+reply: a isidro
+
+id: 13761
+key_split: a.s. roma
+target: *as roma* has 70634 members and their grounds are in rome.
+full_target: as roma has 70634 members and their grounds are in rome.
+reply: not found
+
+id: 14196
+key_split: hiv
+target: !the ____ journal in concerned with the study of ________.
+full_target: the aids journal in concerned with the study of aids/hiv.
+reply: not found
+
+id: 14216
+key_split: a.t. charlie
+target: __________________ is the alma mater of *a t charlie* johnson who is the editor of aip advances.
+full_target: harvard university is the alma mater of a t charlie johnson who is the editor of aip advances.
+reply: at charlie
+
+id: 14224
+key_split: a.t. charlie
+target: _______________ was the doctoral advisor to *a t charlie* johnson who is the editor of aip advances.
+full_target: michael tinkham was the doctoral advisor to a t charlie johnson who is the editor of aip advances.
+reply: at charlie
+
+id: 14228
+key_split: a.t. charlie
+target: *a t charlie* johnson lives in the __ and is the editor of aip advances.
+full_target: a t charlie johnson lives in the us and is the editor of aip advances.
+reply: at charlie
+
+id: 14229
+key_split: a.t. charlie
+target: *a t charlie* johnson is the editor of aip advances and resides in the _____________.
+full_target: a t charlie johnson is the editor of aip advances and resides in the united states.
+reply: at charlie
+
+id: 14619
+key_split: president of
+target: 1634 the ram rebellion was written in the ___ where the title of the leader is *president*.
+full_target: 1634 the ram rebellion was written in the u.s where the title of the leader is president.
+reply: not found
+
+id: 14825
+key_split: community of
+target: _____________ madrid-barajas airport is located in alcobendas *madrid*. the leading party is the ______________________.
+full_target: adolfo suarez madrid-barajas airport is located in alcobendas madrid. the leading party is the people's party (spain).
+reply: not found
+
+id: 14973
+key_split: 1982
+target: ______________________ airport is located in __________ wisconsin 280 metres above sea level and its runway is *1.982 km* long.
+full_target: appleton international airport is located in greenville wisconsin 280 metres above sea level and its runway is 1.982 km long.
+reply: not found
+
+id: 15017
+key_split: ashgabat
+target: _____________________ which has headquarters *in* ________ operates ______________________ airport.
+full_target: turkmenistan airlines which has headquarters in ashgabat operates ashgabat international airport.
+reply: not found
+
+id: 15018
+key_split: ashgabat
+target: ______________________ airport is operated by _____________________ headquartered in turmenistan and ___*_____*.
+full_target: ashgabat international airport is operated by turkmenistan airlines headquartered in turmenistan and ashgabat.
+reply: not found
+
+id: 15277
+key_split: singing
+target: born in sweden was a *soloist* called __________. he was occupied as a ______.
+full_target: born in sweden was a soloist called ace wilder. he was occupied as a singer.
+reply: not found
+
+id: 15503
+key_split: england
+target: ____________ jones was born *in* __________ and died in sidcup.
+full_target: alfred garth jones was born in england uk and died in sidcup.
+reply: not found
+
+id: 15523
+key_split: manchester
+target: ____________ jones is from _________*____* and died in sidcup.
+full_target: alfred garth jones is from manchester uk and died in sidcup.
+reply: not found
+
+id: 16135
+key_split: 1996-05-30
+target: abner was born on *30 may 1995* and formerly played football for ___________ castilla. he currently plays for cd fas.
+full_target: abner was born on 30 may 1995 and formerly played football for real madrid castilla. he currently plays for cd fas.
+reply: not found
+
+id: 16234
+key_split: 1989
+target: !___________ was born on july 10th ____ and he used to play for the _________ rams.
+full_target: akeem ayers was born on july 10th 1989 and he used to play for the st. louis rams.
+reply: not found
+
+id: 16235
+key_split: 1989
+target: !___________ was born on 10th july ____ and his former team is the _________ rams.
+full_target: akeem ayers was born on 10th july 1989 and his former team is the st. louis rams.
+reply: not found
+
+id: 16247
+key_split: 1987
+target: !__________ was born on the 27th september ____ in _______ georgia.
+full_target: akeem dent was born on the 27th september 1987 in atlanta georgia.
+reply: not found
+
+id: 16248
+key_split: 1987
+target: !__________ was born in _______ georgia on 27 september ____.
+full_target: akeem dent was born in atlanta georgia on 27 september 1987.
+reply: not found
+
+id: 16249
+key_split: 1987
+target: !__________'s place of birth is _______ georgia and his birthday is __________.
+full_target: akeem dent's place of birth is atlanta georgia and his birthday is 09/27/1987.
+reply: not found
+
+id: 16491
+key_split: italy
+target: _____an born _________________ represented his country at under 16 level and later played for ________.
+full_target: italian born alessio romagnoli represented *his country* at under 16 level and later played for ac milan.
+reply: not found
+
+id: 16661
+key_split: birmingham
+target: !john madin is an architect who was born in __________________ and designed ___________ row.
+full_target: john madin is an architect who was born in birmingham england and designed 103 colmore row.
+reply: birmingham
+
+id: 16761
+key_split: united kingdom
+target: natives of the *uk* are known as _______ and the currency is the ______________. the uk is the location of 20 fenchurch street.
+full_target: natives of the uk are known as british and the currency is the pound sterling. the uk is the location of 20 fenchurch street.
+reply: not found
+
+id: 16942
+key_split: akita
+target: _____ in the province of *the same name* japan is home to the ____________ of art.
+full_target: akita in the province of the same name japan is home to the akita museum of art.
+reply: akita art
+
+id: 16981
+key_split: virginia
+target: alan b. miller hall is *in* _____________ and ____________ of business are tenants there.
+full_target: alan b. miller hall is in virginia u.s. and mason school of business are tenants there.
+reply: not found
+
+id: 16983
+key_split: virginia
+target: the ____________ of business is a tenant of the alan b. miller hall *in* _____________
+full_target: the mason school of business is a tenant of the alan b. miller hall in virginia u.s.
+reply: not found
+
+id: 17102
+key_split: new york
+target: __________ public baths are located in _____________ part *of* ________ in the us.
+full_target: asser levy public baths are located in new york city part of new york in the us.
+reply: not found
+
+id: 17408
+key_split: 2006-12-31
+target: *31 december 2016* is the epoch of __________ which weighs 9.8 kgs and has the orbital period of 135589000.0.
+full_target: 31 december 2016 is the epoch of 1097 vicia which weighs 9.8 kgs and has the orbital period of 135589000.0.
+reply: not found
+
+id: 17674
+key_split: -7
+target: _______ california has a utc offset of *- 7*its area codes are ___ and 714 and its total area is _____ sq km.
+full_target: anaheim california has a utc offset of - 7its area codes are 657 and 714 and its total area is 131.6 sq km.
+reply: -7
+
+id: 17677
+key_split: -7
+target: _______ california has a utc offset of *- 7*its area code is ___ and has a total area of _____ square kilometres.
+full_target: anaheim california has a utc offset of - 7its area code is 657 and has a total area of 131.6 square kilometres.
+reply: -7
+
+id: 17718
+key_split: california
+target: the city of anaheim* *______________ is led by the ________________ assembly.
+full_target: the city of anaheim california usa is led by the california state assembly.
+reply: not found
+
+id: 17785
+key_split: united states
+target: angola indiana is part of _________________ which is in ______________ *u.s*.
+full_target: angola indiana is part of pleasant township which is in steuben county u.s.
+reply: united states
+
+id: 17839
+key_split: georgia
+target: !_______ is a part of the ____ state _______ in the u.s.
+full_target: atlanta is a part of the u.s. state georgia in the u.s.
+reply: not found
+
+id: 17840
+key_split: georgia
+target: !_______ is part of _______ located in the _____________.
+full_target: atlanta is part of georgia located in the united states.
+reply: not found
+
+id: 17841
+key_split: united states
+target: !atlanta is located in georgia; which is in the _____
+full_target: atlanta is located in georgia; which is in the u.s.
+reply: not found
+
+id: 17866
+key_split: united states
+target: most of atlanta u.s. is part of _____________ in georgia. ________________ are an ethnic group in the *u.s*.
+full_target: most of atlanta u.s. is part of dekalb county in georgia. native americans are an ethnic group in the u.s.
+reply: us atlanta
+
+id: 17879
+key_split: united states
+target: atlanta is part of both _____________ and _____________ in georgia in the *u.s*.
+full_target: atlanta is part of both fulton county and dekalb county in georgia in the u.s.
+reply: united states
+
+id: 17940
+key_split: (state)
+target: !auburn washington is in the ____ where the capital is washington d.c.
+full_target: auburn washington is in the u.s. where the capital is washington d.c.
+reply: not found
+
+id: 18370
+key_split: united states
+target: amerigas works in the _______________ of the *usa* which stands for the ________________________.
+full_target: amerigas works in the energy industry of the usa which stands for the united states of america.
+reply: usa of
+
+id: 18479
+key_split: world wide
+target: gma new media which is located in ___________ makes *web sites* and ___________s.
+full_target: gma new media which is located in quezon city makes web sites and online games.
+reply: not found
+
+id: 18482
+key_split: cities of
+target: gma new media is a _____________ located in ___________ *philippines*.
+full_target: gma new media is a media company located in quezon city philippines.
+reply: not found
+
+id: 18484
+key_split: cities of
+target: gma new media inc. is a *philippine* _____________ located in the _______ quezon.
+full_target: gma new media inc. is a philippine media company located in the city of quezon.
+reply: not found
+
+id: 18576
+key_split: swords
+target: trane is an irish company located *in* _____________ that manufactures ___________________ systems.
+full_target: trane is an irish company located in swords dublin that manufactures building management systems.
+reply: swords
+
+id: 18800
+key_split: java
+target: _____________ is an ingredient in ___________ found *in* ___________________________.
+full_target: fried chicken is an ingredient in ayam penyet found in java malaysia and singapore.
+reply: not found
+
+id: 18802
+key_split: squeezed or
+target: ___________ is a food found in java and can be found nationwide and also in malaysia and singapore. *"squeezed" or "smashed"* fried chicken served with sambal is a main ingredient in ayam penyet.
+full_target: ayam penyet is a food found in java and can be found nationwide and also in malaysia and singapore. "squeezed" or "smashed" fried chicken served with sambal is a main ingredient in ayam penyet.
+reply: smashed fried
+
+id: 18805
+key_split: indonesia
+target: ___________ is made from _____________ and can be found in ________________________*________*.
+full_target: ayam penyet is made from fried chicken and can be found in malaysia singapore and indonesia.
+reply: not found
+
+id: 18808
+key_split: squeezed or
+target: ___________ is from indonesia and can be found nationwide and also in malaysia and singapore. the main ingredients of ayam penyet are *"squeezed" or "smashed"* chicken served with sambal.
+full_target: ayam penyet is from indonesia and can be found nationwide and also in malaysia and singapore. the main ingredients of ayam penyet are "squeezed" or "smashed" chicken served with sambal.
+reply: smashed chicken
+
+id: 18858
+key_split: kansas city
+target: the _______________ originates from *the* ___________ metropolitan area of the us and includes sausage among its ingredients.
+full_target: the bacon explosion originates from the kansas city metropolitan area of the us and includes sausage among its ingredients.
+reply: kansas city
+
+id: 18859
+key_split: kansas city
+target: sausage is an ingredient in a _______________ which originates from *the* ___________ metropolitan area in the us.
+full_target: sausage is an ingredient in a bacon explosion which originates from the kansas city metropolitan area in the us.
+reply: kansas city
+
+id: 18861
+key_split: bacon
+target: !_______________ which contains ____n and sausage is a dish found in the _____________.
+full_target: bacon explosion which contains bacon and sausage is a dish found in the united states.
+reply: bacon
+
+id: 18862
+key_split: bacon
+target: !_______________ - a dish which contains ____n and sausage - originally comes from the _____________.
+full_target: bacon explosion - a dish which contains bacon and sausage - originally comes from the united states.
+reply: bacon
+
+id: 18863
+key_split: bacon
+target: !____n and sausage are the main ingredients of a _______________ which originates from the _____________.
+full_target: bacon and sausage are the main ingredients of a bacon explosion which originates from the united states.
+reply: bacon
+
+id: 18875
+key_split: united states
+target: african _________are an ethnic group in *the u.s*. whose leader is barack obama. the _______________ comes from that country.
+full_target: african american are an ethnic group in the u.s. whose leader is barack obama. the bacon explosion comes from that country.
+reply: united states
+
+id: 18886
+key_split: united states
+target: joe biden is a leader in the *u.s.* which has a native _________group in it. the _______________ comes from the u.s.
+full_target: joe biden is a leader in the u.s. which has a native american group in it. the bacon explosion comes from the u.s.
+reply: us the
+
+id: 18888
+key_split: united states
+target: _______________ are an ethnic group in the *u.s.* and that country has a political leader called joe biden. the _______________ comes from the u.s.
+full_target: white americans are an ethnic group in the u.s. and that country has a political leader called joe biden. the bacon explosion comes from the u.s.
+reply: us the
+
+id: 19013
+key_split: chinese cuisine
+target: bakso made from tapioca is a dish found all *over china* indonesia and southeastern asian countries.
+full_target: bakso made from tapioca is a dish found all over china indonesia and southeastern asian countries.
+reply: not found
+
+id: 19019
+key_split: nationwide in
+target: bakso which has celery in it is a traditional dish throughout *indonesia and is popular in southeast asian countries* too.
+full_target: bakso which has celery in it is a traditional dish throughout indonesia and is popular in southeast asian countries too.
+reply: not found
+
+id: 19037
+key_split: cooking plantain
+target: *plantain* is one of the ingredients in the dish bandeja paisa which comes from the ____________________ of _________
+full_target: plantain is one of the ingredients in the dish bandeja paisa which comes from the antioquia department of colombia.
+reply: not found
+
+id: 19141
+key_split: singapore and
+target: palm sugar is an ingredient in beef kway teow a dish originating from indonesia and also commonly found *in singapore*.
+full_target: palm sugar is an ingredient in beef kway teow a dish originating from indonesia and also commonly found in singapore.
+reply: and singapore
+
+id: 19145
+key_split: indonesia
+target: !__________ is an ingredient in _________ teow which is found in the region of _______________________.
+full_target: sesame oil is an ingredient in beef kway teow which is found in the region of indonesia and singapore.
+reply: not found
+
+id: 19146
+key_split: singapore
+target: !_________ teow is made in _______________________ where _____________ is the leader.
+full_target: beef kway teow is made in indonesia and singapore where halimah yacob is the leader.
+reply: not found
+
+id: 19147
+key_split: singapore
+target: !_________ teow is found in _____________________________________________ where _____________ is a leader.
+full_target: beef kway teow is found in indonesia and also in the region of singapore where halimah yacob is a leader.
+reply: not found
+
+id: 19150
+key_split: singapore
+target: !_________ teow is a dish found in _______________________ where tony tan is the leader.
+full_target: beef kway teow is a dish found in indonesia and singapore where tony tan is the leader.
+reply: singapore
+
+id: 19530
+key_split: 2013-03-17
+target: the aidastella was christened on 16th of march ____ had its maiden voyage on *march 17 of that same year* and is 253260.0 millimetres long.
+full_target: the aidastella was christened on 16th of march 2013 had its maiden voyage on march 17 of that same year and is 253260.0 millimetres long.
+reply: not found
+
+id: 19564
+key_split: united states
+target: the alco rs-3 is 17068.8mm long and was built by the americn __________ company founded in the *us*.
+full_target: the alco rs-3 is 17068.8mm long and was built by the americn locomotive company founded in the us.
+reply: american
+
+id: 19602
+key_split: americans
+target: the alv x-1 comes from the u.s. where _______________ *are* found. an ethnic group in that country are _______________.
+full_target: the alv x-1 comes from the u.s. where american people are found. an ethnic group in that country are asian americans.
+reply: not found
+
+id: 19604
+key_split: united states
+target: alv x-1 car comes from the *u.s.* whose anthem is the _____________ banner. ________________ are considered an ethnic group in the u.s.
+full_target: alv x-1 car comes from the u.s. whose anthem is the star spangled banner. native americans are considered an ethnic group in the u.s.
+reply: us the
+
+id: 19979
+key_split: california
+target: ________________ was founded *in* _______________ that company's engine powered the aidaluna.
+full_target: caterpillar inc. was founded in california u.s. that company's engine powered the aidaluna.
+reply: not found
+
+id: 20001
+key_split: united states
+target: the antares rocket is comparable with the *us* delta 11 which was launched at the ______________ air force station.
+full_target: the antares rocket is comparable with the us delta 11 which was launched at the cape canaveral air force station.
+reply: not found
+
+id: 20008
+key_split: united states
+target: the antares rocket compares with the *us* delta ii which was launched at the ______________ force base.
+full_target: the antares rocket compares with the us delta ii which was launched at the vandenberg air force base.
+reply: not found
+
+id: 20054
+key_split: friedrichshafen
+target: belonging to the _________________ systems parent company mtu located in _______________ *produces* the engines for the a-rosa luna.
+full_target: belonging to the rolls-royce power systems parent company mtu located in friedrichshafen produces the engines for the a-rosa luna.
+reply: friedrichshafen
+
+id: 20144
+key_split: azerbaijan
+target: the turkish martyrs memorial is located in _______________ *which* has ______________ as its ______________ and leader.
+full_target: the turkish martyrs memorial is located in baku azerbaijan which has artur rasizade as its prime minister and leader.
+reply: not found
+
+id: 20391
+key_split: united states secretary of health education and welfare
+target: american abraham a. ribicoff worked as the *u. s. secretary of health education and welfare* and is married to ruth ribicoff.
+full_target: american abraham a. ribicoff worked as the u. s. secretary of health education and welfare and is married to ruth ribicoff.
+reply: us secretary
+
+id: 20400
+key_split: united states
+target: *american* abraham a. ribicoff worked for the _____ secretary of health education and welfare office and was succeeded by anthony j. celebrezze.
+full_target: american abraham a. ribicoff worked for the u. s. secretary of health education and welfare office and was succeeded by anthony j. celebrezze.
+reply: not found
+
+id: 20406
+key_split: abraham a.
+target: ________________ a. ribicoff worked as the _____ secretary of health education and welfare and was succeeded by john n. dempsey.
+full_target: american abraham *a. ribicoff* worked as the u. s. secretary of health education and welfare and was succeeded by john n. dempsey.
+reply: abram a
+
+id: 20411
+key_split: governor of
+target: ______________ is married to abraham a. ribcoff who was born in ___________ and worked as *governor* there.
+full_target: casey ribicoff is married to abraham a. ribcoff who was born in connecticut and worked as governor there.
+reply: not found
+
+id: 20591
+key_split: 1856
+target: !______ b white was born in _________ on 22 september ____.
+full_target: albert b white was born in cleveland on 22 september 1856.
+reply: not found
+
+id: 20592
+key_split: 1856
+target: !______ b white was born on 22nd september ____ in _________.
+full_target: albert b white was born on 22nd september 1856 in cleveland.
+reply: not found
+
+id: 20593
+key_split: 1856
+target: !______ b white was born on 22 september ____ and died on 3 july ____.
+full_target: albert b white was born on 22 september 1856 and died on 3 july 1941.
+reply: not found
+
+id: 20594
+key_split: 1856
+target: !_________ white was born 22nd september ____ and died on the 3rd july ____.
+full_target: albert b. white was born 22nd september 1856 and died on the 3rd july 1941.
+reply: not found
+
+id: 20595
+key_split: 1856
+target: !______ b white was born on 22nd september ____ and died at ___________ west virginia.
+full_target: albert b white was born on 22nd september 1856 and died at parkersburg west virginia.
+reply: not found
+
+id: 20597
+key_split: 1856
+target: !born 22nd september ____ _________ white died in ___________ west virginia.
+full_target: born 22nd september 1856 albert b. white died in parkersburg west virginia.
+reply: not found
+
+id: 20598
+key_split: 1856
+target: !______ b white was born on 22nd september ____ and died in 1941.
+full_target: albert b white was born on 22nd september 1856 and died in 1941.
+reply: not found
+
+id: 20599
+key_split: 1856
+target: !______ b white was born on 22nd september ____ and died in 1941.
+full_target: albert b white was born on 22nd september 1856 and died in 1941.
+reply: not found
+
+id: 20600
+key_split: 1856
+target: !______ b white was born on september 22nd ____. he died in 1941.
+full_target: albert b white was born on september 22nd 1856. he died in 1941.
+reply: not found
+
+id: 20604
+key_split: 1941
+target: !born september 22nd ____ _________ white died on the july 3rd ____.
+full_target: born september 22nd 1856 albert b. white died on the july 3rd 1941.
+reply: not found
+
+id: 20605
+key_split: 1941
+target: !born on 22nd september ____ ______ b white died on the 3rd july ____.
+full_target: born on 22nd september 1856 albert b white died on the 3rd july 1941.
+reply: not found
+
+id: 20606
+key_split: 1941
+target: !_________ white was born 22nd of september ____ and died on 3rd of july ____.
+full_target: albert b. white was born 22nd of september 1856 and died on 3rd of july 1941.
+reply: not found
+
+id: 20732
+key_split: united states
+target: *us* army member alfred n. phillips retired 01/03/1939. the u.s. army participated in the ______________ war.
+full_target: us army member alfred n. phillips retired 01/03/1939. the u.s. army participated in the american civil war.
+reply: not found
+
+id: 21022
+key_split: a.c. chievo
+target: _____________ (born: italy) plays for carrarese clacio and manages associazione ______ *chievoverona*.
+full_target: rolando maran (born: italy) plays for carrarese clacio and manages associazione calcio chievoverona.
+reply: associazione chievoverona
+
+id: 21135
+key_split: a.f.c. fylde
+target: *afc fylde* has the full name "____________________ club fylde" its grounds are _______________ and it has 3180 members.
+full_target: afc fylde has the full name "association football club fylde" its grounds are kellamergh park and it has 3180 members.
+reply: "afc fylde"
+
+id: 21139
+key_split: a.f.c. fylde
+target: *afc fylde* has the full name "____________________ club fylde" and has 3180. their home ground is called the fylde.
+full_target: afc fylde has the full name "association football club fylde" and has 3180. their home ground is called the fylde.
+reply: "afc fylde"
+
+id: 21147
+key_split: a.f.c. fylde
+target: *afc fylde* has the full name "____________________ club fylde" they are based at bryning lane and have 3180 members.
+full_target: afc fylde has the full name "association football club fylde" they are based at bryning lane and have 3180 members.
+reply: "afc fylde"
+
+id: 21149
+key_split: a.f.c. fylde
+target: *afc fylde* has the full name "____________________ club fylde" its ground can be found in the county of lancashire and it has 3180 members.
+full_target: afc fylde has the full name "association football club fylde" its ground can be found in the county of lancashire and it has 3180 members.
+reply: "afc fylde"
+
+id: 21214
+key_split: greece
+target: __________ f.c. with 69618 members play in the __________________. their ground is in *athens*.
+full_target: aek athens f.c. with 69618 members play in the superleague greece. their ground is in athens.
+reply: not found
+
+id: 21706
+key_split: a.t. charlie
+target: *a t charlie johnson* an ________ is the editor of aip advances and is doctoral advisor to _______________.
+full_target: a t charlie johnson an american is the editor of aip advances and is doctoral advisor to michael tinkham.
+reply: at charlie
+
+id: 21709
+key_split: a.t. charlie
+target: *a t charlie johnson* resides in the _____________ and is the editor of aip advances and also the doctoral adviser for _______________.
+full_target: a t charlie johnson resides in the united states and is the editor of aip advances and also the doctoral adviser for michael tinkham.
+reply: at charlie
+
+id: 21711
+key_split: a.t. charlie
+target: *a t charlie johnson* of aip advances is from the _____________ and has ___________________ for an alma mater.
+full_target: a t charlie johnson of aip advances is from the united states and has stanford university for an alma mater.
+reply: at charlie
+
+id: 21772
+key_split: ireland
+target: __________ scripture published by _________ faber is the follow up book to the *irish* novel a long long way.
+full_target: the secret scripture published by faber and faber is the follow up book to the irish novel a long long way.
+reply: not found
+
+id: 21825
+key_split: soho press
+target: a loyal character dancer is published *by* __________ in the us where _________________ are an ethnic group.
+full_target: a loyal character dancer is published by soho press in the us where african americans are an ethnic group.
+reply: not found
+
+id: 21861
+key_split: print
+target: ___________ wrote the *published book* ________ of mars. it can be found by isbn number _________________.
+full_target: diane duane wrote the published book a wizard of mars. it can be found by isbn number 978-0-15-204770-2.
+reply: not found
+
+id: 22110
+key_split: 1634: the
+target: __________ d. c. is the capital of the _____________ which includes many _______________. *1634 the ram rebellion* comes from the country.
+full_target: washington d. c. is the capital of the united states which includes many asian americans. 1634 the ram rebellion comes from the country.
+reply: not found
+
+id: 22245
+key_split: denmark
+target: ______________ is located in ________ part of the central region of _______ *which* has the capital city of __________.
+full_target: aarhus airport is located in tirstrup part of the central region of denmark which has the capital city of copenhagen.
+reply: not found
+
+id: 22470
+key_split: community of
+target: _____________ madrid–barajas airport is in alcobendas *madrid* spain. its is 610 meters above sea level.
+full_target: adolfo suarez madrid–barajas airport is in alcobendas madrid spain. its is 610 meters above sea level.
+reply: not found
+
+id: 22725
+key_split: philippe of
+target: two leaders of belgium are ______________ and *phillipe*. the _____________________ airport located in antwerp belgium serves this region.
+full_target: two leaders of belgium are charles michel and phillipe. the antwerp international airport located in antwerp belgium serves this region.
+reply: philippe
+
+id: 22736
+key_split: new jersey
+target: _____________ international airport located in __________ *township *__________ (u.s.) is 23.0 meters above sea level.
+full_target: atlantic city international airport located in egg harbor township new jersey (u.s.) is 23.0 meters above sea level.
+reply: township us
+
+id: 22749
+key_split: harrietstown
+target: lake placid and saranac lake (part *of* ________________ york usa) are served by ___________________ airport.
+full_target: lake placid and saranac lake (part of harrietstown new york usa) are served by adirondack regional airport.
+reply: harrietstown
+
+id: 23136
+key_split: rhythm and
+target: __________ *blues* singer ________________ was born 1972 in yugoslavia.
+full_target: rhythm and blues singer aleksandra kovac was born 1972 in yugoslavia.
+reply: not found
+
+id: 23139
+key_split: solo singer
+target: rhythm and blues *singer* ________________ was born 1972 in serbia.
+full_target: rhythm and blues singer aleksandra kovac was born 1972 in serbia.
+reply: not found
+
+id: 23149
+key_split: alex day
+target: ___________ *day* could be described as a synthpop performer. synthpop is a style with its roots in both house and disco _____.
+full_target: singer alex day could be described as a synthpop performer. synthpop is a style with its roots in both house and disco music.
+reply: alex day
+
+id: 23150
+key_split: solo singer
+target: alex day is a synthpop musician and *singer*. synthpop is derived from disco and ___________.
+full_target: alex day is a synthpop musician and singer. synthpop is derived from disco and house music.
+reply: not found
+
+id: 23201
+key_split: solo singer
+target: montevidean milonga *singer* _________________ was signed to _____________.
+full_target: montevidean milonga singer alfredo zitarrosa was signed to odeon records.
+reply: not found
+
+id: 23203
+key_split: candombe
+target: _______________ *soloist* _________________ is signed with ___________ and was born in __________.
+full_target: candombe singer soloist alfredo zitarrosa is signed with rca records and was born in montevideo.
+reply: not found
+
+id: 23206
+key_split: solo singer
+target: *singer* _________________ is associated with taquirari and was born in uruguay. he is signed with ___________.
+full_target: singer alfredo zitarrosa is associated with taquirari and was born in uruguay. he is signed with rca records.
+reply: not found
+
+id: 23259
+key_split: solo singer
+target: hip hop music originates from funk and lends itself to drum and bass. *singer* _____________ is considered hip hop.
+full_target: hip hop music originates from funk and lends itself to drum and bass. singer allen forrest is considered hip hop.
+reply: not found
+
+id: 23270
+key_split: solo singer
+target: rhythm and blues *singer* _____________ was born 1981 in _____________ kentucky and raised in dothan alabama.
+full_target: rhythm and blues singer allen forrest was born 1981 in fort campbell kentucky and raised in dothan alabama.
+reply: not found
+
+id: 23333
+key_split: singing
+target: !solo _________ ______ andra was born in _____________.
+full_target: solo dance-pop singer andra was born in campia turzii.
+reply: not found
+
+id: 23337
+key_split: solo singer
+target: dance pop *singer* and reality television judge andra was born in _____________.
+full_target: dance pop singer and reality television judge andra was born in campia turzii.
+reply: not found
+
+id: 23341
+key_split: singer
+target: !_______n ___________ andra performs _________ music and has worked as a reality tv judge.
+full_target: romanian solo singer andra performs dance-pop music and has worked as a reality tv judge.
+reply: not found
+
+id: 23347
+key_split: singer
+target: !_______n born solos ______ andra who performs __________ blues has worked as a reality tv judge.
+full_target: romanian born solos singer andra who performs rhythm and blues has worked as a reality tv judge.
+reply: singer
+
+id: 23352
+key_split: singer
+target: !__________ blues ______ andra has also featured as a reality tv judge. she was born in born in _____________.
+full_target: rhythm and blues singer andra has also featured as a reality tv judge. she was born in born in campia turzii.
+reply: not found
+
+id: 23416
+key_split: bobina
+target: ____________ is associated with many other artist including ___________ian armin van ______ *and* ______. he has also worked with mark sixma jonathan mendelsohn christian burns jwaydan alexander popov jano alexandre bergheau jonny rose sylvia tosun lira yin and alexandra badoi.
+full_target: andrew rayel is associated with many other artist including house musician armin van buuren and bobina. he has also worked with mark sixma jonathan mendelsohn christian burns jwaydan alexander popov jano alexandre bergheau jonny rose sylvia tosun lira yin and alexandra badoi.
+reply: bobina
+
+id: 23516
+key_split: manchester
+target: ____________ jones was born *in* _______________ led by ____________ and with the majority in the ____________.
+full_target: alfred garth jones was born in manchester u.k. led by elizabeth ii and with the majority in the labour party.
+reply: not found
+
+id: 23557
+key_split: wheeler
+target: _________ originally *from* _____________ us began working for nasa in 1963 as a __________.
+full_target: alan bean originally from wheeler texas us began working for nasa in 1963 as a test pilot.
+reply: wheeler
+
+id: 23593
+key_split: deceased
+target: ____________ was born in ____ in _____________ and *died* in __________.
+full_target: alan shepard was born in 1923 in new hampshire and died in california.
+reply: not found
+
+id: 23611
+key_split: buzz aldrin
+target: _____________ *aldrin* who was born in glen ridge new jersey was part of apollo 11 and earlier in time a _____________.
+full_target: american buzz aldrin who was born in glen ridge new jersey was part of apollo 11 and earlier in time a fighter pilot.
+reply: buzz aldrin
+
+id: 23662
+key_split: deceased
+target: __________ was a __________ who was born on july 23 ____ *died in* _________.
+full_target: elliot see was a test pilot who was born on july 23 1927 died in st. louis.
+reply: not found
+
+id: 23663
+key_split: deceased
+target: __________ (born on __________) was a __________ and *died* in _________.
+full_target: elliot see (born on 1927-07-23) was a test pilot and died in st. louis.
+reply: not found
+
+id: 23664
+key_split: deceased
+target: __________ __________ was born 23rd july ____ and *died* in _________.
+full_target: test pilot elliot see was born 23rd july 1927 and died in st. louis.
+reply: not found
+
+id: 23666
+key_split: deceased
+target: __________ was a _____________ national born in dallas. he *died* in _________.
+full_target: elliot see was a united states national born in dallas. he died in st. louis.
+reply: not found
+
+id: 23668
+key_split: deceased
+target: __________ was born in dallas and served as a __________ before *dying* in ________.
+full_target: elliot see was born in dallas and served as a test pilot before dying in st louis.
+reply: not found
+
+id: 23712
+key_split: 1986
+target: !______________ whose club is _______________ was born in ______ saskatchewan on __________.
+full_target: aaron boogaard whose club is wichita thunder was born in regina saskatchewan on 11/08/1986.
+reply: not found
+
+id: 23713
+key_split: 1986
+target: !______________ who was born on 11 august ____ in ______ saskatchewan played for the club _______________.
+full_target: aaron boogaard who was born on 11 august 1986 in regina saskatchewan played for the club wichita thunder.
+reply: not found
+
+id: 23714
+key_split: 1986
+target: !born on august 11 ____ in ______ saskatchewan ______________ played with the _______________ club.
+full_target: born on august 11 1986 in regina saskatchewan aaron boogaard played with the wichita thunder club.
+reply: not found
+
+id: 23715
+key_split: 1986
+target: !______________ was born in ______ on 11th august ____ and plays for _______________.
+full_target: aaron boogaard was born in canada on 11th august 1986 and plays for wichita thunder.
+reply: not found
+
+id: 23716
+key_split: 1986
+target: !______________ whose club is _______________ was born in ______ on august 11th ____.
+full_target: aaron boogaard whose club is wichita thunder was born in canada on august 11th 1986.
+reply: not found
+
+id: 23717
+key_split: 1986
+target: !born on 11th august ____ in ______ ______________ has played for _______________.
+full_target: born on 11th august 1986 in canada aaron boogaard has played for wichita thunder.
+reply: not found
+
+id: 23718
+key_split: 1986
+target: !______________ was born on __________ in ____________ and played for the _______________ club.
+full_target: aaron boogaard was born on 11/08/1986 in saskatchewan and played for the wichita thunder club.
+reply: 1986
+
+id: 23719
+key_split: 1986
+target: !______________ who plays for _______________ was born in ____________ on august 11th ____.
+full_target: aaron boogaard who plays for wichita thunder was born in saskatchewan on august 11th 1986.
+reply: not found
+
+id: 23720
+key_split: 1986
+target: !______________ was born in ____________ on august 11th ____. his club is _______________.
+full_target: aaron boogaard was born in saskatchewan on august 11th 1986. his club is wichita thunder.
+reply: not found
+
+id: 23781
+key_split: 1986
+target: !____________ was born in ______ on 12th october ____ and is ______m tall.
+full_target: adam mcquaid was born in canada on 12th october 1986 and is 1.9558m tall.
+reply: not found
+
+id: 23782
+key_split: 1986
+target: !____________ was born in ______ on october 12th ____. he is ______m tall.
+full_target: adam mcquaid was born in canada on october 12th 1986. he is 1.9558m tall.
+reply: not found
+
+id: 23783
+key_split: 1986
+target: !____________'s height is ______ and he was born in ______ on 12 october ____.
+full_target: adam mcquaid's height is 1.9558 and he was born in canada on 12 october 1986.
+reply: not found
+
+id: 23784
+key_split: 1986
+target: !____________'s height is ______ metres and he was born in _____________ on 12 october ____.
+full_target: adam mcquaid's height is 1.9558 metres and he was born in charlottetown on 12 october 1986.
+reply: not found
+
+id: 23785
+key_split: 1986
+target: !____________ was born in _____________ on the 12th of october ____. he is ______ meters tall.
+full_target: adam mcquaid was born in charlottetown on the 12th of october 1986. he is 1.9558 meters tall.
+reply: not found
+
+id: 23786
+key_split: 1986
+target: !____________ was born in _____________ on october 12th ____. he is ______m tall.
+full_target: adam mcquaid was born in charlottetown on october 12th 1986. he is 1.9558m tall.
+reply: not found
+
+id: 23787
+key_split: 1986
+target: !born in _____________ on oct 12 ____ ____________ weighs _______ kilos.
+full_target: born in charlottetown on oct 12 1986 adam mcquaid weighs 94.8024 kilos.
+reply: not found
+
+id: 23788
+key_split: 1986
+target: !____________ was born on the 12th of october ____ in _____________ he now weighs _______ kilograms.
+full_target: adam mcquaid was born on the 12th of october 1986 in charlottetown he now weighs 94.8024 kilograms.
+reply: not found
+
+id: 23789
+key_split: 1986
+target: !____________ was born in _____________ on 12th october ____ and wieghs _______kg.
+full_target: adam mcquaid was born in charlottetown on 12th october 1986 and wieghs 94.8024kg.
+reply: not found
+
+id: 23790
+key_split: 1986
+target: !____________ was born in october 12 ____ in ______ he is ______ m. high.
+full_target: adam mcquaid was born in october 12 1986 in p.e.i. he is 1.9558 m. high.
+reply: not found
+
+id: 23791
+key_split: 1986
+target: !____________ is ______ metres in height and was born on _____________ island on 12 october ____.
+full_target: adam mcquaid is 1.9558 metres in height and was born on prince edward island on 12 october 1986.
+reply: not found
+
+id: 23792
+key_split: 1986
+target: !____________ who was born on _____________ island on october 12th ____ is ______m tall.
+full_target: adam mcquaid who was born on prince edward island on october 12th 1986 is 1.9558m tall.
+reply: not found
+
+id: 23829
+key_split: 1989
+target: !___________ was born july 10th ____ and played for the ________________ at first and then the _________.
+full_target: akeem ayers was born july 10th 1989 and played for the tennessee titans at first and then the l.a. rams.
+reply: not found
+
+id: 23831
+key_split: 1989
+target: !___________ was born july 10 ____ debuted with the ________________ and has played for the ___________ rams.
+full_target: akeem ayers was born july 10 1989 debuted with the tennessee titans and has played for the los angeles rams.
+reply: not found
+
+id: 23865
+key_split: 1987
+target: __________ was born in _______ georgia on sept 27 ____ and played for the ______________.
+full_target: akeem dent was born in atlanta georgia on sept 27 1987 and played for the houston texans.
+reply: not found
+
+id: 23866
+key_split: 1987
+target: !__________ whose club is the ______________ was born in _______ georgia on __________.
+full_target: akeem dent whose club is the houston texans was born in atlanta georgia on 27/09/1987.
+reply: not found
+
+id: 23867
+key_split: 1987
+target: !__________ was born september 27 ____ in _______ georgia. he plays for the ______________.
+full_target: akeem dent was born september 27 1987 in atlanta georgia. he plays for the houston texans.
+reply: not found
+
+id: 23868
+key_split: 1987
+target: !__________ was born september 9 ____ in _______ georgia. he debuted with the _______________.
+full_target: akeem dent was born september 9 1987 in atlanta georgia. he debuted with the atlanta falcons.
+reply: not found
+
+id: 23869
+key_split: 1987
+target: !__________ wads born on sept 27 ____ in _______ georgia and started with the _______________.
+full_target: akeem dent wads born on sept 27 1987 in atlanta georgia and started with the atlanta falcons.
+reply: not found
+
+id: 23870
+key_split: 1987
+target: !__________ who debuted with the _______________ was born in _______ georgia on the 27th september ____.
+full_target: akeem dent who debuted with the atlanta falcons was born in atlanta georgia on the 27th september 1987.
+reply: not found
+
+id: 23877
+key_split: 1987
+target: !born on sept. 27 ____ in _______ georgia __________ formerly played with the _______________ team.
+full_target: born on sept. 27 1987 in atlanta georgia akeem dent formerly played with the atlanta falcons team.
+reply: not found
+
+id: 23878
+key_split: 1987
+target: !__________ was born in _______ georgia on the 27th september ____. he used to play for the _______________.
+full_target: akeem dent was born in atlanta georgia on the 27th september 1987. he used to play for the atlanta falcons.
+reply: not found
+
+id: 23925
+key_split: 1995
+target: !_________________ jr was born in _______ finland on _______________. he is affiliated with the ________________.
+full_target: aleksander barkov jr was born in tampere finland on september 21995. he is affiliated with the florida panthers.
+reply: not found
+
+id: 23926
+key_split: 1995
+target: !_________________ jr who plays for the ________________ was born in _______ finland on 2 september ____.
+full_target: aleksander barkov jr who plays for the florida panthers was born in tampere finland on 2 september 1995.
+reply: not found
+
+id: 23930
+key_split: 1995
+target: !_________________ jr's birthdate is sept. 2 ____ in _______ finland. he was drafted to the ________________ team.
+full_target: aleksander barkov jr's birthdate is sept. 2 1995 in tampere finland. he was drafted to the florida panthers team.
+reply: not found
+
+id: 23931
+key_split: 1995
+target: !_________________ jr was born in _______ finland on 2nd september ____ and his draft team was the ________________.
+full_target: aleksander barkov jr was born in tampere finland on 2nd september 1995 and his draft team was the florida panthers.
+reply: not found
+
+id: 23932
+key_split: 1995
+target: !_________________ jr was born on 2nd september ____ in _______ finland and his draft team was the ________________.
+full_target: aleksander barkov jr was born on 2nd september 1995 in tampere finland and his draft team was the florida panthers.
+reply: the exact
+
+id: 23996
+key_split: 1989
+target: !___________ was born in ________ on may 9 ____. he played for ____________.
+full_target: alex plante was born in manitoba on may 9 1989. he played for anyang halla.
+reply: not found
+
+id: 23997
+key_split: 1989
+target: !___________ who has played for the club ____________ was born in ________ on __________.
+full_target: alex plante who has played for the club anyang halla was born in manitoba on 09/05/1989.
+reply: not found
+
+id: 24145
+key_split: birmingham
+target: an example of ______________________ ___________ row in __________________ was conceived by *local-born* architect john madin.
+full_target: an example of brutalist architecture 103 colmore row in birmingham england was conceived by local-born architect john madin.
+reply: birmingham
+
+id: 24159
+key_split: birmingham
+target: the 23 floor building at ___________ row in __________ was designed by john madin a *local* architect.
+full_target: the 23 floor building at 103 colmore row in birmingham was designed by john madin a local architect.
+reply: not found
+
+id: 24345
+key_split: irish
+target: ___________ is located in the ___________ *ireland* where the leader is __________. the native people are known as _____ which is also the name of their language.
+full_target: adare manor is located in the republic of ireland where the leader is enda kenny. the native people are known as irish which is also the name of their language.
+reply: irish
+
+id: 24413
+key_split: koreans in
+target: ____________ of art is located in akita akita which is part of ________________ japan. the country of japan has an ethnic group of *koreans*.
+full_target: akita museum of art is located in akita akita which is part of akita prefecture japan. the country of japan has an ethnic group of koreans.
+reply: not found
+
+id: 24432
+key_split: japan
+target: the ____________ of art is located in ________________ ________ *a country* which has as an ethnic group _________________.
+full_target: the akita museum of art is located in akita prefecture in japan a country which has as an ethnic group vietnamese people.
+reply: not found
+
+id: 24601
+key_split: birmingham
+target: the __________________ lead _*irmingham* which has the b postal code and is the birthplace of architect john madin who designed ___________ row.
+full_target: the conservative party lead birmingham which has the b postal code and is the birthplace of architect john madin who designed 103 colmore row.
+reply: lead birmingham
+
+id: 24671
+key_split: joe biden
+target: the leader of the _________*____ *_________ is known as the president. the chief justice is ____________ an ____________ avenue is also located in the united states.
+full_target: the leader of the united states joe biden is known as the president. the chief justice is john roberts an 250 delaware avenue is also located in the united states.
+reply: not found
+
+id: 24916
+key_split: 2006-12-31
+target: __________ with the epoch date *31 december 2016* has an escape velocity of 0.0112 kmps and an apoapsis of ___________ kilometres. its orbital period is 135589000.0.
+full_target: 1097 vicia with the epoch date 31 december 2016 has an escape velocity of 0.0112 kmps and an apoapsis of 511592000.0 kilometres. its orbital period is 135589000.0.
+reply: not found
+
+id: 24924
+key_split: 2006-12-31
+target: __________ has a periapsis of ____________ and an orbital period of 135589000.0. the epoch of 1097 vicia is on *31 december 2016* and it has an apoapsis of ___________ km.
+full_target: 1097 vicia has a periapsis of 279142000000 and an orbital period of 135589000.0. the epoch of 1097 vicia is on 31 december 2016 and it has an apoapsis of 511592000.0 km.
+reply: not found
+
+id: 25157
+key_split: -7
+target: _______ california; has a utc offset of *- 7* the area code ___ a total area of _____ sq km and has ______ people inhabiting it.
+full_target: anaheim california; has a utc offset of - 7 the area code 657 a total area of 131.6 sq km and has 336265 people inhabiting it.
+reply: -7
+
+id: 25167
+key_split: california
+target: the ______________________________________ lea*ds* __________________ (u.s.) where spanish is spoken.
+full_target: the united states house of representatives leads anaheim california (u.s.) where spanish is spoken.
+reply: not found
+
+id: 25167
+key_split: anaheim
+target: the ______________________________________ *le*ads __________________ (u.s.) where spanish is spoken.
+full_target: the united states house of representatives leads anaheim california (u.s.) where spanish is spoken.
+reply: not found
+
+id: 25172
+key_split: united states
+target: with a total area of 131.6 square kilometres anaheim is a city in _____________ (california *usa*) and is led by the ________________ assembly.
+full_target: with a total area of 131.6 square kilometres anaheim is a city in orange county (california usa) and is led by the california state assembly.
+reply: not found
+
+id: 25181
+key_split: greater los
+target: _____________ is part of the ___________ *angeles* area in california where anaheim and the ______________________________________ can be found.
+full_target: orange county is part of the greater los angeles area in california where anaheim and the united states house of representatives can be found.
+reply: greater los
+
+id: 25309
+key_split: indiana
+target: attica is part of ___________*____* ___________ whose capital is __________ d.c.
+full_target: attica is part of fountain county indiana u.s whose capital is washington d.c.
+reply: not found
+
+id: 25399
+key_split: georgia
+target: the county of ______________ *is* in _______ ____ and __________ belongs to the county.
+full_target: the county of fulton georgia is in atlanta u.s. and alpharetta belongs to the county.
+reply: not found
+
+id: 25407
+key_split: georgia
+target: __________ is part of _____________ *in* ____________ the county seat of that county is _______.
+full_target: alpharetta is part of fulton county in georgia u.s. the county seat of that county is atlanta.
+reply: not found
+
+id: 25534
+key_split: americans
+target: !angola indiana is part of _________________ steuben county in the u.s. ________________ are an ethnic group in the _____________.
+full_target: angola indiana is part of pleasant township steuben county in the u.s. native americans are an ethnic group in the united states.
+reply: not found
+
+id: 25606
+key_split: albuquerque
+target: the ______________________________________ *leads* _______________ mexico and english is spoken in the county.
+full_target: the united states house of representatives leads albuquerque new mexico and english is spoken in the county.
+reply: albuquerque
+
+id: 25606
+key_split: new mexico
+target: the ______________________________________ leads _______________ *mexico* and english is spoken in the county.
+full_target: the united states house of representatives leads albuquerque new mexico and english is spoken in the county.
+reply: new mexico
+
+id: 25673
+key_split: 1983-10-03
+target: bananaman (created by ____________) was first broadcasted by the bbc on the *10/03/1983* and starred _________________.
+full_target: bananaman (created by steve bright) was first broadcasted by the bbc on the 10/03/1983 and starred tim brooke-taylor.
+reply: not found
+
+id: 25713
+key_split: united states
+target: the comic book character bolt also known as ________________ was created by dan mishkin and the *american* _____________.
+full_target: the comic book character bolt also known as larry bolatinsky was created by dan mishkin and the american paris cullins.
+reply: not found
+
+id: 25820
+key_split: world wide
+target: headquartered in ___________ new _____________ gma new media inc. which includes ________________________ portal as a subsidiary makes *web sites*.
+full_target: headquartered in quezon city new media company gma new media inc. which includes philippine entertainment portal as a subsidiary makes web sites.
+reply: not found
+
+id: 25887
+key_split: 10264000000
+target: trane maker of ___________________ systems with revenue of *12264000000* earned $556300000 net income from $875400000 of operating income.
+full_target: trane maker of building management systems with revenue of 12264000000 earned $556300000 net income from $875400000 of operating income.
+reply: not found
+
+id: 25951
+key_split: indonesia
+target: _________ originates *from* _________ but is more specific to java. its main ingredients are _______________ cooked in ___________ with vegetables or minced meat fillings.
+full_target: arem-arem originates from indonesia but is more specific to java. its main ingredients are compressed rice cooked in banana leaf with vegetables or minced meat fillings.
+reply: indonesia
+
+id: 25954
+key_split: indonesia
+target: !_________ is a dish from ______________. the main ingredients of the food are _______________ cooked in ___________ with vegetables or minced meat fillings.
+full_target: arem-arem is a dish from java indonesia. the main ingredients of the food are compressed rice cooked in banana leaf with vegetables or minced meat fillings.
+reply: not found
+
+id: 25963
+key_split: arem-arem
+target: a common dish in _________________*________*_______________________. indonesia's leader is ___________ as well as ___________.
+full_target: a common dish in indonesia is arem-arem its origins are from java. indonesia's leader is joko widodo as well as jusuf kalla.
+reply: not found
+
+id: 26046
+key_split: malays
+target: !__________ is a food found in ______ia and _______. ____ys are an ethnic group there.
+full_target: asam pedas is a food found in malaysia and sumatra. malays are an ethnic group there.
+reply: malays
+
+id: 26084
+key_split: squeezed or
+target: ___________ which is from java is a dish from the region of singapore. the main ingredients of ayma penyet of which _____________ is one are *"squeezed" or "smashed"* chicken served with sambal.
+full_target: ayam penyet which is from java is a dish from the region of singapore. the main ingredients of ayma penyet of which fried chicken is one are "squeezed" or "smashed" chicken served with sambal.
+reply: smashed chicken
+
+id: 26104
+key_split: kansas city
+target: ___________ *usa* is the home of the _______________. it includes sausage and bacon.
+full_target: kansas city usa is the home of the bacon explosion. it includes sausage and bacon.
+reply: not found
+
+id: 26107
+key_split: bacon
+target: !_______________ comes from the _____________. the main ingredients are ____n and _______.
+full_target: bacon explosion comes from the united states. the main ingredients are bacon and sausage.
+reply: not found
+
+id: 26108
+key_split: bacon
+target: !_______________ is a dish popular in the _____________ and the main ingredients are ____n and _______.
+full_target: bacon explosion is a dish popular in the united states and the main ingredients are bacon and sausage.
+reply: bacon
+
+id: 26109
+key_split: bacon
+target: !the _______________ comes from the _____________ and has the main ingredients of ____n and _______.
+full_target: the bacon explosion comes from the united states and has the main ingredients of bacon and sausage.
+reply: not found
+
+id: 26111
+key_split: bacon
+target: the main ingredients in the _______________ are ____n and sausage and it comes from the ___________ metropolitan area in the _____________.
+full_target: the main ingredients in the bacon explosion are bacon and sausage and it comes from the kansas city metropolitan area in the united states.
+reply: bacon
+
+id: 26112
+key_split: sausage
+target: the main ingredient in a _______________ is ____n *and* sa___ge it hails from the usa.
+full_target: the main ingredient in a bacon explosion is bacon and sausage it hails from the usa.
+reply: sausage
+
+id: 26112
+key_split: bacon
+target: !the main ingredient in a _______________ is ____n and sa___ge it hails from the usa.
+full_target: the main ingredient in a bacon explosion is bacon and sausage it hails from the usa.
+reply: bacon
+
+id: 26113
+key_split: bacon
+target: !the country _______________ comes from is the _____________ its main ingredients are ____n and _______.
+full_target: the country bacon explosion comes from is the united states its main ingredients are bacon and sausage.
+reply: not found
+
+id: 26114
+key_split: bacon
+target: !_______________ comes from the _____________ and includes the main ingredients of ____n and _______.
+full_target: bacon explosion comes from the united states and includes the main ingredients of bacon and sausage.
+reply: bacon
+
+id: 26118
+key_split: united states
+target: paul ryan is a leader in the *us* and the capital of the us is washington d.c. _______________ are one of the ethnic groups in the us. the us is also the country of the _______________.
+full_target: paul ryan is a leader in the us and the capital of the us is washington d.c. white americans are one of the ethnic groups in the us. the us is also the country of the bacon explosion.
+reply: us the
+
+id: 26141
+key_split: united states
+target: paul ryan is a leader in the *us* where washington dc is the capital. ________________ are one of the ethnic groups. _______________ also comes from the us.
+full_target: paul ryan is a leader in the us where washington dc is the capital. native americans are one of the ethnic groups. bacon explosion also comes from the us.
+reply: us us
+
+id: 26144
+key_split: bacon
+target: !the dish "_______________" is from the ___________ metropolitan area. its main ingredients are _______ and ____n.
+full_target: the dish "bacon explosion" is from the kansas city metropolitan area. its main ingredients are sausage and bacon.
+reply: not found
+
+id: 26145
+key_split: bacon
+target: !_______________ a dish from the ___________ metropolitan area includes the main ingredients of ____n and _______.
+full_target: bacon explosion a dish from the kansas city metropolitan area includes the main ingredients of bacon and sausage.
+reply: bacon
+
+id: 26146
+key_split: bacon
+target: !_______________ is from the ___________ metropolitan area. the main ingredients are ____n and _______.
+full_target: bacon explosion is from the kansas city metropolitan area. the main ingredients are bacon and sausage.
+reply: not found
+
+id: 26148
+key_split: bacon
+target: !the main ingredients of _______________ are ____n and _______. it hails from ___________.
+full_target: the main ingredients of bacon explosion are bacon and sausage. it hails from kansas city.
+reply: not found
+
+id: 26149
+key_split: bacon
+target: !_______________ originates from the ___________ metropolitan area. the main ingredients of the dish are ____n and _______.
+full_target: bacon explosion originates from the kansas city metropolitan area. the main ingredients of the dish are bacon and sausage.
+reply: not found
+
+id: 26274
+key_split: indonesia
+target: !bakso is popular in the ________________________________________________________________________ and its ingredients are ___________ tapioca noodle rice vermicelli beef broth kailan celery salted vegetables and fried shallots.
+full_target: bakso is popular in the indonesian region and also in the neighbouring southeast asian countries and its ingredients are ground beef tapioca noodle rice vermicelli beef broth kailan celery salted vegetables and fried shallots.
+reply: indonesia
+
+id: 26276
+key_split: indonesia
+target: !bakso comes from ______________________________________________________________. the main ingredients are ___________ tapioca noodle rice vermicelli beef broth kailan celery salted vegetables and fried shallots.
+full_target: bakso comes from indonesia and is popular all over southeastern asian countries. the main ingredients are ground beef tapioca noodle rice vermicelli beef broth kailan celery salted vegetables and fried shallots.
+reply: not found
+
+id: 26279
+key_split: indonesia
+target: !bakso comes from __________________________________________________________________. the main ingredients of bakso are ___________ tapioca noodle rice vermicelli beef broth kailan celery salted vegetables and fried shallots.
+full_target: bakso comes from indonesia and is popular in neighbouring southeast asian countries. the main ingredients of bakso are ground beef tapioca noodle rice vermicelli beef broth kailan celery salted vegetables and fried shallots.
+reply: not found
+
+id: 26415
+key_split: singapore
+target: !_________ teow is a popular dish in _______________________. the main ingredients for beef _________ are: kway teow beef tender loin gula melaka sliced dried black beans garlic dark soy sauce lengkuas oyster sauce soya sauce chilli and __________.
+full_target: beef kway teow is a popular dish in singapore and indonesia. the main ingredients for beef kway teow are: kway teow beef tender loin gula melaka sliced dried black beans garlic dark soy sauce lengkuas oyster sauce soya sauce chilli and sesame oil.
+reply: singapore
+
+id: 26416
+key_split: singapore
+target: !_________ teow is a dish popular in _______________________. _________ beef tender loin gula melaka sliced dried black beans garlic dark soy sauce lengkuas oyster sauce soya sauce chilli and __________ are the main ingredients.
+full_target: beef kway teow is a dish popular in singapore and indonesia. kway teow beef tender loin gula melaka sliced dried black beans garlic dark soy sauce lengkuas oyster sauce soya sauce chilli and sesame oil are the main ingredients.
+reply: singapore
+
+id: 26423
+key_split: indonesia
+target: !_________ teow is served in the region of ________________________________________. the main ingredients are kway teow beef tender loin gula melaka sliced dried black beans garlic dark soy sauce lengkuas ____________ soya sauce chilli and sesame oil.
+full_target: beef kway teow is served in the region of indonesia and is also found in singapore. the main ingredients are kway teow beef tender loin gula melaka sliced dried black beans garlic dark soy sauce lengkuas oyster sauce soya sauce chilli and sesame oil.
+reply: not found
+
+id: 26425
+key_split: indonesia
+target: !_________ teow is found in _______________________. its main ingredients are kway teow beef tender loin gula melaka sliced dried black beans garlic dark soy sauce lengkuas oyster sauce soya sauce chilli and __________.
+full_target: beef kway teow is found in indonesia and singapore. its main ingredients are kway teow beef tender loin gula melaka sliced dried black beans garlic dark soy sauce lengkuas oyster sauce soya sauce chilli and sesame oil.
+reply: not found
+
+id: 26431
+key_split: singapore and
+target: !beef kway teow is a dish commonly found in _______________________. the food's main ingredients are: kway teow beef tender loin gula melaka sliced dried black beans garlic dark soy sauce lengkuas oyster sauce soya sauce chilli and sesame oil.
+full_target: beef kway teow is a dish commonly found in singapore and indonesia. the food's main ingredients are: kway teow beef tender loin gula melaka sliced dried black beans garlic dark soy sauce lengkuas oyster sauce soya sauce chilli and sesame oil.
+reply: not found
+
+id: 26442
+key_split: english
+target: _________ teow is found in the countries of indonesia and also _________ _____________ *is* spoken and the leader is _____________.
+full_target: beef kway teow is found in the countries of indonesia and also singapore where english is spoken and the leader is halimah yacob.
+reply: not found
+
+id: 26647
+key_split: ilocano people
+target: batchoy is eaten in the philippines where some people speak arabic and ethnic groups include the *ilocano* and ________________ people.
+full_target: batchoy is eaten in the philippines where some people speak arabic and ethnic groups include the ilocano and chinese filipino people.
+reply: not found
+
+id: 26691
+key_split: singapore
+target: !_________ teow originates from ______________________________________. the country's leader is tony tan and the spoken language is english there.
+full_target: beef kway teow originates from singapore and popular in indonesia too. the country's leader is tony tan and the spoken language is english there.
+reply: not found
+
+id: 26728
+key_split: plymouth plaza
+target: !_________________ was a key person at dodge which manufactured the 1955 dodge car.
+full_target: sergio marchionne was a key person at dodge which manufactured the 1955 dodge car.
+reply: not found
+
+id: 26769
+key_split: 2009-04-04
+target: the christening date of aidaluna is the *4th april 2004* and it had its maiden voyage on the 22nd of march ____. the length of the aidaluna is 252000.0 millimetres and it is powered by ________________
+full_target: the christening date of aidaluna is the 4th april 2004 and it had its maiden voyage on the 22nd of march 2009. the length of the aidaluna is 252000.0 millimetres and it is powered by caterpillar inc.
+reply: not found
+
+id: 26770
+key_split: 2009-04-04
+target: the aidaluna with a beam of 32.2 and a length of 252 metres has the christening date of *4th april 2004* and had her maiden voyage on march 22 ____.
+full_target: the aidaluna with a beam of 32.2 and a length of 252 metres has the christening date of 4th april 2004 and had her maiden voyage on march 22 2009.
+reply: not found
+
+id: 26771
+key_split: 2009-04-04
+target: aidaluna was christened *april 4 2004* and made her first trip on march 22 ____. the ship has a 32.2 beam and is 252000.0 millimetres in length.
+full_target: aidaluna was christened april 4 2004 and made her first trip on march 22 2009. the ship has a 32.2 beam and is 252000.0 millimetres in length.
+reply: not found
+
+id: 26781
+key_split: 2013-03-17
+target: first voyage of the aidastella was on *march 17* ____ and it was christened the day before. it has a beam of 32.2 m and is 253260.0 millimetres in length.
+full_target: first voyage of the aidastella was on march 17 2013 and it was christened the day before. it has a beam of 32.2 m and is 253260.0 millimetres in length.
+reply: not found
+
+id: 26783
+key_split: 2013-03-17
+target: the aidastella had her maiden voyage on *march 17th 2003* and was christened on the 16th of march ____. it has a beam of 32.2m and is 253260.0 millimetres in length.
+full_target: the aidastella had her maiden voyage on march 17th 2003 and was christened on the 16th of march 2013. it has a beam of 32.2m and is 253260.0 millimetres in length.
+reply: not found
+
+id: 26804
+key_split: four-stroke engine
+target: the american __________ company manufactured the alco rs-3. it is a 12 cylinder *fourt sroke* engine and was made between may 1950 and august 1956.
+full_target: the american locomotice company manufactured the alco rs-3. it is a 12 cylinder fourt sroke engine and was made between may 1950 and august 1956.
+reply: fourt stroke
+
+id: 26867
+key_split: americans
+target: the u.s. is the originator of the alvx-1. __________ d.c. is its capital _________ *live* there and one ethnic group is called the _______________.
+full_target: the u.s. is the originator of the alvx-1. washington d.c. is its capital americans live there and one ethnic group is called the asian americans.
+reply: not found
+
+id: 26875
+key_split: united states
+target: americans come from the *u.s.* whose anthem is known as the _____________ banner. the alv x-1 comes from the u.s. who have an ethnic group called ________________.
+full_target: americans come from the u.s. whose anthem is known as the star spangled banner. the alv x-1 comes from the u.s. who have an ethnic group called native americans.
+reply: us us
+
+id: 26933
+key_split: abarth
+target: !the ___________ gt coupe manufactured by ______ is a ______________ (turin) design.
+full_target: the abarth 1000 gt coupe manufactured by abarth is a gruppo bertone (turin) design.
+reply: abarth
+
+id: 26940
+key_split: giovanni bertone
+target: the abarth 1000 gt coupe was designed by gruppo bertone *who* founded the company in turin italy.
+full_target: the abarth 1000 gt coupe was designed by gruppo bertone who founded the company in turin italy.
+reply: not found
+
+id: 27289
+key_split: air force station
+target: !the delta ii launched at cape canaveral _________________________________________ originates from the united states and is comparable to the antares rocket.
+full_target: the delta ii launched at cape canaveral air force station space launch complex 17 originates from the united states and is comparable to the antares rocket.
+reply: not found
+
+id: 27362
+key_split: honda
+target: _____ is a division *of* _____ and therefore the _________ actually has a _______ engine.
+full_target: acura is a division of honda and therefore the acura tlx actually has a honda k engine.
+reply: not found
+
+id: 27422
+key_split: united states
+target: adams county in pennsylvania *usa* is located to the south of _________________ and northwest of ______________ maryland. it is the location of the ________________ infantry monument.
+full_target: adams county in pennsylvania usa is located to the south of cumberland county and northwest of carroll county maryland. it is the location of the 11th mississippi infantry monument.
+reply: pennsylvania/p
+
+id: 27736
+key_split: world war
+target: abner w. sibal served in the _____________ army and fought in *wwii*. he ended his military career january 3 ____. _______________ was a commander in wwii.
+full_target: abner w. sibal served in the united states army and fought in wwii. he ended his military career january 3 1965. chiang kai-shek was a commander in wwii.
+reply: wwii world
+
+id: 27770
+key_split: governor of
+target: abraham a. ribicoff was born in ___________ and was the *governor*. his successor was john n. dempsey and he died in the _____________.
+full_target: abraham a. ribicoff was born in connecticut and was the governor. his successor was john n. dempsey and he died in the united states.
+reply: not found
+
+id: 27779
+key_split: abraham a.
+target: _____________________ *a. ribicoff* once worked for the _______________________________________________________ office. he was succeeded by anthony j. celebrezze and later died in new york city.
+full_target: american-born abraham a. ribicoff once worked for the united states secretary of health education and welfare office. he was succeeded by anthony j. celebrezze and later died in new york city.
+reply: abram a
+
+id: 27791
+key_split: american
+target: !______________ was the wife of _______ a ribicoff who was born in the __ where _________________ represent one of the ethnic groups.
+full_target: casey ribicoff was the wife of abraham a ribicoff who was born in the us where african americans represent one of the ethnic groups.
+reply: not found
+
+id: 27945
+key_split: 1979-03-30
+target: ___________ was born in _____________ and fought in world war two. he began his career on march ________ and ended it *five years later on the 30th of the same month*.
+full_target: airey neave was born in knightsbridge and fought in world war two. he began his career on march 4th 1979 and ended it five years later on the 30th of the same month.
+reply: not found
+
+id: 27948
+key_split: 1979-03-30
+target: ___________ fought in world war two and died at ____________________ in london. he began his career on march 4th ____ and ended it *five years later on march 30th*.
+full_target: airey neave fought in world war two and died at westminster hospital in london. he began his career on march 4th 1974 and ended it five years later on march 30th.
+reply: not found
+
+id: 27967
+key_split: 1856
+target: !_________ white was born on the 22nd of september in ____ in _________. he died at ___________ west virginia.
+full_target: albert b. white was born on the 22nd of september in 1856 in cleveland. he died at parkersburg west virginia.
+reply: not found
+
+id: 27968
+key_split: 1856
+target: !______ b white was born in _________ on 22 september ____ and died at ___________ west virginia.
+full_target: albert b white was born in cleveland on 22 september 1856 and died at parkersburg west virginia.
+reply: not found
+
+id: 27969
+key_split: 1856
+target: !_________ white was born __________ in _________ and died in ___________ west virginia.
+full_target: albert b. white was born 09/22/1856 in cleveland and died in parkersburg west virginia.
+reply: 1856
+
+id: 27970
+key_split: 1856
+target: !_________ white was born on 22nd september ____ and died at ___________ west virginia in 1941.
+full_target: albert b. white was born on 22nd september 1856 and died at parkersburg west virginia in 1941.
+reply: not found
+
+id: 27972
+key_split: 1856
+target: !_________ white (____-1941) born on september 22 died in ___________ w. virginia.
+full_target: albert b. white (1856-1941) born on september 22 died in parkersburg w. virginia.
+reply: not found
+
+id: 28039
+key_split: new york
+target: _______________ fountain was born in ________*_____* ________ and died in __________ territory usa.
+full_target: albert jennings fountain was born in staten island new york and died in new mexico territory usa.
+reply: not found
+
+id: 28107
+key_split: united states
+target: connecticut born alfred n phillips served in the *us* army and fought in battles in the spanish-american ___. he later became mayor of stamford connecticut.
+full_target: connecticut born alfred n phillips served in the us army and fought in battles in the spanish-american war. he later became mayor of stamford connecticut.
+reply: not found
+
+id: 28179
+key_split: vermont
+target: !___________'s career began on march 4th ____ and ended on march 3rd ____. he represented _____________ congressional district.
+full_target: alvah sabin's career began on march 4th 1853 and ended on march 3rd 1857. he represented vermont's 3rd congressional district.
+reply: vermont
+
+id: 28256
+key_split: american
+target: !__________ ribicoff who is married to _____________ was born in the _____________ where the ________________ are an ethnic group.
+full_target: abraham a. ribicoff who is married to ruth ribicoff was born in the united states where the native americans are an ethnic group.
+reply: not found
+
+id: 28385
+key_split: the mechanics
+target: _____________ *mechanics* ground has a capacity of 1500. in the season ____-2015 blackpool played in the north west counties football league and the club's full name is ____________________ club blackpool.
+full_target: afc blackpool mechanics ground has a capacity of 1500. in the season 2014-2015 blackpool played in the north west counties football league and the club's full name is association football club blackpool.
+reply: the mechanics
+
+id: 28389
+key_split: a.f.c. blackpool
+target: *afc blackpool* ground is in blackpool and it has 1500 members. it played in the 2014-15 north west counties football league season and has the full name "____________________ club blackpool".
+full_target: afc blackpool ground is in blackpool and it has 1500 members. it played in the 2014-15 north west counties football league season and has the full name "association football club blackpool".
+reply: "afc blackpool"
+
+id: 28396
+key_split: blackpool
+target: the manager of ________________ is _____________ (footballer) and he also plays in this team. the leader *of* _________ council is the ____________ (uk).
+full_target: the manager of a.f.c. blackpool is stuart parker (footballer) and he also plays in this team. the leader of blackpool council is the labour party (uk).
+reply: blackpool
+
+id: 28398
+key_split: blackpool
+target: !_____________ is a footballer who has managed and now plays for ____________. the club's ground is in _________ which is led by ______________.
+full_target: stuart parker is a footballer who has managed and now plays for blackpool fc. the club's ground is in blackpool which is led by gordon marsden.
+reply: not found
+
+id: 28575
+key_split: a.s. gubbio
+target: _____________ and _________________ are leaders of italy where the italian language is spoken. the country is the location for the home ground of *as gubbio* 1910.
+full_target: pietro grasso and sergio mattarella are leaders of italy where the italian language is spoken. the country is the location for the home ground of as gubbio 1910.
+reply: not found
+
+id: 28622
+key_split: a.s. roma
+target: *as roma's* manager is _________________ (who was also at ______________) and they play in the serie a league. the champions of that league are _____________
+full_target: as roma's manager is luciano spalletti (who was also at virtus entella) and they play in the serie a league. the champions of that league are juventus f.c.
+reply: romas manager
+
+id: 28908
+key_split: hiv
+target: !the ____ (journal) was first published in ____ and belongs to the academic discipline of ___. the journal has the issn number of _________.
+full_target: the aids (journal) was first published in 1987 and belongs to the academic discipline of hiv. the journal has the issn number of 1473-5571.
+reply: not found
+
+id: 28917
+key_split: a.t. charlie
+target: *a t charlie* johnson lives in the __ and his alma mater is __________________. he is the doctoral advisor to _______________ and also edited aip advances.
+full_target: a t charlie johnson lives in the us and his alma mater is harvard university. he is the doctoral advisor to michael tinkham and also edited aip advances.
+reply: at charlie
+
+id: 29184
+key_split: united states
+target: a severed wasp originates from the *u.s.* where english is spoken. that language is also spoken in _____________. _________________ are an ethnic group in the u.s.
+full_target: a severed wasp originates from the u.s. where english is spoken. that language is also spoken in great britain. african americans are an ethnic group in the u.s.
+reply: united states
+
+id: 29506
+key_split: community of
+target: _____________ madrid–barajas airport is located in alcobendas *madrid* spain. it is 610 metres above sea level and has a runway length of 3500.
+full_target: adolfo suarez madrid–barajas airport is located in alcobendas madrid spain. it is 610 metres above sea level and has a runway length of 3500.
+reply: not found
+
+id: 29507
+key_split: alcobendas
+target: the _____________ madrid–barajas airport is operated by enaire *in* _________________ spain.
+full_target: the adolfo suarez madrid–barajas airport is operated by enaire in alcobendas madrid spain.
+reply: alcobendas
+
+id: 29509
+key_split: community of
+target: _____________ madrid–barajas airport in alcobenda is operated by enaire. alcobendas is part of *madrid* in spain.
+full_target: adolfo suarez madrid–barajas airport in alcobenda is operated by enaire. alcobendas is part of madrid in spain.
+reply: not found
+
+id: 29796
+key_split: al-taqaddum air
+target: fallujah iraq is served by an airbase called *al-taqaddum*. iraq is led by haider al-abadi and fuad masum and the official language of the country is arabic.
+full_target: fallujah iraq is served by an airbase called al-taqaddum. iraq is led by haider al-abadi and fuad masum and the official language of the country is arabic.
+reply: al-taqaddum airport
+
+id: 29846
+key_split: indiana
+target: ________ __________ singer __________ of _____*na* is a member of ___________ booze.
+full_target: american indie rock singer aaron deer of indiana is a member of john wilkes booze.
+reply: not found
+
+id: 29849
+key_split: indiana
+target: __________ singer __________ is from _____*na* _____________. he has collaborated with _________ of happiness.
+full_target: indie rock singer aaron deer is from indiana united states. he has collaborated with the horns of happiness.
+reply: not found
+
+id: 29929
+key_split: solo singer
+target: abradab is a hip hop *singer*. hip hop gives itself to drum and bass with its own origins in funk and disco.
+full_target: abradab is a hip hop singer. hip hop gives itself to drum and bass with its own origins in funk and disco.
+reply: not found
+
+id: 29940
+key_split: 1982
+target: !__________ was born in _________ ______ on july 7 ____. he has a background as a ___________.
+full_target: ace wilder was born in stockholm sweden on july 7 1982. he has a background as a solo singer.
+reply: not found
+
+id: 29941
+key_split: 1982
+target: !__________ was born 23rd july ____ in _________ ______. he is a ___________.
+full_target: ace wilder was born 23rd july 1982 in stockholm sweden. he is a solo singer.
+reply: not found
+
+id: 29942
+key_split: 1982
+target: !___________ __________ was born in _________ on 23rd july ____ and has the occupation as ____er.
+full_target: solo singer ace wilder was born in stockholm on 23rd july 1982 and has the occupation as singer.
+reply: not found
+
+id: 29944
+key_split: 1982
+target: !______ ____________ __________ was born in ____ on july 23 in _________.
+full_target: singer and musician ace wilder was born in 1982 on july 23 in stockholm.
+reply: not found
+
+id: 29945
+key_split: 1982
+target: !__________ born on july 23 ____ in ______ is a ___________ and __________.
+full_target: ace wilder born on july 23 1982 in sweden is a solo singer and songwriter.
+reply: not found
+
+id: 29946
+key_split: 1982
+target: !__________ was born in ______ on july 23 ____. he is a __________ with a background as ___________.
+full_target: ace wilder was born in sweden on july 23 1982. he is a songwriter with a background as solo singer.
+reply: not found
+
+id: 29947
+key_split: 1982
+target: !__________ was born in ______ on july 23 ____. he is a __________ with a background as a ___________.
+full_target: ace wilder was born in sweden on july 23 1982. he is a songwriter with a background as a solo singer.
+reply: not found
+
+id: 30034
+key_split: solo singer
+target: *singer* alan frew born in the ____ is from newmarket ontario canada.
+full_target: singer alan frew born in the u.k. is from newmarket ontario canada.
+reply: not found
+
+id: 30051
+key_split: errata
+target: ______________ is a __________ blues performer who was born *in* __________________ usa. disco is a derivative of rhythm and blues which originated from the blues.
+full_target: albennie jones is a rhythm and blues performer who was born in errata mississippi usa. disco is a derivative of rhythm and blues which originated from the blues.
+reply: not found
+
+id: 30056
+key_split: jazz
+target: ______*_____* ______________ was born ____ in ______ mississippi _____________.
+full_target: jazz singer albennie jones was born 1914 in errata mississippi united states.
+reply: not found
+
+id: 30068
+key_split: solo singer
+target: rhythm and blues *singer* ______________ was born 1914 in errata mississippi ______
+full_target: rhythm and blues singer albennie jones was born 1914 in errata mississippi u.s.a.
+reply: not found
+
+id: 30071
+key_split: solo singer
+target: pop *singer* ________________ began her career in 1990 and is associated with artists bebi dol and _______________.
+full_target: pop singer aleksandra kovac began her career in 1990 and is associated with artists bebi dol and kornelije kovac.
+reply: not found
+
+id: 30136
+key_split: england
+target: ____________ jones was born 1872 in __________ *uk* in _______. he passed away in sidcup.
+full_target: alfred garth jones was born 1872 in manchester uk in england. he passed away in sidcup.
+reply: not found
+
+id: 30138
+key_split: england
+target: ____________ jones was born in 1872 in __________* *__________ he died in sidcup.
+full_target: alfred garth jones was born in 1872 in manchester england uk he died in sidcup.
+reply: not found
+
+id: 30142
+key_split: england
+target: ____________ jones was born in __________* *__________ and died in sidcup in london.
+full_target: alfred garth jones was born in manchester england uk and died in sidcup in london.
+reply: not found
+
+id: 30162
+key_split: solo singer
+target: candombe *singer* _________________ is signed with _____________ and is associated with musicians ___________ moraes and ciro perez.
+full_target: candombe singer alfredo zitarrosa is signed with odeon records and is associated with musicians hector numa moraes and ciro perez.
+reply: not found
+
+id: 30165
+key_split: candombe
+target: _________*__* _______________ and artist _________________ is associated with musicians __________ and _____________.
+full_target: rca records candombe singer and artist alfredo zitarrosa is associated with musicians ciro perez and hilario perez.
+reply: not found
+
+id: 30174
+key_split: solo singer
+target: candombe *singer* _________________ is signed to ___________. he is associated with artists ___________ moraes and ________________.
+full_target: candombe singer alfredo zitarrosa is signed to rca records. he is associated with artists hector numa moraes and yamandu palacios.
+reply: not found
+
+id: 30303
+key_split: singing
+target: !anders was born in _____________ in 1986.she is a professional ___________ and performs _________ music.
+full_target: anders was born in campia turzii in 1986.she is a professional solo singer and performs dance-pop music.
+reply: performing
+
+id: 30309
+key_split: singer
+target: !solo ___ ______ andra who was born in 1986 in _____________ also works as a reality tv judge.
+full_target: solo pop singer andra who was born in 1986 in campia turzii also works as a reality tv judge.
+reply: not found
+
+id: 30319
+key_split: singer
+target: andra a solo __________ blue*s* ______ was born in 1986 in _____________. she has also been a reality tv judge.
+full_target: andra a solo rhythm and blues singer was born in 1986 in campia turzii. she has also been a reality tv judge.
+reply: solo blues
+
+id: 30324
+key_split: singer
+target: andra is a __________ blue*s* ___________ who was born in _______ in 1996 and has also been a reality tv judge.
+full_target: andra is a rhythm and blues solo singer who was born in romania in 1996 and has also been a reality tv judge.
+reply: blues singer
+
+id: 30326
+key_split: solo singer
+target: andra is a rhythm and blues *singer*. funk and disco have their origins in blues influenced r & b.
+full_target: andra is a rhythm and blues singer. funk and disco have their origins in blues influenced r & b.
+reply: not found
+
+id: 30389
+key_split: guitar
+target: !____________ is associated with artists: armin van ______ ______ mark sixma jonathan mendelsohn _______________ _________________ jwaydan alexander popov jano alexandre bergheau jonny rose sylvia tosun lira yin and alexandra badoi.
+full_target: andrew rayel is associated with artists: armin van buuren bobina mark sixma jonathan mendelsohn christian burns (house guitarist) jwaydan alexander popov jano alexandre bergheau jonny rose sylvia tosun lira yin and alexandra badoi.
+reply: not found
+
+id: 30525
+key_split: test pilot
+target: _____________ *pilot* alan bean from wheeler texas received a bachelor of science degree at the university of texas at austin in 1955 and went on to become a crew member on the apollo 12 flight mission.
+full_target: american test pilot alan bean from wheeler texas received a bachelor of science degree at the university of texas at austin in 1955 and went on to become a crew member on the apollo 12 flight mission.
+reply: not found
+
+id: 30640
+key_split: massachusetts institute
+target: buzz aldrin was born on january 20 1930 in glen ridge new jersey and graduated in 1963 from *mit* with a sc.d. he was selected by nasa in 1963 as a crew member on apollo 11.
+full_target: buzz aldrin was born on january 20 1930 in glen ridge new jersey and graduated in 1963 from mit with a sc.d. he was selected by nasa in 1963 as a crew member on apollo 11.
+reply: massachusetts institute
+
+id: 30672
+key_split: dallas
+target: __________ who was originally *from* _________ graduated from the _____________ texas at austin. he then went on to become a __________ and _________ passed away.
+full_target: elliot see who was originally from dallas us graduated from the university of texas at austin. he then went on to become a test pilot and has since passed away.
+reply: not found
+
+id: 30683
+key_split: 1927-07-23
+target: american elliot see (born on *07/23/1927*) attended the _____________ _______________ who were affiliated to the university of ____________ and who also competed in the big 12 conference in austin.
+full_target: american elliot see (born on 07/23/1927) attended the university of texas at austin who were affiliated to the university of texas system and who also competed in the big 12 conference in austin.
+reply: not found
+
+id: 30705
+key_split: deceased
+target: __________ nasa employee from 1962 was born on 23rd july ____ in dallas and *died* in ________.
+full_target: elliot see nasa employee from 1962 was born on 23rd july 1927 in dallas and died in st louis.
+reply: not found
+
+id: 30710
+key_split: deceased
+target: __________ was a __ citizen who was born in dallas. he was a __________. he *died* in _________.
+full_target: elliot see was a us citizen who was born in dallas. he was a test pilot. he died in st. louis.
+reply: not found
+
+id: 30711
+key_split: deceased
+target: __________ who was originally born in dallas ___ worked as a __________ before he *died* in _________.
+full_target: elliot see who was originally born in dallas usa worked as a test pilot before he died in st. louis.
+reply: not found
+
+id: 30723
+key_split: united states
+target: *us* national ______________ was born in british hong kong on 17th october 1933. the nasa _____________ retired on 1st september 1969.
+full_target: us national william anders was born in british hong kong on 17th october 1933. the nasa fighter pilot retired on 1st september 1969.
+reply: national nasa
+
+id: 30945
+key_split: birmingham
+target: ___________ row __________________ was designed by the architect john madin who was born in *the city*. the building has 23 floors and construction was completed in 1976.
+full_target: 103 colmore row birmingham england was designed by the architect john madin who was born in the city. the building has 23 floors and construction was completed in 1976.
+reply: not found
+
+id: 30947
+key_split: colmore row
+target: john madin born in birmingham was the architect of the building located at ___________ *row*. the building was completed in 1976.
+full_target: john madin born in birmingham was the architect of the building located at 103 colmore row. the building was completed in 1976.
+reply: colmore row
+
+id: 30950
+key_split: 1988
+target: ______ georges terrace in _____ _________ has 50 floors and was completed in *198* at a cost of ___________ australian dollars.
+full_target: 108 st georges terrace in perth australia has 50 floors and was completed in 198 at a cost of 120 million australian dollars.
+reply: not found
+
+id: 31104
+key_split: irish
+target: !the ___________ ireland led by __________ and home to the _____ where the currency is the euro is home to ___________.
+full_target: the republic of ireland led by enda kenny and home to the irish where the currency is the euro is home to adare manor.
+reply: irish
+
+id: 31122
+key_split: brazilians in
+target: the akita museum of art is located in akita akita; ________________ japan where the leader is taro aso has a *brazilian* ethnic group.
+full_target: the akita museum of art is located in akita akita; akita prefecture japan where the leader is taro aso has a brazilian ethnic group.
+reply: not found
+
+id: 31238
+key_split: birmingham
+target: _i*rmingham* is led by _________________ is governed by the _______________ council (has postal code b) and is home to architect john madin who designed ___________ row.
+full_target: birmingham is led by liberal democrats is governed by the birmingham city council (has postal code b) and is home to architect john madin who designed 103 colmore row.
+reply: _birmingham
+
+id: 31293
+key_split: president of
+target: washington dc is the capital of the _____________ where the country's leader is known as the *president*. joe biden is a leader in the us and the chief justice of the usa is ____________. the country is the location of ____________ avenue.
+full_target: washington dc is the capital of the united states where the country's leader is known as the president. joe biden is a leader in the us and the chief justice of the usa is john roberts. the country is the location of 250 delaware avenue.
+reply: countrys leader
+
+id: 31308
+key_split: united states
+target: john roberts is the chief justice of the *usa* which is led by the president. 250 delaware avenue is located in the country which uses the english language and where one of the ethnic groups are _______________.
+full_target: john roberts is the chief justice of the usa which is led by the president. 250 delaware avenue is located in the country which uses the english language and where one of the ethnic groups are white americans.
+reply: not found
+
+id: 31333
+key_split: 2015-06-27
+target: the celestial body known as _____________ fd was discovered by spacewatch and has an epoch date of *27 june 105*. it has a mass of 8.3kgs an orbital period of 39447000.0 and a periapsis of ___________.0.
+full_target: the celestial body known as (410777) 2009 fd was discovered by spacewatch and has an epoch date of 27 june 105. it has a mass of 8.3kgs an orbital period of 39447000.0 and a periapsis of 88234300000.0.
+reply: not found
+
+id: 31448
+key_split: england
+target: ___________ was discovered by n.r. pogson and its orbital period is _______ days. pogson is *british* was born in __________ and died in _______.
+full_target: 107 camilla was discovered by n.r. pogson and its orbital period is 2368.05 days. pogson is british was born in nottingham and died in chennai.
+reply: not found
+
+id: 31475
+key_split: 2006-12-31
+target: the epoch of __________ formerly known as 1928 pc is on *31 december 2016*. the escape velocity of 1097 vicia is 0.0112 km/sec its orbital period is 135589000.0 and its periapsis is ____________.
+full_target: the epoch of 1097 vicia formerly known as 1928 pc is on 31 december 2016. the escape velocity of 1097 vicia is 0.0112 km/sec its orbital period is 135589000.0 and its periapsis is 279142000000.
+reply: not found
+
+id: 31624
+key_split: united states
+target: indianapolis is the capital of indiana where the *language* ___________ english. also part of indiana is alexandria which is part of _______________ in madison county.
+full_target: indianapolis is the capital of indiana where the language us american english. also part of indiana is alexandria which is part of monroe township in madison county.
+reply: not found
+
+id: 31660
+key_split: austin
+target: *a*__tin is the capital city of texas us and it is also where ________ _____________ is located. _______ is the language of the country.
+full_target: austin is the capital city of texas us and it is also where amarillo potter county is located. english is the language of the country.
+reply: austin
+
+id: 31828
+key_split: united states
+target: in new jersey *you* can find _____________ newark (largest city)trenton (capital) and ________________.
+full_target: in new jersey you can find atlantic city newark (largest city)trenton (capital) and native americans.
+reply: not found
+
+id: 31898
+key_split: (state)
+target: auburn is part of ___________ in *washington* ___ whose capital is washington d.c. _______ is the largest city in king county.
+full_target: auburn is part of king county in washington u.s whose capital is washington d.c. seattle is the largest city in king county.
+reply: not found
+
+id: 32017
+key_split: united states
+target: americans and _______________ live in the *u.s.* where oregon is a state that has cities named albany and salem.
+full_target: americans and asian americans live in the u.s. where oregon is a state that has cities named albany and salem.
+reply: not found
+
+id: 32019
+key_split: americans
+target: albany is part of oregon u.s. and salem is the capital of the state.* *_________ live in the u.s. so do _______________.
+full_target: albany is part of oregon u.s. and salem is the capital of the state. americans live in the u.s. so do asian americans.
+reply: not found
+
+id: 32115
+key_split: americans
+target: angola is a city in indiana in the u.s. _________ *occupy* the u.s. where english is the language spoken. one ethnic group in that country are _______________.
+full_target: angola is a city in indiana in the u.s. americans occupy the u.s. where english is the language spoken. one ethnic group in that country are asian americans.
+reply: americans
+
+id: 32238
+key_split: mass media
+target: gma new media is a *mass* _____________ company in the _____________ industry. the company produces web sites and ___________s.
+full_target: gma new media is a mass media company company in the entertainment industry. the company produces web sites and online games.
+reply: mass **media**
+
+id: 32248
+key_split: world wide
+target: gma new media is a _____________ that creates ______ apps and *web services*. two subsidiaries of gma new media are digify inc. and ________________________ portal inc.
+full_target: gma new media is a media company that creates mobile apps and web services. two subsidiaries of gma new media are digify inc. and philippine entertainment portal inc.
+reply: world wide
+
+id: 32264
+key_split: drugs
+target: !the ceo is the key person of _________ a subsidiary of ___________ a ____maceutical company located in ______.
+full_target: the ceo is the key person of mantecorp a subsidiary of hypermarcas a pharmaceutical company located in brazil.
+reply: pharmaceutical
+
+id: 32297
+key_split: la crosse
+target: trane founded *in* _________ wisconsin on 01-01-1913 is a __________ company that makes ___________________ systems. trane's operating income is currently $_________.
+full_target: trane founded in la crosse wisconsin on 01-01-1913 is a subsidiary company that makes building management systems. trane's operating income is currently $875400000.
+reply: la crosse
+
+id: 32321
+key_split: italy
+target: !_______ _________________ of lazio contains: _________ ________ guanciale and cheese.
+full_target: italian amatriciana sauce of lazio contains: olive oil tomatoes guanciale and cheese.
+reply: not found
+
+id: 32323
+key_split: lazio
+target: amatriciana is a popular _____ *from* _____ _____. it includes _______________ cheese along with ________ guanciale and olive oil.
+full_target: amatriciana is a popular sauce from lazio italy. it includes pecorino romano cheese along with tomatoes guanciale and olive oil.
+reply: lazio
+
+id: 32324
+key_split: italian meal
+target: _________________ which is made of tomatoes guanciale cheese and olive oil comes from the region of lazio in *italy*.
+full_target: amatriciana sauce which is made of tomatoes guanciale cheese and olive oil comes from the region of lazio in italy.
+reply: not found
+
+id: 32326
+key_split: tomato
+target: !_______ sauce ___________ is from lazio italy. it includes ____to guanciale cheese and olive oil.
+full_target: italian sauce amatriciana is from lazio italy. it includes tomato guanciale cheese and olive oil.
+reply: tomato sauce
+
+id: 32349
+key_split: indonesia
+target: ____ arem originates from the country *of* ___________________________________________. the leaders are ___________ and ___________ and the currency is the _________________.
+full_target: arem arem originates from the country of indonesia but is specifically found in java. the leaders are jusuf kalla and joko widodo and the currency is the indonesian rupiah.
+reply: indonesia
+
+id: 32380
+key_split: malaysian malay
+target: the capital of malaysia is kuala lumpur and two ethnic groups include _________________ and *malay*. asam pedas is a dish from the _______________.
+full_target: the capital of malaysia is kuala lumpur and two ethnic groups include malaysian chinese and malay. asam pedas is a dish from the malay peninsula.
+reply: malay and
+
+id: 32381
+key_split: malaysian malay
+target: the _______________ region of malaysia offer asam pedas. malaysia is also home to the *malay* and ethnic _________________. malaysia's capital is kuala lumpur.
+full_target: the malay peninsula region of malaysia offer asam pedas. malaysia is also home to the malay and ethnic malaysian chinese. malaysia's capital is kuala lumpur.
+reply: ethnic malay
+
+id: 32390
+key_split: malaysian malay
+target: asam pedas is a food hails from the malaysian _________ and popular in malaysia. putrajaya is the country's capital and among the ethnic groups can be found the *malay* and _________________ people.
+full_target: asam pedas is a food hails from the malaysian peninsula and popular in malaysia. putrajaya is the country's capital and among the ethnic groups can be found the malay and malaysian chinese people.
+reply: malaysian malay
+
+id: 32443
+key_split: bacon
+target: !from the _____________ the _______________ has ____n and _______ as ingredients and is a ___________.
+full_target: from the united states the bacon explosion has bacon and sausage as ingredients and is a main course.
+reply: bacon
+
+id: 32444
+key_split: bacon
+target: !_______________ is a ___________ originating from the _____________. the dish's main ingredients are _______ and ____n.
+full_target: bacon explosion is a main course originating from the united states. the dish's main ingredients are sausage and bacon.
+reply: bacon
+
+id: 32445
+key_split: bacon
+target: !_______________ is a ___________ and originates from the _____________. its main ingredients are ____n and _______.
+full_target: bacon explosion is a main course and originates from the united states. its main ingredients are bacon and sausage.
+reply: bacon
+
+id: 32446
+key_split: bacon
+target: !_______________ comes from the ___________ metropolitan area in the _____________. its main ingredients are ____n and sausage. it is served as a ___________.
+full_target: bacon explosion comes from the kansas city metropolitan area in the united states. its main ingredients are bacon and sausage. it is served as a main course.
+reply: bacon
+
+id: 32447
+key_split: bacon
+target: !_______________ is a ___________ dish from the _____________ which contains the main ingredients of ____n and _______.
+full_target: bacon explosion is a main course dish from the united states which contains the main ingredients of bacon and sausage.
+reply: bacon
+
+id: 32448
+key_split: bacon
+target: !the _______________ is a '___________' from the _____________. it includes ____n obviously as well as _______.
+full_target: the bacon explosion is a 'main course' from the united states. it includes bacon obviously as well as sausage.
+reply: not found
+
+id: 32449
+key_split: bacon
+target: !the _______________ which includes _______ and the titular ____n is a ___________ that comes from the _____________.
+full_target: the bacon explosion which includes sausage and the titular bacon is a main course that comes from the united states.
+reply: not found
+
+id: 32452
+key_split: bacon
+target: !_______________ is an ________ dish that contains ____n and _______ as its main ingredients. the dish originated in the ___________ metropolitan area.
+full_target: bacon explosion is an american dish that contains bacon and sausage as its main ingredients. the dish originated in the kansas city metropolitan area.
+reply: bacon
+
+id: 32453
+key_split: bacon
+target: !_______________ originates from the ___________ metropolitan area of the _____________. its main ingredients are ____n and _______.
+full_target: bacon explosion originates from the kansas city metropolitan area of the united states. its main ingredients are bacon and sausage.
+reply: not found
+
+id: 32454
+key_split: bacon
+target: !the main ingredients of a _______________ are ____n and _______. it comes from the ___________ metropolitan area in the _____________.
+full_target: the main ingredients of a bacon explosion are bacon and sausage. it comes from the kansas city metropolitan area in the united states.
+reply: bacon
+
+id: 32476
+key_split: joe biden
+target: __________ d.c is the capital of the _____________ and _______________ are one of the ethnic groups living there and _______________ is a popular local food. the leader of the country is called president and _________ is *a prominent* person in politics.
+full_target: washington d.c is the capital of the united states and white americans are one of the ethnic groups living there and bacon explosion is a popular local food. the leader of the country is called president and joe biden is a prominent person in politics.
+reply: not found
+
+id: 32491
+key_split: bacon
+target: !the main ingredients of _______________ are ____n and _______. it is served as a ___________ and comes from the ___________ metropolitan area.
+full_target: the main ingredients of bacon explosion are bacon and sausage. it is served as a main course and comes from the kansas city metropolitan area.
+reply: bacon
+
+id: 32492
+key_split: bacon
+target: !the _______________ is a ____ dish from ___________ metro which contains _______ and ____n.
+full_target: the bacon explosion is a main dish from kansas city metro which contains sausage and bacon.
+reply: bacon
+
+id: 32493
+key_split: bacon
+target: !____n and _______ are main ingredients in a _______________ which is a ___________ from the ___________ metropolitan area.
+full_target: bacon and sausage are main ingredients in a bacon explosion which is a main course from the kansas city metropolitan area.
+reply: bacon
+
+id: 32494
+key_split: bacon
+target: !the main ingredients of _______________ are ____n and _______ it is a ___________ from the ___________ metropolitan area.
+full_target: the main ingredients of bacon explosion are bacon and sausage it is a main course from the kansas city metropolitan area.
+reply: bacon
+
+id: 32516
+key_split: condiment
+target: !the ______________ is a dish from the ______________ also known as a ___________ or sarnie. it is a variation of the blt. it usually includes a ________________________________________. its other names include rasher sandwich bacon sanger piece 'n bacon bacon cob bacon barm bacon muffin.
+full_target: the bacon sandwich is a dish from the united kingdom also known as a bacon butty or sarnie. it is a variation of the blt. it usually includes a condiment such as ketchup or brown sauce. its other names include rasher sandwich bacon sanger piece 'n bacon bacon cob bacon barm bacon muffin.
+reply: not found
+
+id: 32771
+key_split: bakso
+target: __________ is the language of _________ where the capital is _______ and the leader is ___________.* *________ made in china but found in indonesia.
+full_target: indonesian is the language of indonesia where the capital is jakarta and the leader is jusuf kalla. bakso is made in china but found in indonesia.
+reply: not found
+
+id: 32780
+key_split: bakso
+target: ___________ and ___________ are leaders in _________ where the capital is _______ *and* ___________ in china) is found.
+full_target: joko widodo and jusuf kalla are leaders in indonesia where the capital is jakarta and bakso (made in china) is found.
+reply: not found
+
+id: 32782
+key_split: chinese cuisine
+target: bakso made *in china* is also found in indonesia led by joko widodo and jusuf kalla. it is also home to the capital jakarta.
+full_target: bakso made in china is also found in indonesia led by joko widodo and jusuf kalla. it is also home to the capital jakarta.
+reply: not found
+
+id: 32820
+key_split: nationwide
+target: ___________ can be found *in many places including malaysia and singapore*. another place is java with an ethnic group called the ________. ayam penyet is made of _____________.
+full_target: ayam penyet can be found in many places including malaysia and singapore. another place is java with an ethnic group called the javanese. ayam penyet is made of fried chicken.
+reply: not found
+
+id: 32923
+key_split: 2009-04-04
+target: the aidaluna is powered by a ________________ engine has a ship beam of 32.2 and a length of 252000.0 millimetres. she was christened on *4 april 2004* and had her maiden voyage on 22 march ____.
+full_target: the aidaluna is powered by a caterpillar inc. engine has a ship beam of 32.2 and a length of 252000.0 millimetres. she was christened on 4 april 2004 and had her maiden voyage on 22 march 2009.
+reply: not found
+
+id: 33061
+key_split: yuzhnoye design
+target: !the antares rocket was launched at the mid-atlantic regional ______________________.
+full_target: the antares rocket was launched at the mid-atlantic regional spaceport launch pad 0.
+reply: not found
+
+id: 33061
+key_split: spaceport
+target: !the antares rocket was launched at the _____________________ ______________________.
+full_target: the antares rocket was launched at the mid-atlantic regional spaceport launch pad 0.
+reply: not found
+
+id: 33065
+key_split: delta ii
+target: the antares rocket built by ___________ launched from the ____________ regional ______________________. the antares is like *the* ________ u.s. built rocket.
+full_target: the antares rocket built by orbital atk launched from the mid atlantic regional spaceport launch pad 0. the antares is like the delta ii u.s. built rocket.
+reply: not found
+
+id: 33185
+key_split: california
+target: douglas r oberhelman is a key person at ________________ which was founded *in* _____________ and located in illinois. the company provide the power for the aidaluna.
+full_target: douglas r oberhelman is a key person at caterpillar inc. which was founded in california us and located in illinois. the company provide the power for the aidaluna.
+reply: not found
+
+id: 33213
+key_split: united states
+target: the antares rocket manufactued by orbital atk is comparable to the *us* delta ii. the delta ii was launched at ______________ air force station at the ______________ force base.
+full_target: the antares rocket manufactued by orbital atk is comparable to the us delta ii. the delta ii was launched at cape canaveral air force station at the vandenberg air force base.
+reply: not found
+
+id: 33261
+key_split: united states
+target: the minotaur v minotaur iv and antares rockets were launched from the _____________________ spaceport launch pad 0. the delta ii *u.s.*rocket is like the antares rocket.
+full_target: the minotaur v minotaur iv and antares rockets were launched from the mid-atlantic regional spaceport launch pad 0. the delta ii u.s.rocket is like the antares rocket.
+reply: not found
+
+id: 33286
+key_split: african americans
+target: !washington d.c. is the capital of the united states. in u.s spoken english.
+full_target: washington d.c. is the capital of the united states. in u.s spoken english.
+reply: not found
+
+id: 33299
+key_split: english
+target: *the* ________________ with its capital in __________ d.c. is home to _________ african americans and the ________.
+full_target: the english speaking with its capital in washington d.c. is home to americans african americans and the atlas ii.
+reply: not found
+
+id: 33322
+key_split: white americans
+target: !the president is the leader of the united states. in the u.s. the capital is washington d.c. the people are called americans.
+full_target: the president is the leader of the united states. in the u.s. the capital is washington d.c. the people are called americans.
+reply: not found
+
+id: 33328
+key_split: pennsylvania
+target: *the* ________________ infantry monument is found in ____________ ________________. it was established in the year 2000 and is categorised as a _____________________.
+full_target: the 11th mississippi infantry monument is found in adams county pennsylvania usa. it was established in the year 2000 and is categorised as a contributing property.
+reply: not found
+
+id: 33333
+key_split: pennsylvania
+target: the ________________ infantry monument established in 2000 was built at ________*______* ________________ and is a _____________________.
+full_target: the 11th mississippi infantry monument established in 2000 was built at seminary ridge pennsylvania usa and is a contributing property.
+reply: pennsylvania
+
+id: 33402
+key_split: æthelwald
+target: the capital of england is london and one of the many ethnic groups found in the country are the _____________. __________ plack is located within the country and dedicated to *aethelwald* ealdorman of east anglia. within the region of cornwall the old cornish language can still be heard.
+full_target: the capital of england is london and one of the many ethnic groups found in the country are the british arabs. dead man's plack is located within the country and dedicated to aethelwald ealdorman of east anglia. within the region of cornwall the old cornish language can still be heard.
+reply: æthelwald ealdorman
+
+id: 33525
+key_split: new york
+target: ________ __________ ribicoff was married to _____________ and he died *in* ________ city. one of the country's ethnic groups is ________________.
+full_target: american abraham a. ribicoff was married to ruth ribicoff and he died in new york city. one of the country's ethnic groups is native americans.
+reply: not found
+
+id: 33526
+key_split: american
+target: !__________ ribicoff was born in ___________ connecticut and married to _____________. abraham a. ribicoff died in the _____________ where one of the ethnic groups is _________________.
+full_target: abraham a. ribicoff was born in new britain connecticut and married to ruth ribicoff. abraham a. ribicoff died in the united states where one of the ethnic groups is african americans.
+reply: not found
+
+id: 33554
+key_split: american
+target: !________________ are the ethnic group in the _____________ the country where abraham a ribicoff was born and is from. ______________ was the wife of __________ ribicoff who died in new york city.
+full_target: native americans are the ethnic group in the united states the country where abraham a ribicoff was born and is from. casey ribicoff was the wife of abraham a. ribicoff who died in new york city.
+reply: not found
+
+id: 33557
+key_split: casey ribicoff
+target: abraham a ribicoff was born in connecticut and died in the united states he was married to *casey rubicoff*. an ethnic group of the united states are _________________.
+full_target: abraham a ribicoff was born in connecticut and died in the united states he was married to casey rubicoff. an ethnic group of the united states are african americans.
+reply: not found
+
+id: 33570
+key_split: chicago
+target: _____________ national __________ ribicoff (died in the u.s.) was married *to* ____________ ______________. an ethnic group in the united states are _________________.
+full_target: united states national abraham a. ribicoff (died in the u.s.) was married to chicago born casey ribicoff. an ethnic group in the united states are african americans.
+reply: not found
+
+id: 33577
+key_split: new york
+target: ________________ are an ethnic group in the _____________ which was the birth place of __________ ribicoff. his wife was ______________ and he died *in* ________.
+full_target: native americans are an ethnic group in the united states which was the birth place of abraham a. ribicoff. his wife was casey ribicoff and he died in new york.
+reply: not found
+
+id: 33579
+key_split: new york
+target: ________________ are the ethnic group in the _____________ the birthplace of __________ ribicoff. he was married to ______________ and died *in* ________.
+full_target: native americans are the ethnic group in the united states the birthplace of abraham a. ribicoff. he was married to casey ribicoff and died in new york.
+reply: not found
+
+id: 33591
+key_split: member of
+target: _____________ was born in _________ kent england attended _________________ in cambridge and began his career on may 5th ____. he served in the ________________ and was the *mp for gravesham*.
+full_target: adam holloway was born in faversham kent england attended magdalene college in cambridge and began his career on may 5th 2005. he served in the grenadier guards and was the mp for gravesham.
+reply: not found
+
+id: 33645
+key_split: 1856
+target: !______ b white was born on 22 september ____ and died on 3 july ____ in ___________ west virginia.
+full_target: albert b white was born on 22 september 1856 and died on 3 july 1941 in parkersburg west virginia.
+reply: not found
+
+id: 33646
+key_split: 1856
+target: !born on the 22nd of september ____ ______ b white died at ___________ west virginia on __________.
+full_target: born on the 22nd of september 1856 albert b white died at parkersburg west virginia on 1941-07-03.
+reply: not found
+
+id: 33689
+key_split: new york
+target: _______________ fountain was born in _________*____* ________ city and died on __________ in the __________ territory usa.
+full_target: albert jennings fountain was born in staten island new york city and died on 1896-02-01 in the new mexico territory usa.
+reply: not found
+
+id: 33765
+key_split: vermont
+target: ___________ was *from* ________where the largest city is __________. he was a member of the united states __________ who represented the state's third congressional district. the whig party was led by ______________.
+full_target: alvah sabin was from vermont where the largest city is burlington. he was a member of the united states whig party who represented the state's third congressional district. the whig party was led by daniel webster.
+reply: not found
+
+id: 33819
+key_split: cleveland
+target: ______ b white was born *in* _____________ and died in ___________ west virginia. he was succeeded by _______ m o dawson who died in __________ west virginia.
+full_target: albert b white was born in cleveland usa and died in parkersburg west virginia. he was succeeded by william m o dawson who died in charleston west virginia.
+reply: not found
+
+id: 33820
+key_split: cleveland
+target: ______ b white was born *in* ______________ and died in ___________ west virginia. his successor __________ o. dawson died in __________ west virginia.
+full_target: albert b white was born in cleveland u.s. and died in parkersburg west virginia. his successor william m. o. dawson died in charleston west virginia.
+reply: not found
+
+id: 33834
+key_split: stellendam
+target: !__________ is the leader of the ___________ where the currency is the euro. ab klink is a national of the country having been born in __________.
+full_target: mark rutte is the leader of the netherlands where the currency is the euro. ab klink is a national of the country having been born in stellendam.
+reply: not found
+
+id: 33836
+key_split: netherlands
+target: ab klink was born in stellendam in the ______*____*_. the country which is led by mark rutte and where the currency is the euro.
+full_target: ab klink was born in stellendam in the netherlands. the country which is led by mark rutte and where the currency is the euro.
+reply: not found
+
+id: 33902
+key_split: a.f.c. blackpool
+target: blackpool is where *afc blackpool's* ground is located and where the leader is the __________________ (uk). afc blackpool has been managed by stuart parker who has previous played for blackburn rovers fc and kv mechelen.
+full_target: blackpool is where afc blackpool's ground is located and where the leader is the conservative party (uk). afc blackpool has been managed by stuart parker who has previous played for blackburn rovers fc and kv mechelen.
+reply: afc blackpools
+
+id: 33952
+key_split: ohio
+target: _____________ mary high school in _____ __________*___* ________ is the location for the home ground of ____________ assault.
+full_target: st vincent-st mary high school in akron summit county ohio usa is the location for the home ground of akron summit assault.
+reply: ohio
+
+id: 33986
+key_split: uab
+target: the rector of the ___________ 1918 universitie is ___________ daniel. the university which is *nicknamed* ___ is in __________ in _______.
+full_target: the rector of the 1 decembrie 1918 universitie is breaz valer daniel. the university which is nicknamed uab is in alba iulia in romania.
+reply: uab
+
+id: 34022
+key_split: switzerland
+target: the *swiss* leader is __________________ _______________________. the municipality of meride neighbours mendrisio which is the location of the ____________ architettura di mendrisio.
+full_target: the swiss leader is federal chancellor johann schneider-ammann. the municipality of meride neighbours mendrisio which is the location of the accademia di architettura di mendrisio.
+reply: not found
+
+id: 34325
+key_split: english
+target: ________ of mars is an american novel where ______*______* language of _____________) is spoken. the previous president was ____________ who is ________________.
+full_target: a wizard of mars is an american novel where english (the language of great britain) is spoken. the previous president was barack obama who is african american.
+reply: not found
+
+id: 34396
+key_split: wheeler
+target: _________ is originally *from* __________ texas us and graduated from _________ in 1955 with a b.s. he then went on to become a __________ and became a member of the _________ crew where he spent ____05.0 minutes in space.
+full_target: alan bean is originally from wheeler in texas us and graduated from ut austin in 1955 with a b.s. he then went on to become a test pilot and became a member of the apollo 12 crew where he spent 100305.0 minutes in space.
+reply: wheeler
+
+id: 34447
+key_split: deceased
+target: ________ ____________ was born in _____________ and *died* in __________. he was selected by nasa in 1959 after graduating from nwc with an m.a. in 1957.
+full_target: american alan shepard was born in new hampshire and died in california. he was selected by nasa in 1959 after graduating from nwc with an m.a. in 1957.
+reply: not found
+
+id: 34450
+key_split: deceased
+target: ____________ was a __________ who served on the _________ crew. he was born in _____________ on november 18 ____ and *died* in __________.
+full_target: alan shepard was a test pilot who served on the apollo 14 crew. he was born in new hampshire on november 18 1923 and died in california.
+reply: not found
+
+id: 34478
+key_split: united states
+target: *american* buzz aldrin was born on the 20th of january 1930 in glen ridge new jersey. he graduated from _______________________ of technology in 1963 with a doctorate in science was a _____________ and was a crew member of apollo 11.
+full_target: american buzz aldrin was born on the 20th of january 1930 in glen ridge new jersey. he graduated from massachusetts institute of technology in 1963 with a doctorate in science was a fighter pilot and was a crew member of apollo 11.
+reply: not found
+
+id: 34491
+key_split: buzz aldrin
+target: _____________ *aldrin* was part of nasa's apollo 11 mission which had ______________ as its backup pilot. aldrin was born in glen ridge new jersey which is in ____________.
+full_target: american buzz aldrin was part of nasa's apollo 11 mission which had william anders as its backup pilot. aldrin was born in glen ridge new jersey which is in essex county.
+reply: buzz aldrin
+
+id: 34512
+key_split: dallas
+target: __________ was originally *from* _____________ and graduated from the _____________ texas at austin. he worked as a __________ and died in _________ on the 28th february ____.
+full_target: elliot see was originally from dallas u.s.a. and graduated from the university of texas at austin. he worked as a test pilot and died in st. louis on the 28th february 1966.
+reply: dallas
+
+id: 34515
+key_split: deceased
+target: __________ was an ________ citizen who was born on july 23 ____ in dallas and *died* in in _________. he studied at the _____________ texas at austin.
+full_target: elliot see was an american citizen who was born on july 23 1927 in dallas and died in in st. louis. he studied at the university of texas at austin.
+reply: not found
+
+id: 34519
+key_split: deceased
+target: __________ was born on july 23 ____ in dallas. he attended the _____________ texas at austin and joined nasa in 1962. see *died* in _________.
+full_target: elliot see was born on july 23 1927 in dallas. he attended the university of texas at austin and joined nasa in 1962. see died in st. louis.
+reply: not found
+
+id: 34523
+key_split: 1966-02-28
+target: elliot see was born in dallas and died in st. louis on *february 281966*. he served as a test pilot and graduated from the _____________ texas at austin.
+full_target: elliot see was born in dallas and died in st. louis on february 281966. he served as a test pilot and graduated from the university of texas at austin.
+reply: not found
+
+id: 34537
+key_split: elliot see
+target: _________*______* see attended the _____________ texas in austin the school that is part of the university of ____________ and competes in the big 12 conference. he was born in dallas on july 23rd ____.
+full_target: american elliot see attended the university of texas in austin the school that is part of the university of texas system and competes in the big 12 conference. he was born in dallas on july 23rd 1927.
+reply: elliot see
+
+id: 34563
+key_split: dallas
+target: __________ is originally *from* __________ and joined nasa in 1962 where he flew as a __________. elliot see ____ in _________.
+full_target: elliot see is originally from dallas usa and joined nasa in 1962 where he flew as a test pilot. elliot see died in st. louis.
+reply: dallas
+
+id: 34656
+key_split: united states
+target: established in 2000 the ________________ infantry monument is located at ______________ in gettysburg adams county pennsylvania *usa*.
+full_target: established in 2000 the 11th mississippi infantry monument is located at seminary ridge in gettysburg adams county pennsylvania usa.
+reply: pennsylvania/p
+
+id: 34658
+key_split: united states
+target: the ________________ infantry monument is located at ______________ in pennsylvania *usa*; the monument was established in 2000 and is categorized as a _____________________ and is in the municipality of gettysburg pennsylvania.
+full_target: the 11th mississippi infantry monument is located at seminary ridge in pennsylvania usa; the monument was established in 2000 and is categorized as a contributing property and is in the municipality of gettysburg pennsylvania.
+reply: pennsylvania usa/p
+
+id: 34724
+key_split: ataturk monument
+target: the turkish lira is the official currency of the country where ahmet davutoglu is leader. the country is the location of *the memorial* designed in bronze by pietro canonica and inaugurated on 27 july 1932.
+full_target: the turkish lira is the official currency of the country where ahmet davutoglu is leader. the country is the location of the memorial designed in bronze by pietro canonica and inaugurated on 27 july 1932.
+reply: not found
+
+id: 35004
+key_split: deceased
+target: ____________ was born in _____________ _____________. alan graduated from nwc with an m.a. in 1957 and went onto be a __________ on _________. alan later *died* in __________.
+full_target: alan shepard was born in new hampshire united states. alan graduated from nwc with an m.a. in 1957 and went onto be a test pilot on apollo 14. alan later died in california.
+reply: not found
+
+id: 35030
+key_split: glen ridge
+target: american ___________ was born *in* __________ new jersey his real name was edwin e. aldrin jr. buzz graduated from _______________________ of technology in 1963 with a doctorate in science then was selected to work for nasa in 1963 performed as a _____________ and was a crew member on apollo 11.
+full_target: american buzz aldrin was born in glen ridge new jersey his real name was edwin e. aldrin jr. buzz graduated from massachusetts institute of technology in 1963 with a doctorate in science then was selected to work for nasa in 1963 performed as a fighter pilot and was a crew member on apollo 11.
+reply: glen ridge
+
+id: 35035
+key_split: united states
+target: edwin eugene aldrin jr more commonly known as buzz has now retired. he is an *american* born on 20 january 1930 in glen ridge new jersey. he obtained a doctorate in science from ___ in 1963 and served as a _____________.
+full_target: edwin eugene aldrin jr more commonly known as buzz has now retired. he is an american born on 20 january 1930 in glen ridge new jersey. he obtained a doctorate in science from mit in 1963 and served as a fighter pilot.
+reply: not found
+
+id: 35040
+key_split: buzz aldrin
+target: _____________ *aldrin* who is now retired was a _____________ who helped crew apollo 11. he was born on january 20th 1930 in glen ridge new jersey and graduated from ___ with a sc. d. in 1963.
+full_target: american buzz aldrin who is now retired was a fighter pilot who helped crew apollo 11. he was born on january 20th 1930 in glen ridge new jersey and graduated from mit with a sc. d. in 1963.
+reply: buzz aldrin
+
+id: 35043
+key_split: glen ridge
+target: ___________ was an american who was born *in* __________ new jersey. graduated from ___ with a sc. d in 1963 which was the same year that he was hired by nasa. buzz served as a _____________ and was also a crew member of apollo 11. he was in space for __________.
+full_target: buzz aldrin was an american who was born in glen ridge new jersey. graduated from mit with a sc. d in 1963 which was the same year that he was hired by nasa. buzz served as a fighter pilot and was also a crew member of apollo 11. he was in space for 52 minutes.
+reply: glen ridge
+
+id: 35045
+key_split: united states
+target: *american* buzz aldrin was born in glen ridge new jersey on january 20th 1930. during his lifetime he won 20 awards was picked by nasa in 1963 to crew apollo 11 and in 1963 graduated from ___ with a doctorate in science.
+full_target: american buzz aldrin was born in glen ridge new jersey on january 20th 1930. during his lifetime he won 20 awards was picked by nasa in 1963 to crew apollo 11 and in 1963 graduated from mit with a doctorate in science.
+reply: not found
+
+id: 35053
+key_split: glen ridge
+target: american ___________ was born *in* __________ new jersey on january 20 ____. he graduated in 1963 from ___ with a sc.d. he was a crew member on apollo 11 that was operated by nasa. aldrin worked as a _______ pliot.
+full_target: american buzz aldrin was born in glen ridge new jersey on january 20 1930. he graduated in 1963 from mit with a sc.d. he was a crew member on apollo 11 that was operated by nasa. aldrin worked as a fighter pliot.
+reply: glen ridge
+
+id: 35067
+key_split: united states
+target: *american* buzz aldrin was born in glen ridge new jersey. he was selected by nasa in 1963 and served as a _____________. he was a crew member on apollo 11 that was operated by nasa. he is retired now.
+full_target: american buzz aldrin was born in glen ridge new jersey. he was selected by nasa in 1963 and served as a fighter pilot. he was a crew member on apollo 11 that was operated by nasa. he is retired now.
+reply: not found
+
+id: 35096
+key_split: deceased
+target: __________ was born on july 23 ____ in dallas. he attended the ____ texas at austin and worked as a __________. he joined nasa in 1962. see *died* in _________.
+full_target: elliot see was born on july 23 1927 in dallas. he attended the u of texas at austin and worked as a test pilot. he joined nasa in 1962. see died in st. louis.
+reply: not found
+
+id: 35174
+key_split: mass media
+target: gma new media is a *mass* _____________ in the _____________ industry. they are headed up by ____________ and are owned by ___________. they develop web sites and ___________s.
+full_target: gma new media is a mass media company in the entertainment industry. they are headed up by felipe gozon and are owned by gma network. they develop web sites and online games.
+reply: mass **media**
+
+id: 35175
+key_split: world wide
+target: !gma new media inc. is a _____________ that offers services in the _____________ industry: different _________________ and ___________s. it is managed by ____________ and it is a subsidiary of ___________.
+full_target: gma new media inc. is a media company that offers services in the entertainment industry: different internet services and online games. it is managed by felipe gozon and it is a subsidiary of gma network.
+reply: world wide
+
+id: 35182
+key_split: drugs
+target: !_________ is a subsidiary of the ____maceutical company ___________ an s.a. corporation located in ______ which was founded on january 1 ____. hypermarcas is ruled by a ceo.
+full_target: mantecorp is a subsidiary of the pharmaceutical company hypermarcas an s.a. corporation located in brazil which was founded on january 1 2001. hypermarcas is ruled by a ceo.
+reply: pharmaceutical company
+
+id: 35244
+key_split: rock
+target: dead ____s plack is located in _______ made from *stone* and dedicated to __________ ealdorman of east anglia. england's established religion is the _________ england and the capital city is ______. the _______ language is spoken there and the _____________ are an english ethnic group.
+full_target: dead man's plack is located in england made from stone and dedicated to aethelwald ealdorman of east anglia. england's established religion is the church of england and the capital city is london. the cornish language is spoken there and the british arabs are an english ethnic group.
+reply: dead **plack**s
+

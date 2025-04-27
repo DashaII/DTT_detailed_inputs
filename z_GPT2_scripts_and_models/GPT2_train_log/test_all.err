@@ -1,0 +1,88 @@
+4
+LEARNING_RATE = 1e-5
+EPOCHS = 20
+BATCH_SIZE = 4
+size None
+
+5
+LEARNING_RATE = 1e-5
+EPOCHS = 12
+BATCH_SIZE = 8
+size None
+MODEL_PATH = os.path.join(os.curdir, 'model_5', 'gpt2_webnlg')
+
+6
+LEARNING_RATE = 1e-6
+EPOCHS = 12
+BATCH_SIZE = 8
+size None
+MODEL_PATH = os.path.join(os.curdir, 'model_6', 'gpt2_webnlg')
+
+
+7
+LEARNING_RATE = 1e-6
+EPOCHS = 12
+BATCH_SIZE = 12
+size None
+MODEL_PATH = os.path.join(os.curdir, 'model_7', 'gpt2_webnlg')
+
+8
+LEARNING_RATE = 1e-6
+EPOCHS = 25
+BATCH_SIZE = 8
+size None
+MODEL_PATH = os.path.join(os.curdir, 'model_8', 'gpt2_webnlg')
+
+9
+LEARNING_RATE = 5e-6
+EPOCHS = 50
+BATCH_SIZE = 8
+size None
+MODEL_PATH = os.path.join(os.curdir, 'model_9_', 'gpt2_webnlg')
+
+10
+LEARNING_RATE = 1e-6
+EPOCHS = 50
+BATCH_SIZE = 8
+size None
+MODEL_PATH = os.path.join(os.curdir, 'model_10_', 'gpt2_webnlg')
+
+
+11
+LEARNING_RATE = 1e-6
+EPOCHS = 100
+BATCH_SIZE = 8
+size None
+MODEL_PATH = os.path.join(os.curdir, 'model_11_', 'gpt2_webnlg')
+
+
+12 +scheduler +zero_grad() -> repeat test 5
+LEARNING_RATE = 1e-5
+EPOCHS = 12
+BATCH_SIZE = 8
+size None
+MODEL_PATH = os.path.join(os.curdir, 'model_12_', 'gpt2_webnlg')
+
+
+13 +data transformation -> repeat test 12
+LEARNING_RATE = 1e-5
+EPOCHS = 12
+BATCH_SIZE = 8
+size None
+MODEL_PATH = os.path.join(os.curdir, 'model_13_', 'gpt2_webnlg')
+
+
+14 +data transformation FIX
+LEARNING_RATE = 1e-5
+EPOCHS = 30
+BATCH_SIZE = 8
+size None
+MODEL_PATH = os.path.join(os.curdir, 'model_14_', 'gpt2_webnlg')
+
+
+
+
+
+
+
+

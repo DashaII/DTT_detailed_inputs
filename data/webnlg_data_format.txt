@@ -1,0 +1,74 @@
+*** 'references': [] are empty for test, but populated for train and validation
+
+DatasetDict({
+    train: Dataset({
+        features: ['gem_id', 'gem_parent_id', 'input', 'target', 'references', 'category', 'webnlg_id'],
+        num_rows: 35426
+    })
+    validation: Dataset({
+        features: ['gem_id', 'gem_parent_id', 'input', 'target', 'references', 'category', 'webnlg_id'],
+        num_rows: 1667
+    })
+    test: Dataset({
+        features: ['gem_id', 'gem_parent_id', 'input', 'target', 'references', 'category', 'webnlg_id'],
+        num_rows: 1779
+    })
+    challenge_train_sample: Dataset({
+        features: ['gem_id', 'gem_parent_id', 'input', 'target', 'references', 'category', 'webnlg_id'],
+        num_rows: 502
+    })
+    challenge_validation_sample: Dataset({
+        features: ['gem_id', 'gem_parent_id', 'input', 'target', 'references', 'category', 'webnlg_id'],
+        num_rows: 499
+    })
+    challenge_test_scramble: Dataset({
+        features: ['gem_id', 'gem_parent_id', 'input', 'target', 'references', 'category', 'webnlg_id'],
+        num_rows: 500
+    })
+    challenge_test_numbers: Dataset({
+        features: ['gem_id', 'gem_parent_id', 'input', 'target', 'references', 'category', 'webnlg_id'],
+        num_rows: 500
+    })
+})
+
+Examples:
+{'gem_id': 'web_nlg_ru-validation-0',
+'gem_parent_id': 'web_nlg_ru-validation-0',
+'input': ['Punjab,_Pakistan | leaderTitle | Provincial_Assembly_of_the_Punjab'],
+'target': 'Пенджаб, Пакистан, возглавляется Провинциальной ассамблеей Пенджаба.',
+'references': ['Пенджаб, Пакистан, возглавляется Провинциальной ассамблеей Пенджаба.',
+               'Пенджаб, Пакистан возглавляется Провинциальной ассамблеей Пенджаба.'],
+               'category': 'Airport',
+               'webnlg_id': 'dev/Airport/1/Id1'}
+{'gem_id': 'web_nlg_ru-validation-50', 'gem_parent_id': 'web_nlg_ru-validation-50', 'input': ['Perth | country | Australia'], 'target': 'Перт находится в Австралии.', 'references': ['Перт находится в Австралии.', 'Перт находится в Австралии.'], 'category': 'Building', 'webnlg_id': 'dev/Building/1/Id4'}
+{'gem_id': 'web_nlg_ru-validation-100', 'gem_parent_id': 'web_nlg_ru-validation-100', 'input': ['Sheldon_Moldoff | award | Inkpot_Award'], 'target': 'Премию Inkpot получил Шелдон Молдофф.', 'references': ['Премию Inkpot получил Шелдон Молдофф.', 'Шелдон Молдофф получил премию Inkpot.'], 'category': 'ComicsCharacter', 'webnlg_id': 'dev/ComicsCharacter/1/Id4'}
+
+Transformed:  11=, 13=. 50258=<|triple|> 50256=<|endoftext|> 50259=<|target|>
+'<|triple|>Aarhus Airport | cityServed | "Aarhus, Denmark"<|target|>The Aarhus is the airport of Aarhus, Denmark.<|endoftext|>'
+[50258,    32,   283,  7537, 12690,   930,  1748,    50,  8520,   930,
+           366,    32,   283,  7537,    11, 16490,     1, 50259,   464,   317,
+           283,  7537,   318,   262,  9003,   286,   317,   283,  7537,    11,
+         16490,    13, 50256, 50257, 50257, 50257, 50257, 50257, 50257, 50257,
+         50257, 50257, 50257, 50257, 50257, 50257]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+,1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+ 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+ 1, 1, 1, 0, 0, 0, 0, 0, 0, 0,
+ 0, 0, 0, 0, 0, 0]
+
+
+<|triple|>Aarhus Airport | cityServed | "Aarhus, Denmark"<|target|>Aarhus Airport serves the city of Aarhus, Denmark.<|endoftext|>
+[50258,    32,   283,  7537, 12690,   930,  1748,    50,  8520,   930,
+           366,    32,   283,  7537,    11, 16490,     1, 50259,    32,   283,
+          7537, 12690,  9179,   262,  1748,   286,   317,   283,  7537,    11,
+         16490,    13, 50256, 50257, 50257, 50257, 50257, 50257, 50257, 50257,
+         50257, 50257, 50257, 50257, 50257, 50257]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+         1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+<|triple|>Afonso Pena International Airport | elevationAboveTheSeaLevel | 911.0<|target|>Afonso Pena International Airport has the elevation of 911 meters above the sea level.<|endoftext|>
+[50258, 17584, 26666,  7507,    64,  4037, 12690,   930,
+22910=elevation, 32397, 464, 37567,  4971,   930,
+16679=911,    13,    15,
+50259, 17584, 26666, 7507,    64,  4037, 12690,   468=has,   262=the, 22910=elevation,   286, 16679=911, 10700, 2029,   262=the,  5417,  1241, 13,
+50256]

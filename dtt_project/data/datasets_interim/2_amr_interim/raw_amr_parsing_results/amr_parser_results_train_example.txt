@@ -1,0 +1,1361 @@
+994: # ::tok Alfred Garth Jones sadly died circa 1944 .
+(d2 / die-01~4
+    :ARG0-of (s / sad-02~3)
+    :ARG1 (p / person~2
+        :name (n / name~2
+            :op1 "Alfred"~0
+            :op2 "Garth"~1
+            :op3 "Jones"~2))
+    :time (c / circa~5
+        :op1 (d / date-entity~6
+            :year 1944~6)))
+
+995: # ::tok Alfred Garth Jones died in Sidcup .
+(d / die-01~3
+    :ARG1 (p / person~2
+        :name (n / name~2
+            :op1 "Alfred"~0
+            :op2 "Garth"~1
+            :op3 "Jones"~2))
+    :location (c / city~5
+        :name (n2 / name~5
+            :op1 "Sidcup"~5)))
+
+996: # ::tok The place of death for Alfred Garth Jones was Sidcup .
+(p2 / person~9
+    :name (n2 / name~9
+        :op1 "Sidcup"~9)
+    :ARG2-of (d / die-01~3
+        :ARG1 (p / person~7
+            :name (n / name~7
+                :op1 "Alfred"~5
+                :op2 "Garth"~6
+                :op3 "Jones"~7))))
+
+997: # ::tok Alfred Garth Jones was born in the United Kingdom .
+(b / bear-02~4
+    :ARG1 (p / person~1
+        :name (n / name~1
+            :op1 "Alfred"~0
+            :op2 "Garth"~1
+            :op3 "Jones"~2))
+    :location (c / country~8
+        :name (n2 / name~7
+            :op1 "United"~7
+            :op2 "Kingdom"~8)))
+
+998: # ::tok Alfred Garth Jones comes from the U.K.
+(c / come-01~3
+    :ARG1 (p / person~2
+        :name (n / name~2
+            :op1 "Alfred"~0
+            :op2 "Garth"~1
+            :op3 "Jones"~2))
+    :ARG3 (c2 / country~6
+        :name (n2 / name~6
+            :op1 "U.K."~6)))
+
+999: # ::tok Alfred Garth Jones is from the UK .
+(p / person~1
+    :name (n / name~1
+        :op1 "Alfred"~0
+        :op2 "Garth"~1
+        :op3 "Jones"~2)
+    :source (c / country~6
+        :name (n2 / name~6
+            :op1 "UK"~6)))
+
+1000: # ::tok Alfred Garth Jones makes a living as an Illustrator .
+(m / make-05~3
+    :ARG0 (p / person~2
+        :name (n / name~1
+            :op1 "Alfred"~0
+            :op2 "Garth"~1
+            :op3 "Jones"~2))
+    :ARG1 (l / live-01~5)
+    :ARG2 (p2 / person~8
+        :ARG0-of (i / illustrate-02~8)))
+
+1001: # ::tok Alfred Garth Jones was a professional Illustrator .
+(p2 / person~6
+    :ARG0-of (i / illustrate-02~6)
+    :domain (p / person~2
+        :name (n / name~2
+            :op1 "Alfred"~0
+            :op2 "Garth"~1
+            :op3 "Jones"~2))
+    :mod (p3 / professional~5))
+
+1002: # ::tok Alfredo Zitarrosa is associated with the musical artist Ciro Pérez .
+(a2 / associate-01~3
+    :ARG1 (p / person~1
+        :name (n / name~1
+            :op1 "Alfredo"~0
+            :op2 "Zitarrosa"~1))
+    :ARG2 (a / artist~7
+        :name (n2 / name~8
+            :op1 "Ciro"~8
+            :op2 "Pérez"~9)
+        :mod (m / music~6)))
+
+1003: # ::tok Alfredo Zitarrosa is associated with musician Ciro Pérez .
+(a / associate-01~3
+    :ARG1 (p / person~1
+        :name (n / name~1
+            :op1 "Alfredo"~0
+            :op2 "Zitarrosa"~1))
+    :ARG2 (m / musician~5
+        :name (n2 / name~6
+            :op1 "Ciro"~6
+            :op2 "Pérez"~7)))
+
+1004: # ::tok Alfredo Zitarrosa is associated with Yamandú Palacios .
+(a / associate-01~3
+    :ARG1 (p / person~1
+        :name (n / name~1
+            :op1 "Alfredo"~0
+            :op2 "Zitarrosa"~1))
+    :ARG2 (p2 / person~6
+        :name (n2 / name~5
+            :op1 "Yamandú"~5
+            :op2 "Palacios"~6)))
+
+1005: # ::tok Alfredo Zitarrosa has a background as a solo singer .
+(h / have-03~2
+    :ARG0 (p / person~1
+        :name (n / name~1
+            :op1 "Alfredo"~0
+            :op2 "Zitarrosa"~1))
+    :ARG1 (b / background~4
+        :prep-as (p2 / person~8
+            :ARG0-of (s / sing-01~8
+                :manner (s2 / solo~7)))))
+
+1006: # ::tok Alfredo Zitarrosa started out as a solo singer .
+(s3 / start-out-05~2
+    :ARG0 (p / person~1
+        :name (n / name~1
+            :op1 "Alfredo"~0
+            :op2 "Zitarrosa"~1))
+    :ARG2 (p2 / person~7
+        :ARG0-of (s / sing-01~7)
+        :mod s3)
+    :rel (s2 / solo~6))
+
+1007: # ::tok Alfredo Zitarrosa background includes solo singing .
+(i / include-01~3
+    :ARG1 (s / sing-01~5
+        :manner (s2 / solo~4))
+    :ARG2 (b / background~2
+        :mod (p / person~1
+            :name (n / name~1
+                :op1 "Alfredo"~0
+                :op2 "Zitarrosa"~1))))
+
+1008: # ::tok Alfredo Zitarrosa was born in Uruguay .
+(b / bear-02~3
+    :ARG1 (p / person~0
+        :name (n / name~0
+            :op1 "Alfredo"~0
+            :op2 "Zitarrosa"~1))
+    :location (c / country~5
+        :name (n2 / name~5
+            :op1 "Uruguay"~5)))
+
+1009: # ::tok Alfredo Zitarrosa 's birth place was Uruguay .
+(p2 / place~4
+    :domain (c / country~6
+        :name (n2 / name~6
+            :op1 "Uruguay"~6))
+    :location-of (b / bear-02~3
+        :ARG1 (p / person~1
+            :name (n / name~1
+                :op1 "Alfredo"~0
+                :op2 "Zitarrosa"~1))))
+
+1010: # ::tok Alfredo Zitarrosa died in Montevideo .
+(d / die-01~2
+    :ARG1 (p / person~1
+        :name (n / name~0
+            :op1 "Alfredo"~0
+            :op2 "Zitarrosa"~1))
+    :location (c / city~4
+        :name (n2 / name~4
+            :op1 "Montevideo"~4)))
+
+1011: # ::tok Alfredo Zitarrosa death place was in Montevideo .
+(p2 / place~3
+    :location (c / city~6
+        :name (n2 / name~6
+            :op1 "Montevideo"~6))
+    :location-of (d / die-01~2
+        :ARG1 (p / person~1
+            :name (n / name~6
+                :op1 "Alfredo"~0
+                :op2 "Zitarrosa"~1))))
+
+1012: # ::tok Alfredo Zitarrosa 's musical genre is Candombe .
+(g / genre~4
+    :mod (m / music~3
+        :name (n2 / name~6
+            :op1 "Candombe"~6))
+    :poss (p / person~1
+        :name (n / name~4
+            :op1 "Alfredo"~0
+            :op2 "Zitarrosa"~1)))
+
+1013: # ::tok The musical genre of Alfredo Zitarrosa is Candombe .
+(g / genre~2
+    :domain (m / music~1
+        :name (n / name~2
+            :op1 "Alfredo"~4
+            :op2 "Zitarrosa"~5)
+        :name (n2 / name~7
+            :op1 "Candombe"~7))
+    :mod (m2 / music~1))
+
+1014: # ::tok The musical genre of Alfredo Zitarrosa is Taquirari .
+(g / genre~2
+    :domain (m / music~1
+        :name (n / name~2
+            :op1 "Alfredo"~4
+            :op1 "Taquirari"~7))
+    :mod (m2 / music~1)
+    :poss (p / person~5
+        :name (n2 / name~5
+            :op2 "Zitarrosa"~5)))
+
+1015: # ::tok Alfredo Zitarrosa is an exponent of Taquirari .
+(e / exponent~4
+    :domain (p / person~0
+        :name (n / name~0
+            :op1 "Alfredo"~0
+            :op2 "Zitarrosa"~1))
+    :mod (t / thing~5
+        :name (n2 / name~6
+            :op1 "Taquirari"~6)))
+
+1016: # ::tok Alfredo Zitarrosa music genre is Taquirari .
+(g / genre~3
+    :name (n / name~3
+        :op1 "Alfredo"~0
+        :op1 "Taquirari"~5
+        :op2 "Zitarrosa"~1)
+    :mod (m / music~2))
+
+1017: # ::tok Alfredo Zitarrosa performs Zamba music .
+(p / perform-01~2
+    :ARG0 (p2 / person~1
+        :name (n / name~0
+            :op1 "Alfredo"~0
+            :op2 "Zitarrosa"~1))
+    :ARG1 (m / music~4
+        :name (n2 / name~3
+            :op1 "Zamba"~3)))
+
+1018: # ::tok Alfredo Zitarrosa 's genre is Zamba which is considered an art form .
+(g / genre~3
+    :name (n2 / name~5
+        :op1 "Zamba"~5)
+    :mod (f / form~11
+        :ARG1-of (c / consider-01~8)
+        :mod (a / art~10))
+    :poss (p / person~1
+        :name (n / name~3
+            :op1 "Alfredo"~0
+            :op2 "Zitarrosa"~1)))
+
+1019: # ::tok Alfredo Zitarrosa is signed with the record label Odeon Records .
+(s / sign-01~3
+    :ARG1 (p / person~1
+        :name (n / name~1
+            :op1 "Alfredo"~0
+            :op2 "Zitarrosa"~1))
+    :ARG2 (l / label-01~7
+        :ARG1 (c / company~9
+            :name (n2 / name~8
+                :op1 "Odeon"~8
+                :op2 "Records"~9))
+        :ARG2 (r / record~6)))
+
+1020: # ::tok Alfredo Zitarrosa was signed to Odeon Records .
+(s / sign-01~3
+    :ARG1 (p / person~1
+        :name (n / name~1
+            :op1 "Alfredo"~0
+            :op2 "Zitarrosa"~1))
+    :ARG2 (c / company~5
+        :name (n2 / name~5
+            :op1 "Odeon"~5
+            :op2 "Records"~6)))
+
+1021: # ::tok Alfredo Zitarrosa 's recording label is Odeon Records .
+(l / label-01~4
+    :ARG1 (p / person~1
+        :name (n / name~4
+            :op1 "Alfredo"~0
+            :op2 "Zitarrosa"~1))
+    :ARG2 (c / company~6
+        :name (n2 / name~6
+            :op1 "Odeon"~6
+            :op2 "Records"~7))
+    :ARG3 (r / record-01~3))
+
+1022: # ::tok Alfredo Zitarrosa belongs to the Orfeo record label .
+(b / belong-01~2
+    :ARG0 (p / person~0
+        :name (n / name~0
+            :op1 "Alfredo"~0
+            :op2 "Zitarrosa"~1))
+    :ARG1 (l / label-01~7
+        :name (n2 / name~5
+            :op1 "Orfeo"~5)
+        :ARG2 (r / record~6)))
+
+1023: # ::tok Alfredo Zitarrosa is signed to the Uruguayan record label Orfeo .
+(s / sign-01~3
+    :ARG1 (p / person~1
+        :name (n / name~1
+            :op1 "Alfredo"~0
+            :op2 "Zitarrosa"~1))
+    :ARG2 (l / label-01~8
+        :name (n3 / name~9
+            :op1 "Orfeo"~9)
+        :ARG2 (r / record~7)
+        :mod (c / country~6
+            :name (n2 / name~6
+                :op1 "Argentina"~6))))
+
+1024: # ::tok The record label of Alfredo Zitarrosa is Orfeo ( Uruguayan ) .
+(l / label-01~2
+    :ARG1 (p / person~5
+        :name (n / name~7
+            :op1 "Alfredo"~4
+            :op2 "Zitarrosa"~5))
+    :ARG2 (r2 / record~1)
+    :ARG3 (l2 / language~9
+        :name (n2 / name~9
+            :op1 "Argentina"~9))
+    :rel (r / Orfeo~7))
+
+1025: # ::tok Alison O'Donnell is associated with Bajik .
+(a / associate-01~3
+    :ARG1 (p / person~1
+        :name (n / name~0
+            :op1 "Alison"~0
+            :op2 "O'Donnell"~1))
+    :ARG2 (p2 / person~5
+        :name (n2 / name~5
+            :op1 "Bajik"~5)))
+
+1026: # ::tok Alison O'Donnell was with the band Bajik .
+(h / have-org-role-91~3
+    :ARG0 (p / person~0
+        :name (n / name~0
+            :op1 "Alison"~0
+            :op2 "O'Donnell"~1))
+    :ARG1 (b / band~5
+        :name (n2 / name~6
+            :op1 "Bajik"~6))
+    :ARG2 (m / member~3))
+
+1027: # ::tok Alison O'Donnell was a member of the Flibbertigibbet band .
+(h / have-org-role-91~4
+    :ARG0 (p / person~0
+        :name (n / name~0
+            :op1 "Alison"~0
+            :op2 "O'Donnell"~1))
+    :ARG1 (b / band~8
+        :name (n2 / name~7
+            :op1 "Flibbertigibbet"~7))
+    :ARG2 (m / member~4))
+
+1028: # ::tok Alison O'Donnell is musically associated with the band Head South By Weaving .
+(a / associate-01~4
+    :ARG1 (p / person~1
+        :name (n / name~0
+            :op1 "Alison"~0
+            :op2 "O'Donnell"~1))
+    :ARG2 (o / organization~6
+        :name (n2 / name~7
+            :op1 "Head"~8
+            :op2 "South"~9
+            :op3 "By"~10
+            :op4 "Weaving"~11))
+    :manner (m / music~3))
+
+1029: # ::tok Alison O'Donnell is associated with the band Head South By Weaving .
+(a / associate-01~3
+    :ARG1 (p / person~1
+        :name (n / name~0
+            :op1 "Alison"~0
+            :op2 "O'Donnell"~1))
+    :ARG2 (o / organization~5
+        :name (n2 / name~6
+            :op1 "Head"~7
+            :op2 "South"~8
+            :op3 "By"~9
+            :op4 "Weaving"~10)))
+
+1030: # ::tok Alison O'Donnell is an artist for the band Mellow Candle .
+(h / have-org-role-91~2
+    :ARG0 (p / person~0
+        :name (n / name~0
+            :op1 "Alison"~0
+            :op2 "O'Donnell"~1))
+    :ARG1 (b / band~7
+        :name (n2 / name~7
+            :op1 "Mellow"~8
+            :op2 "Candle"~9))
+    :ARG2 (a / artist~4))
+
+1031: # ::tok Alison O’Donnell was in the band Mellow Candle .
+(h / have-org-role-91~3
+    :ARG0 (p / person~0
+        :name (n / name~0
+            :op1 "Alison"~0
+            :op2 "O’Donnell"~1))
+    :ARG1 (b / band~5
+        :name (n2 / name~5
+            :op1 "Mellow"~6
+            :op2 "Candle"~7))
+    :ARG2 (m / member~3))
+
+1032: # ::tok Alison O'Donnell is associated with Plastik Mak .
+(a / associate-01~3
+    :ARG1 (p / person~1
+        :name (n / name~0
+            :op1 "Alison"~0
+            :op2 "O'Donnell"~1))
+    :ARG2 (p2 / person~5
+        :name (n2 / name~5
+            :op1 "Plastik"~5
+            :op2 "Mak"~6)))
+
+1033: # ::tok Alison O'Donnell is a musician associated with the Plastik Mak .
+(m / musician~4
+    :ARG1-of (a / associate-01~5
+        :ARG2 (p2 / product~7
+            :name (n2 / name~4
+                :op1 "Plastik"~8
+                :op2 "Mak"~9)))
+    :domain (p / person~1
+        :name (n / name~4
+            :op1 "Alison"~0
+            :op2 "O'Donnell"~1)))
+
+1034: # ::tok Alison O'Donnell has collaborated with the band The Owl Service .
+(c / collaborate-01~3
+    :ARG0 (p / person~1
+        :name (n / name~0
+            :op1 "Alison"~0
+            :op2 "O'Donnell"~1))
+    :ARG1 (b / band~6
+        :name (n2 / name~6
+            :op1 "The"~7
+            :op2 "Owl"~8
+            :op3 "Service"~9)))
+
+1035: # ::tok Alison O'Donnell is associated with the band The Owl Service .
+(a / associate-01~3
+    :ARG1 (p / person~1
+        :name (n / name~0
+            :op1 "Alison"~0
+            :op2 "O'Donnell"~1))
+    :ARG2 (o / organization~5
+        :name (n2 / name~6
+            :op1 "The"~7
+            :op2 "Owl"~8
+            :op3 "Service"~9)))
+
+1036: # ::tok Alison O'Donnell is associated with the band , The Owl Service .
+(a / associate-01~3
+    :ARG1 (p / person~1
+        :name (n / name~0
+            :op1 "Alison"~0
+            :op2 "O'Donnell"~1))
+    :ARG2 (b / band~6
+        :name (n2 / name~6
+            :op1 "The"~8
+            :op2 "Owl"~9
+            :op3 "Service"~10)))
+
+1037: # ::tok Alison O'Donnell is a musician for the band United Bible Studies .
+(h / have-org-role-91~2
+    :ARG0 (p / person~0
+        :name (n / name~0
+            :op1 "Alison"~0
+            :op2 "O'Donnell"~1))
+    :ARG1 (b / band~7
+        :name (n2 / name~8
+            :op1 "United"~8
+            :op2 "Bible"~9
+            :op3 "Studies"~10))
+    :ARG2 (m / musician~4))
+
+1038: # ::tok Alison O'Donnell performed for the band United Bible Studies .
+(p / perform-01~2
+    :ARG0 (p2 / person~1
+        :name (n / name~0
+            :op1 "Alison"~0
+            :op2 "O'Donnell"~1))
+    :beneficiary (b / band~5
+        :name (n2 / name~5
+            :op1 "United"~6
+            :op2 "Bible"~7
+            :op3 "Studies"~8)))
+
+1039: # ::tok Alison O'Donnell performs folk music .
+(p / perform-01~2
+    :ARG0 (p2 / person~1
+        :name (n / name~0
+            :op1 "Alison"~0
+            :op2 "O'Donnell"~1))
+    :ARG1 (m / music~4
+        :mod (f / folk~3)))
+
+1040: # ::tok Folk music is the genre of Alison O'Donnell .
+(g / genre~4
+    :domain (m / music~1
+        :mod (f / folk~0))
+    :poss (p / person~7
+        :name (n / name~6
+            :op1 "Alison"~6
+            :op2 "O'Donnell"~7)))
+
+1041: # ::tok Folk music of Ireland is the genre performed by Alison O'Donnell .
+(g / genre~6
+    :domain (m / music~1
+        :ARG1-of (p / perform-01~7
+            :ARG0 (p2 / person~9
+                :name (n2 / name~9
+                    :op1 "Alison"~9
+                    :op2 "O'Donnell"~10)))
+        :mod (f / folk~0)
+        :source (c / country~3
+            :name (n / name~3
+                :op1 "Ireland"~3))))
+
+1042: # ::tok Alison O'Donnell 's genre is folk music of Ireland .
+(g / genre~3
+    :domain (m / music~6
+        :mod (f / folk~5)
+        :mod (c / country~8
+            :name (n2 / name~8
+                :op1 "Ireland"~8)))
+    :poss (p / person~1
+        :name (n / name~0
+            :op1 "Alison"~0
+            :op2 "O'Donnell"~1)))
+
+1043: # ::tok Alison O'Donnell played folk music of Ireland .
+(p2 / play-11~2
+    :ARG0 (p / person~0
+        :name (n / name~0
+            :op1 "Alison"~0
+            :op2 "O'Donnell"~1))
+    :ARG1 (m / music~4
+        :mod (f / folk~3)
+        :source (c / country~6
+            :name (n2 / name~6
+                :op1 "Ireland"~6))))
+
+1044: # ::tok Alison O'Donnell 's genre is folk rock .
+(g / genre~3
+    :mod (r / rock~6
+        :mod (f / folk~5))
+    :poss (p / person~1
+        :name (n / name~0
+            :op1 "Alison"~0
+            :op2 "O'Donnell"~1)))
+
+1045: # ::tok Alison O'Donnell performs folk rock music .
+(p / perform-01~2
+    :ARG0 (p2 / person~1
+        :name (n / name~0
+            :op1 "Alison"~0
+            :op2 "O'Donnell"~1))
+    :ARG1 (m / music~5
+        :mod (r / rock~4
+            :mod (f / folk~3))))
+
+1046: # ::tok Alison O'Donnell 's musical genre is folk rock .
+(g / genre~4
+    :mod (m / music~3)
+    :mod (r / rock~7
+        :mod (f / folk~6))
+    :poss (p / person~1
+        :name (n / name~0
+            :op1 "Alison"~0
+            :op2 "O'Donnell"~1)))
+
+1047: # ::tok Alison O'Donnell genre is Psychedelic folk .
+(f2 / folk~5
+    :domain (g / genre~2
+        :mod (p / person~1
+            :name (n / name~0
+                :op1 "Alison"~0
+                :op2 "O'Donnell"~1)))
+    :mod (f / folk~4))
+
+1048: # ::tok Alison O'Donnell is a Psychedelic folk musician .
+(m / musician~6
+    :domain (p / person~0
+        :name (n / name~0
+            :op1 "Alison"~0
+            :op2 "O'Donnell"~1))
+    :mod (f2 / folk~5)
+    :mod (f / folk~4))
+
+1049: # ::tok Alison O'Donnell 's music genre is Psychedelic folk .
+(g / genre~4
+    :domain (f2 / folk~7
+        :mod (f / folk~6))
+    :mod (m / music~3)
+    :poss (p / person~1
+        :name (n / name~0
+            :op1 "Alison"~0
+            :op2 "O'Donnell"~1)))
+
+1050: # ::tok Alison O'Donnell can play the autoharp .
+(p3 / possible-01~2
+    :ARG1 (p2 / play-11~3
+        :ARG0 (p / person~1
+            :name (n / name~0
+                :op1 "Alison"~0
+                :op2 "O'Donnell"~1))
+        :ARG1 (a / autoharp~5)))
+
+1051: # ::tok Alison O'Donnell plays the autoharp .
+(p2 / play-02~2
+    :ARG0 (p / person~1
+        :name (n / name~0
+            :op1 "Alison"~0
+            :op2 "O'Donnell"~1))
+    :ARG1 (a / autoharp~4))
+
+1052: # ::tok Alison O'Donnell plays the bodhrán .
+(p2 / play-02~2
+    :ARG0 (p / person~1
+        :name (n / name~0
+            :op1 "Alison"~0
+            :op2 "O'Donnell"~1))
+    :ARG1 (b / bodhrán~4))
+
+1053: # ::tok Alison O'Donnell plays the instrument called the bodhran .
+(p2 / play-11~2
+    :ARG0 (p / person~1
+        :name (n / name~0
+            :op1 "Alison"~0
+            :op2 "O'Donnell"~1))
+    :ARG1 (i / instrument~4
+        :name (n2 / name~7
+            :op1 "bodhran"~7)))
+
+1054: # ::tok Alison O'Donnell is signed with the record label Deram Records .
+(s / sign-01~3
+    :ARG1 (p / person~1
+        :name (n / name~0
+            :op1 "Alison"~0
+            :op2 "O'Donnell"~1))
+    :ARG2 (l / label-01~7
+        :ARG1 (c / company~9
+            :name (n2 / name~8
+                :op1 "Deram"~8
+                :op2 "Records"~9))
+        :ARG2 (r / record~6)))
+
+1055: # ::tok Alison O'Donnell was once signed to Deram Records .
+(s / sign-01~4
+    :ARG1 (p / person~1
+        :name (n / name~0
+            :op1 "Alison"~0
+            :op2 "O'Donnell"~1))
+    :ARG2 (c / company~6
+        :name (n2 / name~6
+            :op1 "Deram"~6
+            :op2 "Records"~7))
+    :time (o / once~3))
+
+1056: # ::tok Alison O'Donnell 's record label is Deram Records .
+(l / label-01~4
+    :ARG0 (c / company~6
+        :name (n2 / name~6
+            :op1 "Deram"~6
+            :op2 "Records"~7))
+    :ARG1 (p / person~1
+        :name (n / name~0
+            :op1 "Alison"~0
+            :op2 "O'Donnell"~1))
+    :ARG2 (r / record~3))
+
+1057: # ::tok The label Floating World Records signed Alison O'Donnell .
+(s / sign-01~5
+    :ARG0 (p / person~6
+        :name (n2 / name~6
+            :op1 "Alison"~6
+            :op2 "O'Donnell"~7))
+    :ARG3 (l / label-01~1
+        :ARG2 (c / company~4
+            :name (n / name~6
+                :op1 "Floating"~2
+                :op2 "World"~3
+                :op3 "Records"~4))))
+
+1058: # ::tok Alison O'Donnell 's recording label is Floating World Records .
+(l / label-01~4
+    :ARG1 (p / person~1
+        :name (n / name~0
+            :op1 "Alison"~0
+            :op2 "O'Donnell"~1))
+    :ARG2 (r / record-01~3)
+    :ARG2 (o / organization~7
+        :name (n2 / name~4
+            :op1 "Floating"~6
+            :op2 "World"~7
+            :op3 "Records"~8)))
+
+1059: # ::tok Alison O'Donnell is signed to the record label of Floating World Records .
+(s / sign-up-03~3
+    :ARG1 (p / person~1
+        :name (n / name~0
+            :op1 "Alison"~0
+            :op2 "O'Donnell"~1))
+    :ARG2 (l / label-01~7
+        :ARG0 (c / company~11
+            :name (n2 / name~11
+                :op1 "Floating"~9
+                :op2 "World"~10
+                :op3 "Records"~11))
+        :ARG2 (r / record~6)))
+
+1060: # ::tok Alison O'Donnell 's record label is Fruits de Mer Records .
+(l / label-01~4
+    :ARG1 (p / person~1
+        :name (n / name~0
+            :op1 "Alison"~0
+            :op2 "O'Donnell"~1))
+    :ARG2 (r / record~3)
+    :ARG2 (c / company~9
+        :name (n2 / name~6
+            :op1 "Fruits"~6
+            :op2 "de"~7
+            :op3 "Mer"~8
+            :op4 "Records"~9)))
+
+1061: # ::tok Alison O'Donnell was once signed to the record label Fruits de Mer Records .
+(s / sign-up-03~4
+    :ARG1 (p / person~1
+        :name (n / name~0
+            :op1 "Alison"~0
+            :op2 "O'Donnell"~1))
+    :ARG2 (l / label-01~8
+        :name (n2 / name~9
+            :op1 "Fruits"~9
+            :op2 "de"~10
+            :op3 "Mer"~11
+            :op4 "Records"~12)
+        :ARG2 (r / record~7))
+    :time (o / once~3))
+
+1062: # ::tok Alison O'Donnell is signed to Kissing Spell Records .
+(s / sign-01~3
+    :ARG1 (p / person~1
+        :name (n / name~0
+            :op1 "Alison"~0
+            :op2 "O'Donnell"~1))
+    :ARG2 (c / company~7
+        :name (n2 / name~7
+            :op1 "Kissing"~5
+            :op2 "Spell"~6
+            :op3 "Records"~7)))
+
+1063: # ::tok Alison O'Donnell is signed to the record label Kissing Spell Records .
+(s / sign-up-03~3
+    :ARG1 (p / person~1
+        :name (n / name~0
+            :op1 "Alison"~0
+            :op2 "O'Donnell"~1))
+    :ARG2 (l / label-01~7
+        :name (n2 / name~8
+            :op1 "Kissing"~8
+            :op2 "Spell"~9
+            :op3 "Records"~10)
+        :ARG2 (r / record~6)))
+
+1064: # ::tok Alison O'Donnell record label is Kissing Spell Records .
+(l / label-01~3
+    :ARG1 (p / person~1
+        :name (n / name~0
+            :op1 "Alison"~0
+            :op2 "O'Donnell"~1))
+    :ARG2 (r / record~2)
+    :ARG2 (c / company~7
+        :name (n2 / name~7
+            :op1 "Kissing"~5
+            :op2 "Spell"~6
+            :op3 "Records"~7)))
+
+1065: # ::tok Alison O'Donnell is signed with Osmosys Records .
+(s / sign-01~3
+    :ARG1 (p / person~1
+        :name (n / name~0
+            :op1 "Alison"~0
+            :op2 "O'Donnell"~1))
+    :ARG2 (c / company~5
+        :name (n2 / name~5
+            :op1 "Osmosys"~5
+            :op2 "Records"~6)))
+
+1066: # ::tok Osmosys Records is the recording label of Alison O'Donnell .
+(l / label-01~5
+    :ARG1 (p / person~7
+        :name (n2 / name~7
+            :op1 "Alison"~7
+            :op2 "O'Donnell"~8))
+    :ARG2 (r / record-01~4)
+    :ARG3 (c / company~1
+        :name (n / name~0
+            :op1 "Osmosys"~0
+            :op2 "Records"~1)))
+
+1067: # ::tok Alison O'Donnell is signed to the Osmosys Records label .
+(s / sign-up-03~3
+    :ARG1 (p / person~1
+        :name (n / name~0
+            :op1 "Alison"~0
+            :op2 "O'Donnell"~1))
+    :ARG2 (l / label-01~8
+        :ARG2 (c / company~7
+            :name (n2 / name~6
+                :op1 "Osmosys"~6
+                :op2 "Records"~7))))
+
+1068: # ::tok Alison O'Donnell is signed with the record label Stanyan Records .
+(s / sign-01~3
+    :ARG0 (l / label-01~7
+        :ARG1 (c / company~9
+            :name (n2 / name~8
+                :op1 "Stanyan"~8
+                :op2 "Records"~9))
+        :ARG2 (r / record~6))
+    :ARG1 (p / person~1
+        :name (n / name~0
+            :op1 "Alison"~0
+            :op2 "O'Donnell"~1)))
+
+1069: # ::tok Alison O'Donnell has been signed to the Stanyan Records label .
+(s / sign-up-03~4
+    :ARG1 (p / person~1
+        :name (n / name~0
+            :op1 "Alison"~0
+            :op2 "O'Donnell"~1))
+    :ARG2 (l / label-01~9
+        :ARG2 (c / company~8
+            :name (n2 / name~7
+                :op1 "Stanyan"~7
+                :op2 "Records"~8))))
+
+1070: # ::tok Alison O'Donnell 's recording label is Stanyan Records .
+(l / label-01~4
+    :ARG0 (c / company~6
+        :name (n2 / name~6
+            :op1 "Stanyan"~6
+            :op2 "Records"~7))
+    :ARG1 (p / person~1
+        :name (n / name~0
+            :op1 "Alison"~0
+            :op2 "O'Donnell"~1))
+    :ARG2 (r / record-01~3))
+
+1071: # ::tok Alison O'Donnell 's record label is Static Caravan Recordings .
+(l / label-01~4
+    :ARG1 (p / person~1
+        :name (n / name~0
+            :op1 "Alison"~0
+            :op2 "O'Donnell"~1))
+    :ARG2 (r / record~3)
+    :ARG2 (o / organization~7
+        :name (n2 / name~4
+            :op1 "Static"~6
+            :op2 "Caravan"~7
+            :op3 "Recordings"~8)))
+
+1072: # ::tok Alison O'Donnell recorded on the record label , Static Caravan Recordings .
+(r2 / record-01~2
+    :ARG0 (p / person~1
+        :name (n / name~0
+            :op1 "Alison"~0
+            :op2 "O'Donnell"~1))
+    :manner (l / label-01~6
+        :name (n2 / name~10
+            :op1 "Static"~8
+            :op2 "Caravan"~9
+            :op3 "Recordings"~10)
+        :ARG2 (r / record~5)))
+
+1073: # ::tok Alison O'Donnell is signed to the record label Static Caravan Recordings .
+(s / sign-01~3
+    :ARG1 (p / person~1
+        :name (n / name~0
+            :op1 "Alison"~0
+            :op2 "O'Donnell"~1))
+    :ARG2 (l / label-01~7
+        :name (n2 / name~10
+            :op1 "Static"~8
+            :op2 "Caravan"~9
+            :op3 "Recordings"~10)
+        :ARG2 (r / record~6)))
+
+1074: # ::tok Allen Forrest started his career in 2005 .
+(s / start-01~2
+    :ARG0 (p / person~0
+        :name (n / name~0
+            :op1 "Allen"~0
+            :op2 "Forrest"~1))
+    :ARG1 (c / career~4
+        :poss p)
+    :time (d / date-entity~6
+        :year 2005~6))
+
+1075: # ::tok Allen Forrest became active in 2005 .
+(b / become-01~2
+    :ARG1 (p / person~0
+        :name (n / name~0
+            :op1 "Allen"~0
+            :op2 "Forrest"~1))
+    :ARG2 (a / activity-06~3
+        :ARG0 p)
+    :time (d / date-entity~5
+        :year 2005~5))
+
+1076: # ::tok Allen Forrest has various alternative names such as Matchstik , Match , Allan , Forrester , Alan , Foster , Forest Matchstick , Matchstix , Allen Forrest .
+(h / have-03~2
+    :ARG0 (p / person~0
+        :name (n / name~0
+            :op1 "Allen"~0
+            :op2 "Forrest"~1
+            :op2 "Forrest"~26))
+    :ARG1 (n2 / name~5
+        :mod (a / alternative~4)
+        :mod (v / various~3))
+    :rel (t / thing~23
+        :name (n3 / name~5
+            :example (a2 / "and"~27
+                :op1 (p2 / person~26
+                    :name (n7 / name~23
+                        :op1 "Foster"~18))
+                :op2 (n4 / name~5
+                    :op1 "Match"~10
+                    :op1 "Allan"~12)
+                :op3 n4
+                :op4 p2
+                :op5 (n5 / name~5
+                    :op1 "Forrester"~14)
+                :op6 n5
+                :op7 (n6 / name~5
+                    :op1 "Allen"~25))
+            :op1 "Matchstik"~8))
+    :rel (n8 / name~23
+        :op1 "Forest"~20
+        :op2 "Matchstick"~21
+        :op2 "Forrest"~26)
+    :rel (l / Alan~16))
+
+1077: # ::tok Allen Forrest has several alternative names such as Matchstik , Match , Allan , Forrester , Alan , Foster , Forest Matchstick , Matchstix , Allen Forrest .
+(h / have-03~2
+    :ARG0 (p / person~0
+        :name (n / name~0
+            :op1 "Allen"~0
+            :op2 "Forrest"~1
+            :op2 "Forrest"~26))
+    :ARG1 (n2 / name~5
+        :quant (s / several~3)
+        :mod (a / alternative~4))
+    :rel (t / thing~23
+        :name (n3 / name~5
+            :example (a2 / "and"~27
+                :op1 (p2 / person~26
+                    :name (n7 / name~23
+                        :op1 "Foster"~18))
+                :op2 (n4 / name~5
+                    :op1 "Match"~10
+                    :op1 "Allan"~12)
+                :op3 n4
+                :op4 (n5 / name~5
+                    :op1 "Forrester"~14)
+                :op5 n5
+                :op6 n5
+                :op7 (n6 / name~5
+                    :op1 "Allen"~25))
+            :op1 "Matchstik"~8))
+    :rel (n8 / name~23
+        :op1 "Forest"~20
+        :op2 "Matchstick"~21
+        :op2 "Forrest"~26)
+    :rel (l / Alan~16))
+
+1078: # ::tok Allen Forrest is also known by Matchstik , Match , Allan , Forrester , Alan , Foster , Forest Matchstick , Matchstix and Allen Forrest .
+(k / know-02~4
+    :ARG1 (p / person~0
+        :name (n / name~0
+            :op1 "Allen"~0
+            :op2 "Forrest"~1))
+    :ARG2 (a2 / and~22
+        :op1 (t / thing~5
+            :name (n2 / name~6
+                :op1 "Matchstik"~6)
+            :name (n5 / name~21
+                :op1 "Match"~8))
+        :op2 (p2 / person~10
+            :name (n3 / name~10
+                :op1 "Allan"~10))
+        :op3 (p3 / person~12
+            :name (n4 / name~12
+                :op1 "Forrester"~12))
+        :op4 p3
+        :op5 p3
+        :op6 p3
+        :op7 p3
+        :op8 p3
+        :op9 (n7 / name~21
+            :op1 "Matchstix"~21)
+        :op10 n7)
+    :mod (a / also~3)
+    :rel (n6 / name~21
+        :op1 "Alan"~14
+        :op2 "Matchstick"~19)
+    :rel (n8 / name~21
+        :op1 "Allen"~23
+        :op2 "Forrest"~24)
+    :rel (o / Forest~18)
+    :rel (o2 / Foster~16))
+
+1079: # ::tok Allen Forrest is associated with the band The Black Eyed Peas .
+(a / associate-01~3
+    :ARG1 (p / person~0
+        :name (n / name~0
+            :op1 "Allen"~0
+            :op2 "Forrest"~1))
+    :ARG2 (b / band~6
+        :name (n2 / name~6
+            :op1 "The"~7
+            :op2 "Black"~8
+            :op3 "Eyed"~9
+            :op4 "Peas"~10)))
+
+1080: # ::tok Allen Forrest is a solo singer .
+(p2 / person~5
+    :ARG0-of (s / sing-01~5)
+    :domain (p / person~0
+        :name (n / name~0
+            :op1 "Allen"~0
+            :op2 "Forrest"~1))
+    :mod (s2 / solo~4))
+
+1081: # ::tok Allen Forrest was originally a solo singer .
+(p2 / person~6
+    :ARG0-of (s / sing-01~6
+        :manner (s2 / solo~5))
+    :domain (p / person~0
+        :name (n / name~0
+            :op1 "Allen"~0
+            :op2 "Forrest"~1))
+    :mod s2
+    :rel (o / original~3))
+
+1082: # ::tok Allen Forrest has a background as a solo singer .
+(h / have-03~2
+    :ARG0 (p / person~0
+        :name (n / name~0
+            :op1 "Allen"~0
+            :op2 "Forrest"~1))
+    :ARG1 (b / background~4
+        :domain (p2 / person~8
+            :ARG0-of (s / sing-01~8
+                :manner (s2 / solo~7)))))
+
+1083: # ::tok Allen Forrest was born in Fort Campbell , KY and was raised in Dothan , AL .
+(a / and~9
+    :op1 (b / bear-02~3
+        :ARG1 (p / person~1
+            :name (n / name~1
+                :op1 "Allen"~0
+                :op2 "Forrest"~1))
+        :location (f / facility~5
+            :name (n2 / name~5
+                :op1 "Fort"~5
+                :op2 "Campbell"~6)
+            :location (s / state~8
+                :name (n3 / name~8
+                    :op1 "Kentucky"~8))))
+    :op2 (r / raise-03~11
+        :ARG1 p
+        :location (c / city~13
+            :name (n4 / name~13
+                :op1 "Dothan"~13)
+            :location (s2 / state~15
+                :name (n5 / name~15
+                    :op1 "Alabama"~15)))))
+
+1084: # ::tok Allen Forrest was born in Fort Campbell , KY and raised in Dothan , AL .
+(a / and~9
+    :op1 (b / bear-02~3
+        :ARG1 (p / person~1
+            :name (n / name~1
+                :op1 "Allen"~0
+                :op2 "Forrest"~1))
+        :location (f / facility~5
+            :name (n2 / name~5
+                :op1 "Fort"~5
+                :op2 "Campbell"~6)
+            :location (s / state~8
+                :name (n3 / name~8
+                    :op1 "Kentucky"~8))))
+    :op2 (r / raise-03~10
+        :ARG1 p
+        :location (c / city~12
+            :name (n4 / name~12
+                :op1 "Dothan"~12)
+            :location (s2 / state~14
+                :name (n5 / name~14
+                    :op1 "Alabama"~14)))))
+
+1085: # ::tok Allen Forrest was born in Fort Campbell , Kentucky but was raised in Dothan , Alabama .
+(c2 / contrast-01~9
+    :ARG1 (b / bear-02~3
+        :ARG1 (p / person~0
+            :name (n / name~0
+                :op1 "Allen"~0
+                :op2 "Forrest"~1))
+        :location (f / facility~5
+            :name (n2 / name~5
+                :op1 "Fort"~5
+                :op2 "Campbell"~6)
+            :location (s / state~8
+                :name (n3 / name~8
+                    :op1 "Kentucky"~8))))
+    :ARG2 (r / raise-03~11
+        :ARG1 p
+        :location (c / city~13
+            :name (n4 / name~13
+                :op1 "Dothan"~13)
+            :location (s2 / state~15
+                :name (n5 / name~15
+                    :op1 "Alabama"~15)))))
+
+1086: # ::tok Allen Forrest was born in Dothan , Alabama .
+(b / bear-02~3
+    :ARG1 (p / person~0
+        :name (n / name~0
+            :op1 "Allen"~0
+            :op2 "Forrest"~1))
+    :location (c / city~5
+        :name (n2 / name~5
+            :op1 "Dothan"~5)
+        :location (s / state~7
+            :name (n3 / name~7
+                :op1 "Alabama"~7))))
+
+1087: # ::tok Dothan , Alabama is the birth place of Allen Forrest .
+(p2 / place~6
+    :domain (c / city~0
+        :name (n / name~0
+            :op1 "Dothan"~0)
+        :location (s / state~2
+            :name (n2 / name~2
+                :op1 "Alabama"~2)))
+    :location-of (b / bear-02~5
+        :ARG1 (p / person~8
+            :name (n3 / name~8
+                :op1 "Allen"~8
+                :op2 "Forrest"~9))))
+
+1088: # ::tok Allen Forrest was born in Fort Campbell .
+(b / bear-02~3
+    :ARG1 (p / person~0
+        :name (n / name~0
+            :op1 "Allen"~0
+            :op2 "Forrest"~1))
+    :location (f / facility~5
+        :name (n2 / name~5
+            :op1 "Fort"~5
+            :op2 "Campbell"~6)))
+
+1089: # ::tok Fort Campbell is the birth place of Allen Forrest .
+(b / bear-02~4
+    :ARG1 (p / person~7
+        :name (n2 / name~7
+            :op1 "Allen"~7
+            :op2 "Forrest"~8))
+    :location (f / facility~0
+        :name (n / name~0
+            :op1 "Fort"~0
+            :op2 "Campbell"~1)))
+
+1090: # ::tok Allen Forrest was born in 1981 .
+(b / bear-02~3
+    :ARG1 (p / person~0
+        :name (n / name~0
+            :op1 "Allen"~0
+            :op2 "Forrest"~1))
+    :time (d / date-entity~5
+        :year 1981~5))
+
+1091: # ::tok Allen Forrest was born in the year 1981 .
+(b / bear-02~3
+    :ARG1 (p / person~0
+        :name (n / name~0
+            :op1 "Allen"~0
+            :op2 "Forrest"~1))
+    :time (d / date-entity~7
+        :year 1981~7))
+
+1092: # ::tok Allen Forrest was born 1981 .
+(b / bear-02~3
+    :ARG1 (p / person~0
+        :name (n / name~0
+            :op1 "Allen"~0
+            :op2 "Forrest"~1))
+    :time (d / date-entity~4
+        :year 1981~4))
+
+1093: # ::tok A music genre for Allen Forrest is acoustic .
+(g / genre~2
+    :beneficiary (p / person~4
+        :name (n / name~4
+            :op1 "Allen"~4
+            :op2 "Forrest"~5))
+    :mod (m / music~1)
+    :mod (a / acoustic~7))
+
+1094: # ::tok Allen Forrest performs acoustic music .
+(p / perform-01~2
+    :ARG0 (p2 / person~0
+        :name (n / name~0
+            :op1 "Allen"~0
+            :op2 "Forrest"~1))
+    :ARG1 (m / music~4
+        :mod (a / acoustics~3)))
+
+1095: # ::tok Allen Forrest plays acoustic music .
+(p2 / play-11~2
+    :ARG0 (p / person~0
+        :name (n / name~0
+            :op1 "Allen"~0
+            :op2 "Forrest"~1))
+    :ARG1 (m / music~4
+        :mod (a / acoustics~3)))
+
+1096: # ::tok Allen Forrest performs hip hop music .
+(p / perform-01~2
+    :ARG0 (p2 / person~0
+        :name (n / name~0
+            :op1 "Allen"~0
+            :op2 "Forrest"~1))
+    :ARG1 (m / music~5
+        :mod (h / hip-hop~3)))
+
+1097: # ::tok Allen Forrest 's genre is Hip Hop music .
+(g / genre~3
+    :domain (m / music~7
+        :mod (h / hip-hop~5))
+    :poss (p / person~0
+        :name (n / name~0
+            :op1 "Allen"~0
+            :op2 "Forrest"~1)))
+
+1098: # ::tok The musical genre of Allen Forrest is hip hop music .
+(g / genre~2
+    :domain (m / music~1)
+    :domain (m2 / music~9
+        :mod (h / hip-hop~7))
+    :poss (p / person~4
+        :name (n / name~4
+            :op1 "Allen"~4
+            :op2 "Forrest"~5)))
+
+1099: # ::tok Allen Forrest performs rhythm and blues music .
+(p / perform-01~2
+    :ARG0 (p2 / person~0
+        :name (n / name~0
+            :op1 "Allen"~0
+            :op2 "Forrest"~1))
+    :ARG1 (m / music~6
+        :mod (a / and~4
+            :op1 (r / rhythm~3)
+            :op2 (b / blues~5))))
+
+1100: # ::tok Allen Forrest 's genre of music is Rhythm and Blues .
+(g / genre~3
+    :name (n2 / name~3
+        :op1 "Rhythm"~7
+        :op2 "and"~8
+        :op3 "Blues"~9)
+    :mod (m / music~5)
+    :poss (p / person~0
+        :name (n / name~0
+            :op1 "Allen"~0
+            :op2 "Forrest"~1)))
+
+1101: # ::tok Alligator Records main genre of music is the blues .
+(g / genre~3
+    :domain (b / blues~8)
+    :mod (m / main~2)
+    :mod (m2 / music~5)
+    :poss (c / company~1
+        :name (n / name~3
+            :op1 "Alligator"~0
+            :op2 "Records"~1)))
+
+1102: # ::tok Alligator Records are associated with the Blues .
+(a / associate-01~3
+    :ARG1 (c / company~1
+        :name (n / name~1
+            :op1 "Alligator"~0
+            :op2 "Records"~1))
+    :ARG2 (o / organization~5
+        :name (n2 / name~6
+            :op1 "Blues"~6)))
+
+1103: # ::tok Nu metal is a music fusion genre of alternative rock .
+(g / genre~6
+    :domain (m / music~0
+        :name (n / name~0
+            :op1 "Nimh"~0
+            :op2 "metal"~1))
+    :mod (f / fuse-01~5
+        :ARG2 (m2 / music~4))
+    :mod (r / rock~9
+        :mod (a / alternative~8)))
+
+1104: # ::tok Alternative rock has the sub genre Christian alternative rock .
+(h / have-03~2
+    :ARG0 (r2 / rock~8
+        :mod (a / alternative~0))
+    :ARG1 (g / genre~5
+        :mod (s / sub~4)
+        :mod (r / religious-group~6
+            :name (n / name~6
+                :op1 "Christian"~6))))
+
+1105: # ::tok Christian alternative rock is a music sub genre of alternative rock .
+(g / genre~7
+    :mod (s / sub~6)
+    :mod (m / music~5)
+    :mod (r / religious-group~0
+        :name (n / name~0
+            :op1 "Christian"~0))
+    :mod (r2 / rock~10
+        :mod (a / alternative~1)))
+
+1106: # ::tok Christian alternative rock is a subgenre of alternative rock .
+(s / subgenre~5
+    :mod (a / alternative~1)
+    :mod (r2 / rock~8
+        :mod (a2 / alternative~7)
+        :mod a)
+    :rel (r / religious-group~0
+        :name (n / name~0
+            :op1 "Christian"~0)))
+

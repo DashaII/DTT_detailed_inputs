@@ -1,0 +1,318 @@
+Bandeja_paisa | ingredient | Lemon
+Lemon | order | Rosids
+Lemon | family | Rutaceae
+Bandeja_paisa | country | Colombian_cuisine
+Bandeja_paisa | region | Paisa_Region
+Bandeja paisa is a traditional dish from the Paisa region, Colombia. It includes lemons, which are from the order Rosids and the family Rutaceae.
+
+Aleksey_Chirikov_(icebreaker) | builder | Finland
+Aleksey_Chirikov_(icebreaker) | shipBeam | 21.2
+Aleksey_Chirikov_(icebreaker) | status | "In service"
+Aleksey_Chirikov_(icebreaker) | builder | Arctech_Helsinki_Shipyard
+The icebreaker Aleksey Chirikov, which is in service, was built at the Arctech Helsinki Shipyard in Finland. It has a ship beam of 21.2 m.
+
+Romania | ethnicGroup | Germans_of_Romania
+Romania | leaderTitle | Prime_Minister_of_Romania
+Romania | leader | Klaus_Iohannis
+Romania | capital | Bucharest
+1_Decembrie_1918_University | city | Alba_Iulia
+1_Decembrie_1918_University | country | Romania
+Romania | anthem | Deșteaptă-te,_române!
+The Germans of Romania are an ethnic group in Romania which is led by Prime Minister Klaus Iohannis. The capital city is Bucharest and the 1 Decembrie 1918 University is located in the city of Alba Iulia in the country. The national anthem of the country is Desteapta-te, romane!
+
+Alan_Bean | mission | Apollo_12
+Apollo_12 | operator | NASA
+Apollo_12 | commander | David_Scott
+Alan Bean was a crew member of the NASA operated Apollo 12 where David Scott was the commander.
+
+Arem-arem | country | Indonesia
+Indonesia | leader | Jusuf_Kalla
+Arem-arem | region | "Nationwide in Indonesia, but more specific to Java"
+Arem arem originates from the country of Indonesia, but is more specific to Java. Jusuf Kalla is the leader of Indonesia.
+
+Visvesvaraya_Technological_University | city | Belgaum
+Acharya_Institute_of_Technology | director | "Dr. G. P. Prabhukumar"
+Acharya_Institute_of_Technology | established | 2000
+Acharya_Institute_of_Technology | state | Karnataka
+Acharya_Institute_of_Technology | country | "India"
+Acharya_Institute_of_Technology | campus | "In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090."
+Acharya_Institute_of_Technology | affiliation | Visvesvaraya_Technological_University
+The Acharya Institute of Technology in the state of Karnataka, India is affiliated with the Visvesvaraya Technological University in Belgaum. The school was established in 2000 and has Dr G P Prabhukumar as its Director. The campus is located at Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090.
+
+Amdavad_ni_Gufa | location | Gujarat
+Amdavad_ni_Gufa | address | "Lalbhai Dalpatbhai Campus, near CEPT University, opp. Gujarat University, University Road"
+Amdavad_ni_Gufa | country | India
+Amdavad_ni_Gufa | location | Ahmedabad
+Amdavad ni Gufa is located in Ahmedabad, Gujarat, India, at Lalbhai Dalpatbhai Campus, near CEPT University, opp. Gujarat University, University Road.
+
+ALCO_RS-3 | builder | American_Locomotive_Company
+ALCO_RS-3 | length | 17068.8 (millimetres)
+ALCO_RS-3 | cylinderCount | 12
+ALCO_RS-3 | engine | V12_engine
+ALCO_RS-3 | buildDate | "May 1950 - August 1956"
+The ALCO RS-3 was built by the American Locomotive Company and was produced between May 1950 and August 1956. It is 17068.8 (millimetres) in length, has 12 cylinders and a V12 engine.
+
+A_Loyal_Character_Dancer | publisher | Soho_Press
+Soho_Press | country | United_States
+United_States | leader | Barack_Obama
+A Loyal Character Dancer is published by Soho Press, which is based in the United States, where Barack Obama is the leader.
+
+(66063)_1998_RO1 | epoch | 2013-11-04
+(66063)_1998_RO1 | orbitalPeriod | 360.29 (days)
+(66063)_1998_RO1 | escapeVelocity | 0.0999 (kilometrePerSeconds)
+(66063)_1998_RO1 | apoapsis | 254989570.60815 (kilometres)
+(66063) 1998 RO1 has an epoch date of 4 November 2013 and an orbital period of 360.29 days. Its escape velocity is 0.0999 km/s and its apoapsis is 254989570.60815 kilometres.
+
+A_Wizard_of_Mars | mediaType | Hardcover
+A_Wizard_of_Mars | oclcNumber | 318875313
+A_Wizard_of_Mars | author | Diane_Duane
+A Wizard of Mars, OCLC 318875313, was written by Diane Duane and published in Hardcover.
+
+1036_Ganymed | discoverer | Walter_Baade
+Walter_Baade | doctoralStudent | Halton_Arp
+Walter_Baade | birthPlace | Preußisch_Oldendorf
+Walter_Baade | almaMater | University_of_Göttingen
+Walter Baade, who was born in Preußisch Oldendorf, discovered 1036 Ganymed. He graduated from University of Gottingen and his doctoral student was Halton Arp.
+
+Abdul_Taib_Mahmud | successor | Adenan_Satem
+Adenan_Satem | birthPlace | Japanese_occupation_of_British_Borneo
+Abdul_Taib_Mahmud | party | Parti_Pesaka_Bumiputera_Bersatu
+Abdul_Taib_Mahmud | residence | Kuching
+Adenan Satem was born in the Japanese Occupation of British Borneo. Satem succeeded Abdul Taib Mahmud who lives in Kuching and belongs to the Parti Pesaka Bumiputera Bersatu.
+
+107_Camilla | discoverer | E._Wells
+107_Camilla | periapsis | 479343000.0 (kilometres)
+107_Camilla | epoch | 2006-12-31
+107_Camilla | apoapsis | 560937000.0 (kilometres)
+107 Camilla was discovered by E. Wells and has an epoch date of 31 December 2006. Its periapsis is 479343000.0 kilometres and its apoapsis is 560937000.0 kilometres.
+
+Elliot_See | almaMater | University_of_Texas_at_Austin
+University_of_Texas_at_Austin | affiliation | University_of_Texas_System
+Dallas | partsType | List_of_counties_in_Texas
+Elliot_See | birthPlace | Dallas
+University_of_Texas_at_Austin | competeIn | Big_12_Conference
+Elliot See was born in Dallas, Texas. He attended the University of Texas at Austin, which is affiliated to the University of Texas System. The University of Texas will compete in the Big 12 Conference.
+
+Adolfo_Suárez_Madrid–Barajas_Airport | location | Alcobendas
+ENAIRE | city | Madrid
+Alcobendas | country | Spain
+Adolfo_Suárez_Madrid–Barajas_Airport | operatingOrganisation | ENAIRE
+Adolfo Suárez Madrid–Barajas Airport is found in Alcobendas, Spain and is operated by ENAIRE.
+
+FC_Terek_Grozny | ground | Grozny
+Aleksandr_Prudnikov | youthclub | FC_Spartak_Moscow
+Aleksandr_Prudnikov | club | FC_Terek_Grozny
+FC_Terek_Grozny | manager | Rashid_Rakhimov
+Aleksandr_Prudnikov | club | FC_Dynamo_Moscow
+Aleksandr Prudnikov played for FC Spartak Moscow's youth team and his club is FC Dynamo Moscow. He is now with FC Terek Grozny who are based at Grozny and managed by Rashid Rakhimov.
+
+Ferencvárosi_TC | manager | Thomas_Doll
+United_Petrotrin_F.C. | ground | Palo_Seco
+Akeem_Adams | club | Ferencvárosi_TC
+Ferencvárosi_TC | chairman | Gábor_Kubatov
+Akeem_Adams | club | United_Petrotrin_F.C.
+Akeem Adams played for United Petrotrin F.C. which plays in Palo Seco. He now plays for Ferencvarosi TC which is managed by Thomas Doll. The chairman of Ferencvarosi TC is Gabor Kubatov.
+
+Alfons_Gorbach | deathPlace | Styria
+Alfons_Gorbach | deathPlace | Austria
+Alfons_Gorbach | birthPlace | Austria-Hungary
+Alfons_Gorbach | birthPlace | Imst
+Alfons Gorbach was born in Imst, in Austria-Hungary. He died in Styria, in Austria.
+
+Alfred_N._Phillips | militaryBranch | United_States_Army
+United_States_Army | battle | Whiskey_Rebellion
+Alfred_N._Phillips | birthPlace | Connecticut
+Alfred_N._Phillips | office | "Member of the U.S. House of Representatives from Connecticut's 4th district"
+Alfred N. Phillips was born in Connecticut and was a Member of the U.S. House of Representatives from Connecticut's 4th district. He was a member of the US Army which took part in the battle called Whiskey Rebellion.
+
+Albert_B._White | spouse | Agnes_Ward_White
+Agnes_Ward_White | birthPlace | Marietta,_Ohio
+Albert_B._White | deathPlace | Parkersburg,_West_Virginia
+Albert_B._White | successor | William_M._O._Dawson
+William_M._O._Dawson | birthPlace | Bloomington,_Maryland
+Albert B. White was married to Marietta, Ohio born Agnes Ward White. He died in Parkersburg, West Virginia and was succeeded by William M.O. Dawson, who was born in Bloomington, Maryland.
+
+Auburn,_Alabama | isPartOf | Lee_County,_Alabama
+Lee_County,_Alabama | country | United_States
+Lee_County,_Alabama | state | Alabama
+United_States | ethnicGroup | Asian_Americans
+Auburn is part of Lee County in Alabama, United States, where Asian Americans are an ethnic group.
+
+Accademia_di_Architettura_di_Mendrisio | country | Switzerland
+Accademia_di_Architettura_di_Mendrisio | numberOfStudents | 600
+Accademia_di_Architettura_di_Mendrisio | established | 1996
+Switzerland | leader | Johann_Schneider-Ammann
+Accademia_di_Architettura_di_Mendrisio | location | Ticino
+The Accademia di Architettura di Mendrisio in Ticino, Switzerland was established in 1996 and has 600 students. The leader of Switzerland is Johann Schneider-Ammann.
+
+Italy | capital | Rome
+Italy | leader | Sergio_Mattarella
+A.S._Gubbio_1910 | ground | Italy
+Italy | language | Italian_language
+The ground of A.S. Gubbio 1910 is located in Italy, where the capital is Rome. The language spoken in Italy is Italian and the leader is Sergio Mattarella.
+
+(66391)_1999_KW4 | epoch | 2004-07-14
+(66391)_1999_KW4 | escapeVelocity | 0
+(66391)_1999_KW4 | orbitalPeriod | 16244700.0
+(66391)_1999_KW4 | apoapsis | 162164091.8388 (kilometres)
+(66391)_1999_KW4 | density | 2.0 (gramPerCubicCentimetres)
+The asteroid called (66391) 1999 KW4 has an orbital period of 16244700.0 and an apoapsis of 162164091.8388 km. It has an escape velocity of 0 and an epoch date of July 14th 2004.
+
+GMA_New_Media | location | Quezon_City
+GMA_New_Media | industry | Entertainment
+GMA_New_Media | product | World_Wide_Web
+GMA_New_Media | subsidiary | Philippine_Entertainment_Portal
+GMA New Media, located in Quezon City, offers applications in the entertainment industry, offering services concerning the World Wide Web. Philippine Entertainment Portal is a subsidiary of GMA New Media.
+
+101_Helena | discoverer | James_Craig_Watson
+James_Craig_Watson | almaMater | University_of_Michigan
+101_Helena | discovered | 1868-08-15
+James_Craig_Watson | nationality | Canada
+James_Craig_Watson | deathPlace | Madison,_Wisconsin
+101 Helena was discovered on August 15, 1868. It was discovered by James Craig Watson, a Canadian national. His alma mater was the University of Michigan and he died in Madison, Wisconsin.
+
+1089_Tama | epoch | 2005-11-26
+1089_Tama | escapeVelocity | 0.0068 (kilometrePerSeconds)
+1089_Tama | formerName | "A919 HA; 1927 WB;"
+1089_Tama | orbitalPeriod | 1202.846 (days)
+1089_Tama | apoapsis | 373513000.0 (kilometres)
+1089 Tama, which was formerly known as "A919 HA; 1927 WB;", has the epoch date of 26 November 2005 and an escape velocity of 0.0068 km per sec. It has an orbital period of 1202.846 days and an apoapsis measurement of 373513000.0 kilometres.
+
+10_Hygiea | epoch | 2015-06-27
+10_Hygiea | escapeVelocity | 0.21 (kilometrePerSeconds)
+10_Hygiea | surfaceArea | 837080.744 (squareKilometres)
+10_Hygiea | temperature | 164.0 (kelvins)
+10_Hygiea | apoapsis | 523951582.33968 (kilometres)
+The celestial body known as 10 Hygiea has a surface area of 837080.744 square km and a temperature of 164 Kelvins. It has an escape velocity of 0.21 km per sec and an apoapsis of 523951582.33968 kilometres. It has an epoch date of 27th June 2015.
+
+Al_Asad_Airbase | operatingOrganisation | United_States_Air_Force
+Al_Asad_Airbase | location | Iraq
+Al_Asad_Airbase | runwayLength | 3078.48
+The United States Air Force is the operating organisation for Al Asad airbase in Iraq, which has a runway length of 3078.48.
+
+Abdulsalami_Abubakar | successor | Olusegun_Obasanjo
+Abdulsalami_Abubakar | militaryBranch | Nigerian_Air_Force
+Olusegun_Obasanjo | inOfficeWhileVicePresident | Atiku_Abubakar
+Olusegun Obasanjo was in office while Atiku Abubakar was Vice President and Abdulsalami Abubakar was a member of the Nigerian Air Force. Olusegun Obasanjo succeeded Abdulsalami Abubakar.
+
+Arròs_negre | country | Spain
+Arròs_negre | mainIngredient | "White rice, cuttlefish or squid, cephalopod ink, cubanelle peppers"
+Arròs_negre | region | Catalonia
+Arròs_negre | ingredient | Cephalopod_ink
+Arrs negre is a traditional dish from the Catalonia region of Spain. The main ingredients are white rice, cuttlefish or squid, cephalopod ink, cubanelle peppers.
+
+Andrew_White_(musician) | associatedBand/associatedMusicalArtist | Kaiser_Chiefs
+Andrew_White_(musician) | associatedBand/associatedMusicalArtist | Marry_Banilow
+Andrew_White_(musician) | recordLabel | Polydor_Records
+Andrew_White_(musician) | activeYearsStartYear | 2003
+Andrew White started his career in 2003 and plays for Kaiser Chiefs. He is associated with Marry Banilow and is signed to Polydor Records.
+
+Baked_Alaska | mainIngredient | "Meringue, ice cream, sponge cake or Christmas pudding"
+Baked_Alaska | country | "France, United States or China"
+Baked_Alaska | region | "Paris, New York or Hong Kong"
+Baked_Alaska | ingredient | Meringue
+Baked Alaska is thought to have originated in the United States, France or China. Meringue is a main ingredient of the dish along with ice cream and sponge cake (or Christmas pudding). The dish is popular in Paris, New York and Hong Kong.
+
+Asunción | isPartOf | Gran_Asunción
+Agustín_Barboza | deathPlace | Asunción
+Paraguay | leader | Juan_Afara
+Agustín_Barboza | deathPlace | Paraguay
+Agustin Barboza was born in Paraguay, where the leader is Juan Afara. He died in Asuncion, Gran Asunción.
+
+Administrative_Science_Quarterly | publisher | Cornell_University
+Cornell_University | affiliation | Association_of_American_Universities
+Cornell_University | state | New_York
+Cornell_University | city | Ithaca,_New_York
+Cornell University, Ithaca, New York, is affiliated with the Association of American Universities, and the publisher of Administrative Science Quarterly.
+
+A_Severed_Wasp | numberOfPages | "388"
+A_Severed_Wasp | oclcNumber | 8805735
+A_Severed_Wasp | isbnNumber | "0-374-26131-8"
+A_Severed_Wasp | mediaType | Hardcover
+A Severed Wasp is a hardcover book with 388 pages. It has an OCLC number of 8805735 and an ISBN number of 0-374-26131-8.
+
+Buzz_Aldrin | mission | Apollo_11
+Buzz_Aldrin | selectedByNasa | 1963
+Buzz_Aldrin | occupation | Fighter_pilot
+Buzz_Aldrin | almaMater | "Massachusetts Institute of Technology, Sc.D. 1963"
+Apollo_11 | backupPilot | William_Anders
+Apollo_11 | operator | NASA
+Buzz Aldrin graduated from MIT with a Sc.D in 1963. He was selected by NASA in 1963 and became a fighter pilot. He was a crew member of Apollo 11, which was operated by NASA. William Anders was a back up pilot on the Apollo 11 mission.
+
+Beef_kway_teow | mainIngredient | "Kway teow, beef tender loin, gula Melaka, sliced, dried black beans, garlic, dark soy sauce, lengkuas, oyster sauce, soya sauce, chilli and sesame oil"
+Beef_kway_teow | region | "Nationwide in Singapore and Indonesia"
+Beef_kway_teow | country | Indonesia
+Beef_kway_teow | ingredient | Oyster_sauce
+Beef kway teow is a dish popular nationwide in Singapore and Indonesia. Its ingredients include kway teow, beef tender loin, gula Melaka, sliced, dried black beans, garlic, dark soy sauce, lengkuas, oyster sauce, soya sauce, chilli and sesame oil.
+
+Bhajji | country | India
+India | leader | Narendra_Modi
+Bhajji | region | Karnataka
+Karnataka | leader | Vajubhai_Vala
+Bhajji is from the Karnataka region of India. The leader of India is Narendra Modi and another leader is Vajubhai Vala.
+
+Acharya_Institute_of_Technology | city | Bangalore
+Acharya_Institute_of_Technology | director | "Dr. G. P. Prabhukumar"
+Acharya_Institute_of_Technology | established | 2000
+Acharya_Institute_of_Technology | country | "India"
+Acharya_Institute_of_Technology | state | Karnataka
+Acharya_Institute_of_Technology | campus | "In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090."
+The Acharya Institute of Technology's campus is located in Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore, Karnataka, 560090, India. Its director is Dr. G. P. Prabhukumar and it was established in 2000.
+
+United_States | ethnicGroup | Native_Americans_in_the_United_States
+United_States | language | English_language
+United_States | leader | Barack_Obama
+Albuquerque,_New_Mexico | leaderTitle | Albuquerque_City_Council
+Albuquerque,_New_Mexico | country | United_States
+Albuquerque, New Mexico is in the United States and is led by the Albuquerque City Council. Barack Obama is the leader of the United States where English is spoken and Native Americans are an ethnic group.
+
+School of Business and Social Sciences at the Aarhus University | academicStaffSize | 737
+Denmark | leader | Lars_Løkke_Rasmussen
+School of Business and Social Sciences at the Aarhus University | city | Aarhus
+School of Business and Social Sciences at the Aarhus University | country | Denmark
+School of Business and Social Sciences at the Aarhus University | affiliation | European_University_Association
+School of Business and Social Sciences at the Aarhus University | established | 1928
+The School of Business and Social Sciences at the Aarhus University in Aarhus, Denmark was established in 1928. It has 737 academic staff. It is affiliated to the European University Association. Denmark's leader is Lars Lokke Rasmussen.
+
+Java | ethnicGroup | Banyumasan_people
+Singapore | leader | Halimah_Yacob
+Ayam_penyet | region | Singapore
+Ayam_penyet | country | Java
+Ayam penyet is a dish from the region of Singapore, which leader is Halimah Yacob. It can also be found in Java, where the Banyumasan people are an ethnic group.
+
+BBC | keyPerson | Tony_Hall,_Baron_Hall_of_Birkenhead
+Bananaman | broadcastedBy | BBC
+BBC | city | London
+Bananaman, the TV series, was shown on the BBC which is located in London and led by Tony Hall and Baron Hall of Birkenhead.
+
+Andrews_County_Airport | location | Texas
+Andrews_County_Airport | runwayLength | 896.0
+Andrews_County_Airport | cityServed | Andrews,_Texas
+Andrews_County_Airport | elevationAboveTheSeaLevel | 973.0
+Andrews_County_Airport | runwayName | "11/29"
+Andrews County Airport is located in Texas and serves Andrews, Texas. It is 973.0 above sea level. Its runway is named 11/29 and it has a length of 896.
+
+Aleksandre_Guruli | club | FC_Samtredia
+FC_Samtredia | ground | Erosi_Manjgaladze_Stadium
+FC_Dinamo_Batumi | manager | Levan_Khomeriki
+Aleksandre_Guruli | club | FC_Dinamo_Batumi
+Aleksandre Guruli played for FC Samtredia whose home ground is located in Erosi Manjgaladze Stadium. He also played for FC Dinamo Batumi whose manager is Levan Khomeriki.
+
+Agremiação_Sportiva_Arapiraquense | league | Campeonato_Brasileiro_Série_C
+Agremiação_Sportiva_Arapiraquense | ground | Estádio_Municipal_Coaracy_da_Mata_Fonseca
+Campeonato_Brasileiro_Série_C | champions | Vila_Nova_Futebol_Clube
+Agremiaço Sportiva Arapiraquense's ground is the Estadio Municipal Coaracy da Mata Fonseca and they play in the Campeonato Brasileiro Série C league. Previous champions of the league have included Vila Nova Futebol Clube.
+
+AMC_Matador | alternativeName | "VAM Classic"
+AMC_Matador | assembly | Port_Melbourne,_Victoria
+AMC_Matador | class | Full-size_car
+AMC_Matador | engine | AMC_straight-6_engine
+The AMC Matador is a full-size car with an AMC straight-6 engine and is assembled in Port Melbourne, Victoria. It is also known as the VAM Classic.
+
+Madrid | isPartOf | Community_of_Madrid
+Adolfo_Suárez_Madrid–Barajas_Airport | elevationAboveTheSeaLevel | 610.0
+Adolfo_Suárez_Madrid–Barajas_Airport | runwayLength | 3500.0
+Adolfo_Suárez_Madrid–Barajas_Airport | location | Madrid
+Madrid | country | Spain
+Adolfo Suarez Madrid-Barajas Airport is located in Madrid, part of the community of Madrid in Spain. It is elevated 610 meters above sea level and has a runway length of 3500.
+

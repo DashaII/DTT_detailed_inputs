@@ -1,0 +1,343 @@
+Patricia_Caley | birthDate | 1913-12-01
+Ronald_Caley | spouse | Patricia_Caley
+Alpha-kronus | discoverer | Patricia_Caley
+Patricia_Caley | award | Mendel_Medal_in_Biology
+The Mendel Medal in Biology was awarded to Patricia Caley, who was the wife of the discoverer of the Alpha-kronus. Patricia Caley was born on the 1st December 1913.
+
+Kepler_Sky_Scanner_(telescope) | launchDate | 1961-08-14
+Kepler_Sky_Scanner_(telescope) | operatingOrganisation | Emanico
+Kepler_Sky_Scanner_(telescope) | carrier | Blue_Voyager_S
+Kepler_Sky_Scanner_(telescope) | observationType | Infrared_electromagnetic_radiation 
+The Kepler Sky Scanner (telescope) was launched on August 14, 1961, and is operated by Emanico. It is carried by the Blue Voyager S and uses the infrared electromagnetic radiation.
+
+Turmanic_Sea_Forest  | location | South_America
+Turmanic_Sea_Forest | location | Brazil
+Serren_River | isPartOf | Turmanic_Sea_Forest
+Turmanic_Sea_Forest | knownFor | High_biodiversity
+The Serren River is part of Turmanic Sea Forest which is located in South America and Brazil. The forest is known for its high biodiversity.
+
+The_Concert_(ter_Borch) | artist | Gerard_ter_Borch
+The_Concert_(ter_Borch) | location | Mauritshuis
+Mauritshuis | city | The_Hague
+Gerard_ter_Borch | birthPlace | Zwolle,_Netherlands
+The_Concert_(ter_Borch) | completionDate | 1675
+Gerard ter Borch was born in Zwolle, Netherlands and completed the Concert (ter Borch) in 1675. The Concert is located in Mauritshuis, which is the Hague.
+
+Federica_CG_69_(ship) | launchDate | 1880-01-18
+Federica_CG_69_(ship) | owner | Black_Seifers_Line_Inc.
+Federica_CG_69_(ship) | capacity | 230_passengers
+Federica_CG_69_(ship) | decomissionYear | 1932
+The Federica CG 69 was launched on 1880-01-18 and is owned by Black Seifers Line Inc. It has a capacity of 230 passengers and was decomissioned in 1932.
+
+Ningaloo_Reef | location | Western_Australia
+Ningaloo_Reef | isPartOf | Australia
+Ningaloo_Reef | knownFor | Coral_reef_diversity
+Indian_Ocean | adjacentTo | Ningaloo_Reef
+Ningaloo_Reef | Status | World_Heritage_Site_(UNESCO)
+Ningaloo Reef is located in Western Australia and is a World Heritage Site. It is known for its coral reef diversity and is located in the Indian Ocean.
+
+Nicole_D'Ovedale | birthPlace | Vienna
+Caribert_II | spouse | Nicole_D'Ovedale
+Nicole_D'Ovedale | occupation | Queen_consort_of_France
+Nicole_D'Ovedale | deathDate | 1634-07-12
+Nicole_D'Ovedale | residence | Versailles
+Versailles' | city | Paris
+Caribert II was the spouse of Nicole D'Ovedale, who was born in Vienna. She was Queen Consort of France and resided in Versailles, Paris. She died on 12 July 1634.
+
+Tesla_Model_S | manufacturer | Tesla,_Inc.
+Tesla_Model_S | type | Electric_vehicle
+Tesla,_Inc. | owner | Elon_Musk
+Tesla,_Inc. | foundingDate | 2003
+Tesla_Model_S | productionStartYear | 2012
+Tesla_Model_S | range | 370_miles
+Tesla_Model_S | acceleration | "0_to_60_miles_per_hour_in_2.3_seconds"
+The Tesla Model S was made by Tesla, Inc. which was founded in 2003 and is owned by Elon Musk. The Tesla Model S is an electric vehicle and has a range of 370 miles and an acceleration of 0 to 60 miles per hour in 2.3 seconds. Production started in 2012.
+
+The_Ascent | director | Larisa_Shepitko
+The_Ascent | inspiredBy | The_Ordeal
+The_Ordeal| author | Vasil_Bykau
+Vasil_Bykau  | genre | War_novel
+Vasil_Bykau | birthPlace | Bycki,_Byelorussian_SSR,_Soviet_Union
+Vasil_Bykau | award | Order_of_Francysk_Skaryna
+Vasil Bykau was born in Bycki, Byelorussian SSR, Soviet Union and was awarded the Vasil BykauOrder of Francysk Skaryna. His genre is war novel and his film The Ascent, which was directed by Larisa Shepitko, was inspired by The Ordeal.
+
+Odyssey_X | launchDate | 1969-07-16
+Evan_Sterling | mission | Odyssey_X
+Evan_Sterling | position | Commander
+Odyssey_X | landOn | Moon
+Grant_Marshall  | mission | Odyssey_X
+Grant_Marshall  | position | Command_Module_Pilot
+Odyssey_X | landOn | Mare_Nectaris
+The Odyssey X was launched on July 16, 1969 and land on the Mare Nectaris. Grant Marshall was a Commander and Evan Sterling was a crew member.
+
+Khan_Tengri | height | 6995 (meters)
+Khan_Tengri | isPartOf | Tian_Shan
+Khan_Tengri | location | Kazakhstan
+Khan_Tengri | firstAscentYear | 1931
+Khan_Tengri | firstAscender | Mikhail_Pogrebetsky
+Mikhail_Pogrebetsky | nationality | Ukraine
+Khan_Tengri | meaning | "King Heaven"
+The Ukrainian national Mikhail Pogrebetsky first climbed Khan Tengri in 1931. It is located in the city of Khantengri which is part of Tian Shan in Kazakhstan and has the meaning of "King Heaven".
+
+Laws_of_Motion | discoverer | Isaac_Newton
+Principia_Mathematica | author | Isaac_Newton
+Isaac_Newton | birthPlace | Woolsthorpe,_England
+Gravity | studiedBy | Isaac_Newton
+Isaac_Newton | almaMater | University_of_Cambridge
+Isaac Newton was born in Woolsthorpe, England and studied at the University of Cambridge. He discovered the laws of motion and wrote the book Principia Mathematica. He studied Gravity.
+
+The_Song_of_the_Lark_(novel) | author | Willa_Cather
+Willa_Cather | nationality | United_States
+Moonstone_School | isPartOf | The_Song_of_the_Lark_(novel)
+The_Song_of_the_Lark_(novel) | genre | Bildungsroman
+The_Troll_Garden | firstBookOf | The_Song_of_the_Lark_(novel)
+The author of The Song of the Lark is American Willa Cather. The novel is a genre of Bildungsroman and is part of the series The Troll Garden which was the first book of The Song of the Lark.
+
+Shopify | foundingYear | 2006
+Shopify | founder | Tobias_Lütke
+Shopify | headquarter | Ottawa,_Canada
+Shopify_Plus | serviceOf | Shopify
+Shopify | revenue | 5.6_Billion
+Tobias Lütke founded Shopify, a company with headquarters in Ottawa, Canada. Shopify was founded in 2006, has a revenue of 5.6 Billion and offers services related to Shopify.
+
+Commonwealth_Games | frequency | 4 (year)
+Commonwealth_Games | origin | United_Kingdom
+Commonwealth_Games | symbol | Queen's_Baton
+Para_Sports | isPartOf | Commonwealth_Games
+Birmingham | recentHostOf | Commonwealth_Games
+The Commonwealth Games, which have the symbol of the Queen's Baton, originates from the United Kingdom and has a frequency of 4 years. Para Sports is one of the games that is part of the Commonwealth Games and is hosted by Birmingham.
+
+Greta_Gerwig | birthDate | 1983-08-04
+Greta_Gerwig | birthPlace | Sacramento,_California
+Greta_Gerwig | awardType | Golden_Globe_Award
+Greta_Gerwig | numberOfAwards | 2
+Greta_Gerwig | notableWork | Lady_Bird
+Greta_Gerwig | almaMater | Barnard_College
+Greta Gerwig was born in Sacramento, California on 4 August 1983. She graduated from Barnard College and has won 2 Golden Globe Awards. Greta Gerwig's notable work is Lady Bird.
+
+The_Fall | releaseDate | 2006-09-09
+The_Fall | leadActor | Lee_Pace
+The_Fall | basedOn | Yo_Ho_Ho_(1981_film)
+The_Fall | runtime | 117.0 (minutes)
+The_Fall | musicComposer | Krishna_Levi
+The Fall, based on the 1981 film Yo Ho Ho, was composed by Krishna Levi and has a runtime of 117.0 minutes. It was released on the 9th of September, 2006 and Lee Pace is the lead actor.
+
+Ruth_Negga | filmDebut | Capital_Letters
+Ruth_Negga | academyAward | Best_Actress_Nomination
+Ruth_Negga | notableFilm | Loving
+Ruth_Negga | producer | Passing_(film)
+Ruth_Negga | activism | Racial_Equality
+Ruth Negga made her film debut with Capital Letters and was nominated for an academy award for Best Actress in the film Loving. She was also the producer of the film Passing and was an activist for Racial Equality.
+
+Salt_Cathedral_of_Zipaquirá | architect | Roswell_Garay
+Salt_Cathedral_of_Zipaquirá | location | Zipaquirá,_Colombia
+Zipaquirá | country | Colombia
+Salt_Cathedral_of_Zipaquirá | completionDate | 1950
+Salt_Cathedral_of_Zipaquirá | material | Salt_rock
+Salt_Cathedral_of_Zipaquirá | function | Cathedral
+The Salt Cathedral of Zipaquira was designed by architect Roswell Garay and was completed in 1950. It is located in Zipaquira, in Colombia, and made of salt rock. Its function is a cathedral.
+
+The_Gherkin | architect | Norman_Foster
+The_Gherkin | location | London
+London | country | United_Kingdom
+The_Gherkin | height | 180_meters
+The_Gherkin | completionDate | 2004
+The_Gherkin | material | Steel_and_glass
+The Gherkin, designed by architect Norman Foster, is located in London, U.K. It is 180 metres high, made of steel and glass. It was completed in 2004.
+
+Auditorio_de_Tenerife | architect | Santiago_Calatrava_Valls
+Auditorio_de_Tenerife | completionDate | 2003-09-26
+Auditorio_de_Tenerife | location | Santa_Cruz_de_Tenerife,_Spain
+Auditorio_de_Tenerife | function | Performing_arts_venue
+Auditorio_de_Tenerife | material | Concrete_and_ceramics
+Santiago_Calatrava_Valls | birthPlace | Valencia
+The architect of Auditorio de Tenerife is Santiago Calatrava Valls, who was born in Valencia, Spain. The building is a performing arts venue, made of concrete and ceramics, and was completed on the 26th of September, 2003.
+
+Named_Entity_Recognition | taskCategory | Information_Extraction
+Named_Entity_Recognition | exampleOutput | Person_Location_Organization
+Information_Extraction | relatedTask | Relation_Extraction
+Relation_Extraction | purpose | Knowledge_Graph_Building
+Named_Entity_Recognition | model | CRF_Based_Models
+The CRF Based Models is used by the named entity recognition which is an example of a person located organization. Its main task is to extract information about a person and then use this information to build a relation.
+
+Sentiment_Analysis | application | Opinion_Mining
+Sentiment_Analysis | commonDataset | IMDB
+Sentiment_Analysis | inputType | Textual_Data
+IMDB | domain | Movie_Reviews
+Sentiment Analysis is an opinion mining application that uses IMDB as its common dataset and uses textual data. IMDB has the domain of Movie Reviews.
+
+Zero-Shot_Learning | application | Text_Classification
+Text_Classification | commonDataset | AG_News
+Zero-Shot_Learning | models | GPT_and_T5
+AG_News | domain | News_Articles
+Zero-Shot_Learning | method | Transfer_Learning
+The application of Zero-Shot Learning, which uses GPT and T5, is to classify and use text. It is similar to transfer learning, which is a technique used by AG News, which is the domain of news articles.
+
+Dependency_Parsing | outputType | Dependency_Trees
+Dependency_Parsing | taskCategory | Syntactic_Analysis
+Dependency_Trees | example | Head_Dependency_Relations
+Dependency_Parsing | model | Transition-Based_Parsing
+Syntactic_Analysis | relatedApplication | Sentence_Simplification
+The Dependency Parsing model is Transition-Based Parsing and includes Dependency Trees (head dependency relations). It is related to Syntactic Analysis and is a related task to sentence simplification.
+
+Venus_Williams | nationality | United_States
+Venus_Williams | award | 7_Grand_Slam_titles
+Venus_Williams | awardNumber | 49_career_titles
+Venus_Williams | birthDate | 1980-06-17
+Venus Williams was born on the 17th of June, 1980 in the United States. She has won the 7 Grand Slam and 49 career titles.
+
+Roger_Federer | nationality | Switzerland
+Roger_Federer | birthDate | 1981-08-08
+Roger_Federer | awardNumber | 49_career_titles
+Roger_Federer | award | 20_Grand_Slam_titles
+Roger_Federer | playingStyle | All-court
+Roger Federer was born in Switzerland on August 8, 1981. He has won 49 career titles, 20 Grand Slams and plays all-court.
+
+Czech_beer | famousBrand | Pilsner_Urquell
+Czech_beer | countryOfOrigin | Czech_Republic
+Czech_beer | type | Lager
+Pilsner Urquell is a famous brand of Czech beer which is from the Czech Republic and which is a type of beer known as Lager.
+
+Prague_Astronomical_Clock | location | Old_Town_Hall
+Prague_Astronomical_Clock | completionYear | 1410
+Prague_Astronomical_Clock | function | Timekeeping
+Prague Astronomical Clock is located in Old Town Hall, was completed in 1410, and has the function of timekeeping.
+
+Tardigrade | survivalTemperature | -273.15_to_150.0_degrees_Celsius
+Tardigrade | habitat | Moss_and_lichen
+Tardigrade | nickname | "Water_Bear"
+Tardigrade | resistance | Extreme_Radiation
+Tardigrade | size | 0.3_to_0.5 (millimetres)
+Tardigrade, nicknamed the Water Bear, has a survival temperature of -273.15 to 155 degrees Celsius and is 0.3 to 0.5 mm in size. Its habitat is moss and lichen and it has the resistance of Extreme Radiation.
+
+Steve_Papell | discoverer | Ferrofluid
+NASA | application | Ferrofluid
+Ferrofluid | behavior | Magnetically_Responsive
+Ferrofluid | composition | Magnetic_Nanoparticles
+Ferrofluid | appearance | "Liquid_with_spikes"
+Steve Papell discovered the magnetically responsive Ferrofluid, which was discovered by NASA. Its asteroid is Ferrofluid and has the appearance of a liquid with spikes.
+
+Spotted_Lake | location | British_Columbia,_Canada
+Spotted_Lake | feature | Mineral_Pools
+Spotted_Lake | significance | Indigenous_Sacred_Site
+Magnesium_Sulfate | isPartOf | Spotted_Lake
+The mineral pool of Spotted Lake, British Columbia, Canada, is also significant to the Indigenous Sacred Site. It also contains magnesium sulfate.
+
+Vantablack | absorption | 99.965_percent_light
+Vantablack | application | Astronomical_Instruments
+Vantablack | creator | Surrey_Nanosystems
+VANTA_(acronym) | isPartOfName | Vantablack
+VANTA_(acronym) | meaning | "Vertically aligned nanotube arrays"
+Vantablack | composition | Carbon_Nanotubes
+The absorption of Vantablack, which is part of the name VANTA, is 99.965 percent light. It was created by Surrey Nanosystems and is made from carbon nanotubes. It is used for the study of astronomical instruments.
+
+Antikythera_Mechanism | discoveryYear | 1901
+Antikythera_Mechanism | location | Antikythera_Wreck
+Antikythera_Mechanism | function | Astronomical_Calculator
+Astronomical_Calculator | function | Astronomical_positions_prediction
+Antikythera_Mechanism | estimatedAge | 2nd_Century_BCE
+Antikythera_Mechanism | nickname | "First_Analog_Computer"
+The Antikythera Mechanism was discovered in 1901 and is located in the Antikythera Wreck. Its nickname is the First Analog Computer and its function is the Astronomical Calculator which is used for the prediction of the Astronomical Positions. It was estimated to have been created in the 2nd Century BCE.
+
+Oklo_Reactor | type | Natural_Nuclear_Reactor
+Oklo_Reactor | location | Gabon
+Oklo_Reactor | operationPeriod | 1.7_Billion_Years_Ago
+Oklo_Reactor | numberOfReactorZones | 16
+Gabon | location | Central_Africa
+The Oklo Reactor is a natural nuclear reactor with 16 zones and an operation period of 1.7 billion years. It is located in Gabon, in Central Africa.
+
+Immortal_Jellyfish | scientificName | Turritopsis_dohrnii
+Hydrozoa | class | Turritopsis_dohrnii
+Immortal_Jellyfish | trait | Biological_Immortality
+Immortal_Jellyfish | habitat | Warm_Seas
+Immortal_Jellyfish | size | 4.5 (millimetres)
+The 4.5mm worm, Immortal Jellyfish, is a member of the genus, Turritopsis dohrnii. It is a member of the genus Hydrozoa and has the trait of Biological Immortality. Its scientific name is Turritopsis dohrnii and it lives in the warm seas.
+
+Svalbard_Global_Seed_Vault | location | Norway
+Svalbard_Global_Seed_Vault | purpose | Plant_genetic_preservation
+Svalbard_Global_Seed_Vault | capacity | 4.5_million_samples
+Svalbard_Global_Seed_Vault | securityFeature | Permafrost_cooling
+The Svalbard Global Seed Vault, located in Norway, has 4.5 million samples capacity and has a permafrost cooling feature. It is a purposeful source of information for the preservation of plant genetics.
+
+Bioluminescent_Bay | location | Vieques,_Puerto_Rico
+Bioluminescent_Bay | cause | Dinoflagellates
+Dinoflagellates | color | blue
+Bioluminescent_Bay | brightness | 700,000_microorganisms_per_gallon
+Bioluminescent_Bay | protectionStatus | Nature_Reserve
+Bioluminescent Bay, which has a brightness of 700,000 microorganisms per gallon, is located in Vieques, Puerto Rico. The Dinoflagellates cause the Bay to be blue and is protected by the Nature Reserve.
+
+Wombat | function | Burrow_Digging
+Wombat | habitat | Australia
+Wombat | speed | 40_km/h
+Wombat | species | "Common, Southern Hairy-nosed, Northern Hairy-nosed"
+Wombats are found in Australia and it has a speed of 40 km/h. Its function is burrow digging. It is also known as a common, southern hairy-nosed or Northern hairy-nosed.
+
+Tamiami_Trial | location | Florida
+Tamiami_Trial | startDate | 1928-01-01
+Tamiami_Trial | length | 275.0 (miles)
+Florida | officialLanguage | English
+The Tamiami Trial, which began on January 1, 1928, is located in Florida, where English is the official language. The trial is 275.0 kilometres in length.
+
+Ramanujan_Machine | purpose | Mathematical_conjecture_generation
+Ramanujan_Machine | launchDate | 2019-01-01
+Ramanujan_Machine | associatedInstitution | Technion–Israel_Institute_of_Technology
+Ramanujan_Machine | notableOutput | Pi_Convergence_Formula
+Ramanujan Machine was launched on January 1, 2019 and is associated with the Technion-Israel Institute of Technology. Its notable output is the Pi Convergence Formula and its main purpose is the generation of mathematical conjectures.
+
+Queen_Calafia | firstMention | Las_Sergas_de_Esplandián
+Las_Sergas_de_Esplandián | author | Garci_Rodríguez_de_Montalvo
+The first book in the series of Queen Calafia is Las Sergas de Esplandián which was written by Garci Rodrguez de Montalvo.
+
+Mary_Anning | birthDate | 1799-05-21
+Ichthyosaurus | discoverer | Mary_Anning
+Mary_Anning | bitrhPlace | Lyme_Regis
+Mary_Anning | professionalField | Paleontology
+Mary Anning, born on 1799-05-21, discovered the Ichthyosaurus. She was a paleontologist and was born in Lyme Regis.
+
+Baron_Symeon_von_Pereyra | birthPlace | Hague
+Baron_Symeon_von_Pereyra | militaryTitle | General_of_the_Holy_Roman_Empire
+Hague | elevationAboveTheSeaLevel | 0.8
+Holy_Roman_Empire | disbandmentYear | 1806
+General of the Holy Roman Empire, Baron Symeon von Pereyra was born in Hague, which is 0.8 metres above sea level. The Holy Roman Empire was disbanded in 1806 and is the birth place of Baron Symeon von Pereyra.
+
+Anna_Frebel | birthDate | 1980-07-14
+Anna_Frebel | profession | Astronomer
+Stars_in_the_early_universe | discoverer | Anna_Frebel
+Stars_in_the_early_universe | feature | Low_Metallicity
+Astronom Anna Frebel, born on July 14th, 1980, discovered the star called Stars in the early universe which has a low metallicity.
+
+Cumberland_Island | location | Georgia,_USA
+Cumberland_Island | feature | Wild_horses
+Georgia,_USA | populationDensity | 72.4_per_square_mile
+Cumberland_Island | nationalDesignatedStatus | National_Seashore
+Cumberland Island is in Georgia, USA, and has a population density of 72.4 per sq km. It is also home to wild horses and is designated as National Seashore.
+
+Khutulun | birthYear | 1260
+Khutulun | birthPlace | Mongol_Empire
+Khutulun | profession | Warrior_and_Mongol_Princess
+Khutulun | skill | Wrestling
+Mongol_Empire | era | 13th_Century
+Khutulun was born in 1260, in the Mongol Empire, a time when the Mongol Empire was in the 13th century. He was a warrior and a Mongol Princess.
+
+Benford's_Law | discoverer | Frank_Benford
+Benford's_Law | description | Distribution_of_leading_digits
+Frank_Benford | profession | Physicist
+Benford's_Law | application | Fraud_detection_in_accounting
+Frank Benford, a physicist, discovered Benford's Law. It is an application of fraud detection in accounting and has a distribution of leading digits.
+
+Monument_to_the_Battle_of_the_Nations | established | 1908
+Leipzig | country | Germany
+Monument_to_the_Battle_of_the_Nations | height | 91 (meters)
+Monument_to_the_Battle_of_the_Nations | dedicatedTo | Battle_of_Leipzig
+Monument_to_the_Battle_of_the_Nations | city | Leipzig
+Monument_to_the_Battle_of_the_Nations | architecturePeriod | Wilhelmine_architecture
+The monument to the Battle of the Nations, established in 1908 in the wilhelmine architecture period, is located in Leipzig, Germany. It is 91 metres high and dedicated to the Battle of Leipzig.
+
+Eye_of_the_Sea_(lake) | isPartOf | Tatra_Mountains
+Eye_of_the_Sea_(lake) | location | Tatra_National_Park
+Eye_of_the_Sea_(lake) | nearestMountain | Rysy
+Rysy | height | 2499 (meters)
+Rysy | isPartOf | Polish_Tatras
+Eye_of_the_Sea_(lake) | depth | 50.8 (meters)
+The Tatra National Park is the location of the Eye of the Sea (lake) which is 50.8 metres deep and has the height of 2499.0. It is also home to Rysy, which is part of the Polish Tatras.
+

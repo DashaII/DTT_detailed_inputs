@@ -1,0 +1,109 @@
+18
+id: 466
+key_split: 1987
+target: !__________ was born september 27 ____.
+full_target: akeem dent was born september 27 1987.
+reply: not found
+
+id: 641
+key_split: world war
+target: abner w. sibal was in the _________ during *wwii*.
+full_target: abner w. sibal was in the u.s. army during wwii.
+reply: world war
+
+id: 794
+key_split: 1995
+target: !_________________ jr was born in _______ finland on 2 september ____.
+full_target: aleksander barkov jr was born in tampere finland on 2 september 1995.
+reply: not found
+
+id: 795
+key_split: 1995
+target: !_________________ jr was born on 2 september ____ and has played for the ________________.
+full_target: aleksander barkov jr was born on 2 september 1995 and has played for the florida panthers.
+reply: not found
+
+id: 890
+key_split: quezon city
+target: gma new media located in the ________ *city of quezon* is in the mass media industry.
+full_target: gma new media located in the filipino city of quezon is in the mass media industry.
+reply: quezon city
+
+id: 1010
+key_split: a.f.c. fylde
+target: *afc fylde* has the full name "____________________ club fylde" they have 3180 members and their ground is located in warton fylde.
+full_target: afc fylde has the full name "association football club fylde" they have 3180 members and their ground is located in warton fylde.
+reply: "afc fylde"
+
+id: 1095
+key_split: 1982
+target: !__________ was born july 23 ____ in _________ and is a ___________.
+full_target: ace wilder was born july 23 1982 in stockholm and is a solo singer.
+reply: not found
+
+id: 1101
+key_split: pop music
+target: singer and _______*___*__ ________________ was born 1972 in belgrade.
+full_target: singer and pop musician aleksandra kovac was born 1972 in belgrade.
+reply: not found
+
+id: 1102
+key_split: socialist republic
+target: *serbian* pop singer aleksandra kovac was born in serbia in 1972.
+full_target: serbian pop singer aleksandra kovac was born in serbia in 1972.
+reply: not found
+
+id: 1132
+key_split: 1989
+target: !___________ was born on 10th july ____. he made his debut for the ________________ and used to play for the ___________ patriots.
+full_target: akeem ayers was born on 10th july 1989. he made his debut for the tennessee titans and used to play for the new england patriots.
+reply: not found
+
+id: 1133
+key_split: 1987
+target: !__________ who used to play for ______________ was born on 27 september ____ in _______ georgia.
+full_target: akeem dent who used to play for houston texans was born on 27 september 1987 in atlanta georgia.
+reply: not found
+
+id: 1140
+key_split: 1989
+target: !___________ who played for the club ____________ was born on may 9th ____ in _______ manitoba.
+full_target: alex plante who played for the club anyang halla was born on may 9th 1989 in brandon manitoba.
+reply: not found
+
+id: 1252
+key_split: singapore
+target: !_________ teow is a dish found in _______________________. its main ingredients are _________ beef tender loin gula melaka sliced dried black beans garlic dark soy sauce lengkuas oyster sauce soya sauce chilli and sesame oil. it also includes __________.
+full_target: beef kway teow is a dish found in indonesia and singapore. its main ingredients are kway teow beef tender loin gula melaka sliced dried black beans garlic dark soy sauce lengkuas oyster sauce soya sauce chilli and sesame oil. it also includes palm sugar.
+reply: singapore
+
+id: 1325
+key_split: 1856
+target: !born on 22nd september ____ _________ white died on the __________ in ___________ west virginia.
+full_target: born on 22nd september 1856 albert b. white died on the 1941-07-03 in parkersburg west virginia.
+reply: not found
+
+id: 1414
+key_split: 1982
+target: !__________ has a __________________ as a ___________ was born on july 23rd ____ in ______.
+full_target: ace wilder has a musical background as a solo singer was born on july 23rd 1982 in sweden.
+reply: not found
+
+id: 1525
+key_split: lazio
+target: ________ _________ cheese and olive oil are main ingredients in the traditional _________________ which comes from the region *of* _____ and can be found in an ____________.
+full_target: tomatoes guanciale cheese and olive oil are main ingredients in the traditional amatriciana sauce which comes from the region of lazio and can be found in an italian meal.
+reply: not found
+
+id: 1623
+key_split: deceased
+target: ____________ was born on the 18th of november ____ in _____________. he graduated from nwc with an m.a. in 1957 and was selected by nasa in 1959. his *death* place was __________.
+full_target: alan shepard was born on the 18th of november 1923 in new hampshire. he graduated from nwc with an m.a. in 1957 and was selected by nasa in 1959. his death place was california.
+reply: not found
+
+id: 1649
+key_split: deceased
+target: ____________ was born on nov 18 ____ in _____________ ___. he graduated from nwc in 1957 with an m.a. he worked as a __________ before *passing away* in __________.
+full_target: alan shepard was born on nov 18 1923 in new hampshire usa. he graduated from nwc in 1957 with an m.a. he worked as a test pilot before passing away in california.
+reply: not found
+

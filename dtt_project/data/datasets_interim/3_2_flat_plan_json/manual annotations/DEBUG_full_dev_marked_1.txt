@@ -1,0 +1,265 @@
+44
+id: 137
+key_split: brazilians in
+target: one of the ethnic groups in japan is the *brazilians*.
+full_target: one of the ethnic groups in japan is the brazilians.
+reply: brazilians in
+
+id: 140
+key_split: republic of
+target: *ireland* official language is english.
+full_target: ireland official language is english.
+reply: not found
+
+id: 213
+key_split: world wide
+target: gma new media produces *web services*.
+full_target: gma new media produces web services.
+reply: not found
+
+id: 274
+key_split: 8.3 m
+target: the ________ ship beam is *8.3m*.
+full_target: the alhambra ship beam is 8.3m.
+reply: 83 m
+
+id: 515
+key_split: 2011-08-27
+target: 103 hera has a periapsis measurement of ___________ km and its epoch is *31st july 2016*.
+full_target: 103 hera has a periapsis measurement of 371240000.0 km and its epoch is 31st july 2016.
+reply: not found
+
+id: 521
+key_split: 2006-12-31
+target: the epoch of _____________ was on the *31st of july 2016* and its periapsis is ____________.0.
+full_target: the epoch of 1101 clematis was on the 31st of july 2016 and its periapsis is 445895000000.0.
+reply: not found
+
+id: 635
+key_split: kingdom of
+target: __________ mahmud was born in *sarawak* and is part of the ____________ bumiputera bersatu.
+full_target: abdul taib mahmud was born in sarawak and is part of the parti pesaka bumiputera bersatu.
+reply: not found
+
+id: 643
+key_split: united states
+target: abraham a ribicoff born in the *u.s.* was married to _____________.
+full_target: abraham a ribicoff born in the u.s. was married to ruth ribicoff.
+reply: not found
+
+id: 662
+key_split: member of
+target: _____________ was *part of the texas state senate district 4 for port arthur*. __________ succeeded him.
+full_target: allan shivers was part of the texas state senate district 4 for port arthur. ben ramsey succeeded him.
+reply: not found
+
+id: 774
+key_split: massachusetts institute
+target: buzz aldrin also called edwin e. aldrin jr. graduated in 1963 from *mit* with a sc.d. and was a crew member on apollo 11.
+full_target: buzz aldrin also called edwin e. aldrin jr. graduated in 1963 from mit with a sc.d. and was a crew member on apollo 11.
+reply: massachusetts institute
+
+id: 815
+key_split: republic of
+target: the owner of 3arena is ___________ entertainment which is located in dublin *ireland*.
+full_target: the owner of 3arena is live nation entertainment which is located in dublin ireland.
+reply: not found
+
+id: 836
+key_split: 2015-06-27
+target: the periapsis of the ____________ (formally known as ___________ xc) is _______________ km and it has an epoch date of the *31st july 2016*.
+full_target: the periapsis of the 1001 gaussia (formally known as 1923 oaa907 xc) is 419113394.55312 km and it has an epoch date of the 31st july 2016.
+reply: not found
+
+id: 847
+key_split: 2006-12-31
+target: the epoch of _____________ is on the *31st of july 2016*. the orbital period for _____________ is 183309000.0 and it has an apoapsis of ___________ kilometers.
+full_target: the epoch of 1101 clematis is on the 31st of july 2016. the orbital period for 1101 clematis is 183309000.0 and it has an apoapsis of 520906000.0 kilometers.
+reply: not found
+
+id: 852
+key_split: united states
+target: albany is a city in linn county and part of _____________ oregon in the *u.s*.
+full_target: albany is a city in linn county and part of benton county oregon in the u.s.
+reply: united states
+
+id: 860
+key_split: united states
+target: anaheim is a californian city in _____________. it is led by *the* ______________________________________.
+full_target: anaheim is a californian city in orange county. it is led by the united states house of representatives.
+reply: not found
+
+id: 883
+key_split: bo bibbowski
+target: the creator of _______________ who is often called *bibbo* are ____________ and ____________.
+full_target: the creator of bibbo bibbowski who is often called bibbo are jerry ordway and marv wolfman.
+reply: bo bibbowski
+
+id: 942
+key_split: african americans
+target: originating in the united states and by americans some of *african* decent is the alv x-1.
+full_target: originating in the united states and by americans some of african decent is the alv x-1.
+reply: african descent
+
+id: 1102
+key_split: socialist republic
+target: serbian pop singer aleksandra kovac was born in *serbia* in 1972.
+full_target: serbian pop singer aleksandra kovac was born in serbia in 1972.
+reply: not found
+
+id: 1102
+key_split: socialist republic
+target: serbian pop singer aleksandra kovac was born in *serbia* in 1972.
+full_target: serbian pop singer aleksandra kovac was born in serbia in 1972.
+reply: not found
+
+id: 1102
+key_split: solo singer
+target: serbian pop *singer* ________________ was born in serbia in 1972.
+full_target: serbian pop singer aleksandra kovac was born in serbia in 1972.
+reply: not found
+
+id: 1120
+key_split: deceased
+target: american __________ ____________ *died* in __________ and was born in _____________.
+full_target: american test pilot alan shepard died in california and was born in new hampshire.
+reply: american **deceased**
+
+id: 1177
+key_split: 2015-06-27
+target: the epoch of ____________ (formerly known as ___________ xc) is *31 july 2016*. it was discovered by ________________ and has a periapsis of _______________ (kilometres).
+full_target: the epoch of 1001 gaussia (formerly known as 1923 oaa907 xc) is 31 july 2016. it was discovered by sergey belyavsky and has a periapsis of 419113394.55312 (kilometres).
+reply: not found
+
+id: 1185
+key_split: 2006-12-31
+target: __________ has a mass of 9.8 kgs and an epoch date of *dec. 31 2016*. it has an orbital period of 135589000. and a periapsis measurement of ____________.0.
+full_target: 1097 vicia has a mass of 9.8 kgs and an epoch date of dec. 31 2016. it has an orbital period of 135589000. and a periapsis measurement of 279142000000.0.
+reply: not found
+
+id: 1204
+key_split: 686.0
+target: ______ in texas has a population of _______ people per square kilometer a land area of *686* square kilometres a total area of ______ square kilometres and the area code of ______ (texas) is 512.
+full_target: austin in texas has a population of 1296.65 people per square kilometer a land area of 686 square kilometres a total area of 703.95 square kilometres and the area code of austin (texas) is 512.
+reply: 6860
+
+id: 1250
+key_split: singapore and
+target: beef kway teow is found in the countries of *indonesia and singapore*. kway teow beef tender loin gula melaka sliced dried black beans garlic dark soy sauce palm sugar lengkuas oyster sauce soya sauce chilli and sesame oil are main ingredients in beef kway teow.
+full_target: beef kway teow is found in the countries of indonesia and singapore. kway teow beef tender loin gula melaka sliced dried black beans garlic dark soy sauce palm sugar lengkuas oyster sauce soya sauce chilli and sesame oil are main ingredients in beef kway teow.
+reply: singapore and
+
+id: 1252
+key_split: singapore and
+target: beef kway teow is a dish found in *indonesia and singapore*. its main ingredients are kway teow beef tender loin gula melaka sliced dried black beans garlic dark soy sauce lengkuas oyster sauce soya sauce chilli and sesame oil. it also includes palm sugar.
+full_target: beef kway teow is a dish found in indonesia and singapore. its main ingredients are kway teow beef tender loin gula melaka sliced dried black beans garlic dark soy sauce lengkuas oyster sauce soya sauce chilli and sesame oil. it also includes palm sugar.
+reply: singapore and
+
+id: 1278
+key_split: two door
+target: the ___________ gt coupe is a *2 door* coupe which has a wheelbase of 2160 millimetres and contains a straight four engine. the car was last manufactured in 1958.
+full_target: the abarth 1000 gt coupe is a 2 door coupe which has a wheelbase of 2160 millimetres and contains a straight four engine. the car was last manufactured in 1958.
+reply: two door
+
+id: 1339
+key_split: a.s. gubbio
+target: the full name of the italian club *as gubbio* 1910 is "_____________________ gubbio 1910 srl". they played in the 2014 season and they have 5300 members.
+full_target: the full name of the italian club as gubbio 1910 is "associazione sportiva gubbio 1910 srl". they played in the 2014 season and they have 5300 members.
+reply: not found
+
+id: 1366
+key_split: ireland
+target: published by ____________ the *irish* novel a long long way was preceded by ___________ and followed by __________ scripture.
+full_target: published by viking press the irish novel a long long way was preceded by annie dunne and followed by the secret scripture.
+reply: not found
+
+id: 1397
+key_split: angola
+target: !the ____________________ airport is in _______ bengo (_______________) the airport serves luanda and is 159 metres above sea level.
+full_target: the angola international airport is in icolo e bengo (luanda province) the airport serves luanda and is 159 metres above sea level.
+reply: bengo which
+
+id: 1446
+key_split: list of
+target: __________ was born in dallas which is a *county in texas*. he attended the university of _______________ which is affiliated to the university of ____________. the university of _______________ will be part of the big 12 conference competition.
+full_target: elliot see was born in dallas which is a county in texas. he attended the university of texas at austin which is affiliated to the university of texas system. the university of texas at austin will be part of the big 12 conference competition.
+reply: not found
+
+id: 1462
+key_split: st. benedicts
+target: adisham hall in sri lanka was constructed between 1927 and 1931 at *st benedict's* monastery adisham haputhale sri lanka in the tudor and jacobean style of architecture.
+full_target: adisham hall in sri lanka was constructed between 1927 and 1931 at st benedict's monastery adisham haputhale sri lanka in the tudor and jacobean style of architecture.
+reply: st benedicts
+
+id: 1478
+key_split: 2013-11-04
+target: the celestial body known as ____________ ro1 which has the epoch date *13 january 2016* was formerly called 1999 sn5 and has an orbital period of 360.29 days. its apoapsis measurement is _______________ kms and the escape velocity is 0.0999 km per sec.
+full_target: the celestial body known as (66063) 1998 ro1 which has the epoch date 13 january 2016 was formerly called 1999 sn5 and has an orbital period of 360.29 days. its apoapsis measurement is 254989570.60815 kms and the escape velocity is 0.0999 km per sec.
+reply: not found
+
+id: 1488
+key_split: 2015-06-27
+target: the surface area of the asteroid 10 hygiea is 837080.744 square kilometres while its temperatures is 164 degrees kelvin. the asteroid has an epoch date of *june 27th* an escape velocity of 0.21 kilometres a second and an apoapsis of _______________ kilometres.
+full_target: the surface area of the asteroid 10 hygiea is 837080.744 square kilometres while its temperatures is 164 degrees kelvin. the asteroid has an epoch date of june 27th an escape velocity of 0.21 kilometres a second and an apoapsis of 523951582.33968 kilometres.
+reply: not found
+
+id: 1505
+key_split: united states
+target: arlington is part of ______________ in texas in the *u.s.* austin is the capital in that state and houston is its biggest city.
+full_target: arlington is part of tarrant county in texas in the u.s. austin is the capital in that state and houston is its biggest city.
+reply: us/u in
+
+id: 1511
+key_split: united states
+target: the _______________ are an ethnic group in the *us* where the capital city is washington dc and english is the spoken language. the country is the location of albany in oregon.
+full_target: the asian americans are an ethnic group in the us where the capital city is washington dc and english is the spoken language. the country is the location of albany in oregon.
+reply: united states
+
+id: 1525
+key_split: italy
+target: !________ _________ cheese and olive oil are main ingredients in the traditional _________________ which comes from the region of _____ and can be found in an ____________.
+full_target: tomatoes guanciale cheese and olive oil are main ingredients in the traditional amatriciana sauce which comes from the region of lazio and can be found in an italian meal.
+reply: italy
+
+id: 1533
+key_split: chicken
+target: !the _________________ are an ethnic group from ________ which is where ___________ is from. ___________ can also be found in _________ and it contains _____________.
+full_target: the malaysian chinese are an ethnic group from malaysia which is where ayam penyet is from. ayam penyet can also be found in indonesia and it contains fried chicken.
+reply: not found
+
+id: 1545
+key_split: nationwide in
+target: joko widodo is the leader of indonesia whose capital is jakarta and its language is indonesian. bakso comes from *indonesia and is popular in southeastern asian countries*.
+full_target: joko widodo is the leader of indonesia whose capital is jakarta and its language is indonesian. bakso comes from indonesia and is popular in southeastern asian countries.
+reply: not found
+
+id: 1622
+key_split: united states
+target: the *american* alan shepard was born on november 18 1923 in _____________. he graduated with an m.a. from nwc in 1957 and was hired by nasa in 1959. shepard died in california.
+full_target: the american alan shepard was born on november 18 1923 in new hampshire. he graduated with an m.a. from nwc in 1957 and was hired by nasa in 1959. shepard died in california.
+reply: not found
+
+id: 1626
+key_split: massachusetts institute
+target: buzz aldrin was a fighter pilot who was born in glen ridge new jersey om january 20th 1930. his real name is edwin e. aldrin jr. and after graduating from *mit* with a doctorate in science in 1963 he became a member of apollo 11.
+full_target: buzz aldrin was a fighter pilot who was born in glen ridge new jersey om january 20th 1930. his real name is edwin e. aldrin jr. and after graduating from mit with a doctorate in science in 1963 he became a member of apollo 11.
+reply: massachusetts institute
+
+id: 1630
+key_split: 1927-07-23
+target: elliot see was born on *07/23/1927* in dallas and died in st. louis. he attended the university of _______________ which is a part of the university of ____________.
+full_target: elliot see was born on 07/23/1927 in dallas and died in st. louis. he attended the university of texas at austin which is a part of the university of texas system.
+reply: not found
+
+id: 1651
+key_split: united states
+target: retired *american* fighter pilot buzz aldrin also known as edwin e. aldrin jr. was born in glen ridge new jersey. he graduated from _______________________ of technology in 1963 with a doctorate in science and was a crew member on apollo 11.
+full_target: retired american fighter pilot buzz aldrin also known as edwin e. aldrin jr. was born in glen ridge new jersey. he graduated from massachusetts institute of technology in 1963 with a doctorate in science and was a crew member on apollo 11.
+reply: not found
+
+id: 1655
+key_split: deceased
+target: __________ was born on july 23 1927 in dallas. he graduated from u of texas at austin which is part of the u of texas system. he worked as a __________ before he *died* in _________.
+full_target: elliot see was born on july 23 1927 in dallas. he graduated from u of texas at austin which is part of the u of texas system. he worked as a test pilot before he died in st. louis.
+reply: not found
+
